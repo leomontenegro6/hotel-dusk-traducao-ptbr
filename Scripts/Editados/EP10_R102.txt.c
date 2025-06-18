@@ -5,7 +5,7 @@
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Ya checkin' out?
+Mano, tu é gay?
 
 
 <color white><screen left><wait no><sprite 0000103><n 0>
