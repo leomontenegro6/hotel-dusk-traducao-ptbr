@@ -1,0 +1,4881 @@
+!------------------------------------------------------!
+<r 205_R>
+<color white><screen left><wait no><sprite 0000102><n 0>
+<s 1012010>
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+So this is where wishes are
+granted, huh? My ass.
+
+<color white><screen left><wait yes><sprite 0000141><n 0>
+<color blue>Can't believe I had to listen<color white>
+<color blue>to that load of bull.<color white>
+
+<color white><screen left><wait yes><sprite 0000141><n 0>
+<color blue>Why would an old man be<color white>
+<color blue>peddling fairy tales?<color white>
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>C'mon, Hyde, forget it.<color white>
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<color blue>Just finish Ed's job and get<color white>
+<color blue>the hell out of here.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<b 0149>
+<color white><screen left><wait no><sprite 0000119><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+I put my suitcase on the
+table in the corner.
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<s 2080010>
+
+
+<b 0139>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 205_R>
+<color white><screen left><wait no><sprite 0000102><n 0>
+<s 1012010>
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+<color blue>Guess this is where I bunk<color white>
+<color blue>for the night. ...I've had<color white>
+<color blue>worse.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<b 0149>
+<color white><screen left><wait no><sprite 0000119><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+I put my suitcase on the
+table in the corner.
+
+<b 0139>
+<color white><screen left><wait no><sprite 0000102><n 0>
+<s 2080010>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<b 0136>
+<color white><screen left><wait no><sprite 0000132><n 0>
+<s 1021010>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 07>
+
+
+<color white><screen left><wait yes><sprite 0000148><n 0>
+Huh?
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Phone.
+
+
+<b 0137>
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Phone's ringing.
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Better get it.
+
+
+<b 0137>
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Phone's ringing.
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Better get it.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+My suitcase is on the
+table.
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Phone's ringing.
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Better get it.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+My suitcase is on the
+table.
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Phone's ringing.
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Better get it.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+That's a wire hanger.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+That's a wire hanger.
+
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Hmmm...thick wire. I bet<color white>
+<color blue>this'll come in handy.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The phone's ringing.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The phone's ringing.
+
+
+<b 0120>
+!------------------------------------------------------!
+<r 0000>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 12><e 21><s 1021011>
+<s 1022010>
+
+<b 0142>
+<b 0251>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+<e 23><m 033>Hi there, good-lookin'.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Glad to hear you arrived
+in one piece.
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Hey, Rachel.
+
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Right on time, I see.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Like always.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Listen, do me a favor and
+give Ed a message.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Tell him he doesn't need to
+have you checking up on me
+with every little thing.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I got my instructions. I'm on
+top of it.
+
+<b 0152>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+You're on top of it? Really?
+How refreshing.
+
+<b 0132>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Thanks for the confidence,
+Rachel. It's nice to be
+trusted. Tell Ed that, too.
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Well, I wouldn't dream to 
+speak for the boss, but I 
+trust you.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Out there all alone. Working
+hard. Busting your tail to
+get things done.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+At least I think so...
+
+
+<b 0110>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+You think so? What the hell's 
+that mean?
+
+<b 0134>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Oh, come on, Kyle! You're
+not exactly an open book!
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+That's why there are all
+those rumors...
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+What rumors?
+
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Don't act like you don't know! 
+I've heard some crazy things
+about you.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+You're an ex-cop from New
+York who was on the take
+and had to leave town?
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Or a mystery man on the
+run from some shadowy
+organization?
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+People are saying all kinds
+of things, sweetie.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Let 'em talk.
+
+
+<b 0135>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+You want to know what I
+think?
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+I think you're a handsome
+burnout who crawled into a
+bottle and never came out.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+I don't buy the whole "man of 
+mystery" bit.
+
+<b 0110>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Glad you think so highly
+of me.
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+So has the package arrived?
+
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Not yet. Maybe the
+deliveryman crawled into
+a bottle.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Hmm...
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Well, when it arrives, check
+the order sheet and give
+me a call.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Is that all that's in the
+package? An order sheet?
+
+<b 0135>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+No, there are some new
+products in there, too.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+New products? What am I
+supposed to do with them?
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+You're a salesman, Kyle.
+Try selling something.
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Oh, and those are Ed's
+orders. Not mine.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Door-to-door sales in a
+hotel? That'll be fun.
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Oh, and one more thing. I put 
+the client list in the package,
+too.
+<b 0132>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Oh, that.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+"Oh, that"? Listen, mister,
+"that" is a salesman's best
+friend! Be nice!
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+When the package arrives,
+don't just leave the client
+list in the box, all right?
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Put it in your suitcase!
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Yeah, yeah. I know.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Bye, sweetie. Don't forget
+to call.
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Yeah.
+
+
+<b 0120>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 21><s 1023010>
+
+
+<color white><screen right><wait no><sprite 0001601><n 0>
+<e 16>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0001602><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 65534FF><n 0>
+Ed usually contacts me
+through his secretary,
+Rachel.
+<color white><screen left><wait yes><sprite 65534FF><n 0>
+She's quite the looker. Always 
+willing to give me the straight
+skinny, too.
+<color white><screen right><wait no><sprite 00016FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 43><e 49>
+
+
+<b 0120>
+!------------------------------------------------------!
+<r 0000>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 12><e 21><s 1021011>
+<s 1022010>
+
+<b 0142>
+<b 0251>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+<e 23><m 033>Hello? Kyle? Hellooooooo?
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Heavy breathing, eh? Well, it
+must be you. Glad you made
+it in one piece, handsome.
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Hey, Rachel.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+You could have called when
+you got in! Some of us
+worry, you know.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Yeah, yeah. Look, I just got 
+here. Get off my case.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+And listen, do me a favor and
+give Ed a message.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Tell him he doesn't need to
+have you checking up on me
+with every little thing.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I got my instructions. I'm on
+top of it.
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+I'm not calling for Ed, Kyle.
+
+
+<b 0132>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+That so?
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Yes, it's so! I'm calling
+because I was worried.
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+I've been thinking about it
+ever since we had dinner
+on Christmas Eve.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Something's bugging you.
+
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Why would you think that?
+
+
+<b 0135>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Oh, please! I may not be a
+hard-boiled gumshoe like you 
+and Ed, but I have eyes!
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+You get that stare sometimes,
+you know? The one that says
+you're a million miles away.
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+It's nothing, Rachel.
+
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Fine. Be that way.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+But, Kyle, you're not
+exactly an open book.
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+And people are saying all kinds
+of things, sweetie, and most
+of them aren't very nice.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Like that you're an ex-cop 
+from New York who was on
+the take and split town?
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Or a mystery man on the
+run from some shadowy
+organization?
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+They talk and you listen.
+Is that it?
+
+<b 0135>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Listen, Kyle... Your past is
+yours, OK? Nothing to do
+with me. I get it.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+I just want to know you 
+better, handsome.
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+That's all.
+
+
+<b 0110>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Whatever you say.
+
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+So, um, has the package
+arrived yet?
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Not yet. Maybe some shadowy
+organization killed the
+deliveryman.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+You can be a real jackass
+sometimes, sweetie. You
+know that?
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Listen, when it arrives, check 
+the order sheet and give me 
+a call. OK?
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+All right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Is that all that's in the
+package? An order sheet?
+
+<b 0135>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+No, there are some new
+products in there, too.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+New products? What am I
+supposed to do with them?
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+You're a salesman, Kyle.
+Try selling something.
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Oh, and those are Ed's 
+orders. Not mine.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Door-to-door sales in a
+hotel? That'll be fun.
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Oh, and one more thing. I put 
+the client list in the package,
+too.
+<b 0132>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Oh, that.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+"Oh, that"? Listen, mister,
+"that" is a salesman's best
+friend! Be nice!
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+When the package arrives,
+don't just leave the client
+list in the box, all right?
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Put it in your suitcase!
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Yeah, yeah. I know.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Bye, sweetie. Don't forget
+to call.
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Yeah.
+
+
+<b 0120>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 21><s 1023010>
+
+
+<color white><screen right><wait no><sprite 0001601><n 0>
+<e 16>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0001602><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 65534FF><n 0>
+Ed usually contacts me
+through his secretary,
+Rachel.
+<color white><screen left><wait yes><sprite 65534FF><n 0>
+She doesn't know anything
+about Bradley, though. That's
+my business, not hers.
+<color white><screen right><wait no><sprite 00016FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 43><e 49>
+
+
+<b 0136>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 23>
+
+
+<color white><screen left><wait no><sprite 0000124><n 0>
+<s 1021010>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 07>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Phone again.
+
+
+<b 0120>
+<b 0136>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 12><e 21><s 1021011>
+<s 1022010>
+
+<b 0142>
+<b 0250>
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+<e 23><m 010>Hyde? This is the front
+desk.
+
+<b 0132>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+That you, Dunning?
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+Yep. So how's the room?
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+It'll do.
+
+
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+Good to hear, good to hear.
+Oh, by the way...
+
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+I forgot t'mention this when
+ya checked in, but...
+
+<b 0110>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+What?
+
+
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+I need ya t'pay yer tab up
+front.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Up front?
+
+
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+Now don't get me wrong! 
+It ain't that I don't trust
+ya or nothin'.
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+It's just...yer a first-time
+guest, and I don't know ya
+or nothin'.
+<b 0132>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Hold on. 
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+You want me to pay you
+right now?
+
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+Naw, ain't like that. Ya don't
+hafta take care of it right
+away.
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+Ya just got here after all!
+Go ahead and sit a spell.
+
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+But if ya swing by and take
+care of it before six o'clock,
+I'd be much obliged.
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+I'll be in m'office or at the
+front desk.
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Fine.
+
+
+<color white><screen right><wait yes><sprite 00002FF><n 0>
+Thanks a bunch, Hyde. Sure 
+do appreciate it.
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Sure. Whatever.
+
+
+<b 0120>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 21><s 1023010>
+
+
+<b 0136>
+<color white><screen left><wait yes><sprite 0000102><n 0>
+Cash... Where's my cash...
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 23>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Oh, right. I tossed my roll
+in my suitcase when I got
+out of the car.
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+My suitcase is sitting on the 
+table.
+
+<b 0139>
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>This suitcase looks like it's<color white>
+<color blue>about ready for the<color white>
+<color blue>boneyard.<color white>
+<color white><screen left><wait yes><sprite 0000120><n 0>
+<color blue>All the scuffs and tears...<color white>
+<color blue>It sure is showing its age.<color white>
+
+<color white><screen left><wait yes><sprite 0000114><n 0>
+<color blue>Still, it was my father's<color white>
+<color blue>suitcase, and it's been<color white>
+<color blue>with me a long time.<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Hell, I was lugging the old<color white>
+<color blue>girl around when I started<color white>
+<color blue>working for Ed.<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>My constant traveling<color white>
+<color blue>companion.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+My suitcase is sitting
+on the table.
+
+<b 0139>
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Damn key broke, and the<color white>
+<color blue>suitcase is still locked.<color white>
+
+<color white><screen left><wait yes><sprite 0000141><n 0>
+<color blue>I need something to get<color white>
+<color blue>this open.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+My suitcase is sitting
+on the table.
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<color blue>Better answer the phone.<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<color blue>Better answer the phone.<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<b 0139>
+<color white><screen left><wait yes><sprite 0000120><n 0>
+<color blue>I shoulda replaced this key<color white>
+<color blue>before I left.<color white>
+
+<color white><screen left><wait yes><sprite 0000118><n 0>
+<color blue>Thing's been sticking in the<color white>
+<color blue>lock lately.<color white>
+
+<b 0114>
+<color white><screen left><wait no><sprite 0000110><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The old key finally broke.
+
+
+<color white><screen left><wait yes><sprite 0000108><n 0>
+Dammit!
+
+
+<color white><screen left><wait yes><sprite 0000108><n 0>
+This is not what I need right 
+now.
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<b 0139>
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Now what am I going to do?<color white>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Maybe I can use some wire<color white>
+<color blue>to pick the lock.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's a phone next to the
+bed. 
+
+<b 0120>
+<b 0136>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<s 1022010>
+
+
+!------------------------------------------------------!
+<r 0000>
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+...
+
+
+<b 0135>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+<m 033>Hello, Red Crown.
+
+
+<b 0132>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Hey, Rachel. It's me.
+
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Well, hi there, sweetie. Did 
+you get the package?
+
+<b 0142>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Not yet.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+So you just called to talk to
+me? How sweet! But just
+call back when you have it. 
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+All right.
+
+<m 160>
+<b 0120>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<s 1023010>
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<s 1012010><color blue>Where is that package?<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<b 0137>
+<color white><screen left><wait no><sprite 0000124><n 0>
+<s 1013010>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<s 1013010>Huh?
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 07>
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Now what?
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+Hullo? Hey, got a package
+from the front desk.
+
+<b 0137>
+<color white><screen left><wait no><sprite 0000121><n 0>
+
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait no><sprite 0000102><n 0>
+<s 1011010>
+
+
+<color white><screen right><wait no><sprite 0001701><n 0>
+<e 28>
+
+
+<b 0115>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+I open the door and see
+the bellhop carrying a
+couple of cardboard boxes.
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+Package for ya, pal.
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+OK.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Put it down anywhere.
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+Uh, 'scuse me... I kinda got
+my hands full, ya know?
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+You want you could take
+the box on top for a sec?
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+No problem.
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait no><sprite 0000127><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+I take one of the boxes
+from the bellhop.
+
+<b 0116>
+<color white><screen left><wait no><sprite 0000123><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+I put the package down
+on the bed.
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Hey, where ya goin'?
+
+
+<b 0140>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+See ya, man! I gotta blow.
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+...I gotta blow? Wait a 
+second...
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+<color red>No, uh... I mean... I gotta<color white>
+<color red>go! Gotta go, Hyde!<color white>
+<color red>Ah, crap...<color white>
+<sprite 0000124><color red>！<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Wait a second...<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 0000>
+<!><color white><screen right><wait yes><sprite 00004FF><n 0>
+<e 42>Aw, man...
+
+
+<b 0140>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Wait a second...
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+
+
+
+<b 0140>
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Don't move!
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+Wah?!
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+That voice. I know your
+voice.
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+<e 07>Nah, that can't be.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Can't be? Why?
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+<e 07>Well, uh...
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Look at me!
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+<e 07>I gotta go!
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+<color blue>What's up with this guy?<color white>
+<color blue>What's he hiding?<color white>
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Time to get a look at his<color white>
+<color blue>face.<color white>
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+Hey.
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+<e 07>Y-yeah?
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+I said look at me!
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+I grab the bellhop's chin and
+yank his head up.
+
+<color white><screen left><wait yes><sprite 0000116><n 0>
+You!
+
+
+!------------------------------------------------------!
+<r 205_R>
+<color white><screen right><wait yes><sprite 0000408><n 0>
+Aw, man!
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I know you!
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+Dammit, man! Aw, dammit...
+
+
+<color white><screen left><wait yes><sprite 0000116><n 0>
+<s 4001010>Louie! 
+
+
+<color white><screen right><wait yes><sprite 0000412><n 0>
+<m 012>Fine, ya got me.
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+'Course, I guess there ain't
+nothin' I can do about it
+now, eh?
+<color white><screen right><wait yes><sprite 0000405><n 0>
+Long time, no see, Officer
+Hyde.
+
+<color white><screen left><wait no><sprite 0000124><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0000421><n 0>
+<e 21>
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+<color blue>Kid's name is Louis DeNonno,<color white>
+<color blue>but he'll always be Louie<color white>
+<color blue>to me.<color white>
+<color white><screen right><wait no><sprite 0000421><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Last time I saw him was the <color white>
+<color blue>winter of '76, three years<color white>
+<color blue>ago.<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>He was roaming the subways<color white>
+<color blue>of Manhattan picking pockets <color white>
+<color blue>for a living.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+<e 23>
+<e 28>
+
+<b 0140>
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Go on. Get outta here.
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+<e 42>Yeah, I'm goin'.
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+See ya around.
+
+
+<b 0137>
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+<s 1012010>The bellhop left the room.
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+Hmm...
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+I feel like I've heard that
+bellhop's voice somewhere
+before...
+!------------------------------------------------------!
+<r 205_R>
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Why are you here, Louie?
+Run out of wallets to lift
+in the Big Apple?
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+What're you doing in this
+place?
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+What's it look like, man?
+
+
+<color white><screen right><wait yes><sprite 0000405><n 0>
+I'm workin' here!
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Working? You? Bull. 
+I don't buy it.
+
+<color white><screen right><wait yes><sprite 0000403><n 0>
+That's the God's honest,
+man!
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+I <color red>got my act together<color white>!
+
+
+<sprite 0000125><color red>You got your act together?<color white>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Been three years since
+I moved out here and
+scored this gig!
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Three years...<color white>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>That's about the same time I<color white>
+<color blue>quit the force.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+How did you know I was
+here?
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Aw, man, I knew it soon as
+I saw your name on the
+package, yeah?
+<color white><screen right><wait yes><sprite 0000415><n 0>
+Package shows up for the
+cop what busted me...
+What're the odds, man?
+<color white><screen right><wait yes><sprite 0000401><n 0>
+I been here for THREE YEARS!
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Just started to put all that
+New York stuff behind
+me, ya dig?
+<color white><screen right><wait yes><sprite 0000413><n 0>
+Seeing your name was a
+total drag.<color red> <color white>I just wanted
+to<color red> forget it<color white>.
+<sprite 0000124><color red>！<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Huh?<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<!><color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<!><color white><screen right><wait yes><sprite 0000415><n 0>
+And here I been thinkin' this
+year was gonna end on a
+sweet note...
+<!><color white><screen right><wait yes><sprite 0000412><n 0>
+Can't catch a break, man.
+Never could.
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Hold on a second...
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+You wanted to forget my
+name, Louie?
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+You bet I did, man!
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+'Course, I wanna forget all
+the crap what happened
+back then.
+<color white><screen left><wait yes><sprite 0000102><n 0>
+Is that so?
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+When I first got this gig?
+Used to check the guest
+list every day.
+<color white><screen right><wait yes><sprite 0000401><n 0>
+I was a total freak show.
+Always afraid someone I
+knew would show...
+<color white><screen right><wait yes><sprite 0000401><n 0>
+It was a trip, man! You  
+woulda laughed at what
+a dork I was.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+But I got lucky, and <color red>never<color white>
+<color red>saw a name I recognized<color white>.
+...And now you show.
+<sprite 0000125><color red>No guests with my name?<color white>
+<color white><screen left><wait yes><sprite 0000117><n 0>
+As bad as all that, huh?
+
+
+<color white><screen right><wait yes><sprite 0000403><n 0>
+Yeah, man.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Seein' your name made me
+remember all kinds of lousy
+crap about New York!
+<color white><screen left><wait yes><sprite 0000102><n 0>
+Really?
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+When I first got this gig?
+Used to check the guest
+list every day.
+<color white><screen right><wait yes><sprite 0000401><n 0>
+I was a total freak show.
+Always afraid someone I
+knew would show...
+<color white><screen right><wait yes><sprite 0000401><n 0>
+It was a trip, man! You
+woulda laughed at what
+a dork I was.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+But I got lucky, and <color red>never<color white>
+<color red>saw a name I recognized<color white>.
+...But now you show.
+<sprite 0000125><color red>No guests with my name?<color white>
+<color white><screen right><wait yes><sprite 0000401><n 0>
+So what's the deal, Officer
+Hyde?
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+What you doing all the way
+out here in a crappy hotel
+like this?
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Must be a major bust you
+got lined up, right?
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Why else would a Manhattan
+cop be so far from home?
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+That's not it.
+
+
+<color white><screen right><wait yes><sprite 0000404><n 0>
+So...what? You're, like, on
+vacation? Checkin' out the
+tar pits and crap like that?
+<color white><screen left><wait yes><sprite 0000106><n 0>
+No.
+
+
+<color white><screen right><wait yes><sprite 0000411><n 0>
+Huh? Man, you're a TRIP!
+
+
+<color white><screen right><wait yes><sprite 0000411><n 0>
+I don't get you! Everything
+you say's like a riddle or
+a mystery or somethin'.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+Whatever. Not my business
+what you're doin' here.
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+You keep your secrets, and
+I'll keep mine.
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+I'm working.
+
+
+<color white><screen right><wait yes><sprite 0000404><n 0>
+HA! I knew it! What's the
+score, man? Got a major
+bust goin' down, yeah?
+<color white><screen left><wait yes><sprite 0000108><n 0>
+No, that's not it, I...
+
+
+<color white><screen right><wait yes><sprite 0000412><n 0>
+It's all right, man.
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+You wouldn't be tellin' a
+punk like me your secret
+cop stuff, right?
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+It's cool, man. I don't need
+to know why you're here
+or what you're doing.
+<color white><screen right><wait yes><sprite 0000413><n 0>
+Ain't my business.
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+<e 28>
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+What?
+
+
+<color white><screen right><wait no><sprite 0000420><n 0>
+<e 28>
+
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+What?
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+What's the problem? Why're
+you staring at me?
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Mellow out, man. No big.
+Just that...you're different
+now, ya dig?
+<color white><screen right><wait yes><sprite 0000405><n 0>
+I was gonna say somethin'
+earlier, but I didn't want
+you to freak.
+<color white><screen left><wait yes><sprite 0000124><n 0>
+What're you talking about?
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+What's different about me?
+
+
+<color white><screen right><wait yes><sprite 0000411><n 0>
+I dunno...
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Spit it out.
+
+
+<color white><screen right><wait yes><sprite 0000402><n 0>
+Just...something.
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+You got a <color red>different vibe<color white>
+about you.
+
+<sprite 0000125><color red>A different vibe?<color white>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+You got your act together?
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Yeah, man, I got tired of
+picking pockets. Big risk,
+small reward, yeah?
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Figured I was<color red> too old to<color white>
+<color red>keep workin' the streets <color white>
+like a punk.
+<sprite 0000124><color red>！<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Huh?<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<!><color white><screen right><wait yes><sprite 0000401><n 0>
+I'm not the same guy you
+knew before, man.
+
+<!><color white><screen left><wait yes><sprite 0000105><n 0>
+You got wise? That it?
+
+
+<!><color white><screen right><wait yes><sprite 0000410><n 0>
+Yeah, maybe...
+
+
+<!><color white><screen right><wait yes><sprite 0000410><n 0>
+But I ain't talking about
+it, though.
+
+<!><color white><screen right><wait yes><sprite 0000410><n 0>
+<color red>Not somethin' I'm gonna get<color white>
+<color red>into with a cop.<color white>
+
+<sprite 0000125><!><color red>What won't you talk about?<color white>
+<!><color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Oh, right...<color white>
+
+
+<!><color white><screen left><wait yes><sprite 0000114><n 0>
+<color blue>He doesn't know I quit the <color white>
+<color blue>force.<color white>
+
+<!><color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<!><color white><screen right><wait yes><sprite 0000401><n 0>
+What's up, man? Cat got your 
+tongue?
+
+<!><color white><screen left><wait yes><sprite 0000106><n 0>
+It's nothing.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Hold on.
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Something happened, didn't
+it?
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Yeah, maybe...
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+But I ain't talking about
+it.
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+<color red>Not somethin' I'm gonna<color white>
+<color red>get into with a cop.<color white>
+
+<sprite 0000125><color red>What won't you talk about?<color white>
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Oh, right...<color white>
+
+
+<color white><screen left><wait yes><sprite 0000114><n 0>
+<color blue>He doesn't know I quit the <color white>
+<color blue>force.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+What's up, man? Cat got
+your tongue?
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+It's nothing.
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Bull. You're a liar.
+
+
+<color white><screen right><wait yes><sprite 0000407><n 0>
+<e 42>What? Aw, man, now hold
+it a secｵ
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+You got a plan, I know it.
+You're not fooling me, you
+low-rent lowlife.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+W-why you sayin' that?
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Why? 
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+You're a loser, that's why!
+You're not working in this
+dump without an angle.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Man, I ain't seen you for
+years and that's how you
+wanna think?
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000407><n 0>
+Cold, brother. Real cold.
+
+
+<color white><screen right><wait yes><sprite 0000412><n 0>
+Aw... Damn it! Now I'm
+gonna get to crying...
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Crying?
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Sn-sniff...
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Still trying to play me for
+a sap, eh, Louie? Nothing
+changes.
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Your little act didn't fly
+in the past, and it's not
+gonna fly here, either.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Ain't no act, ya bum! This
+here's the real deal...
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+The real deal?
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+Yeah, ya jerk! That hurts!
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+What kinda cop says that
+to a guy what's trying to
+get his act together?
+<color white><screen right><wait yes><sprite 0000410><n 0>
+You're a dirtbag, Officer
+Hyde.
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+What don't you want to
+talk about?
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+What happened?
+
+
+<color white><screen right><wait yes><sprite 0000412><n 0>
+...
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Forget it.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+I split that scene for my
+own reasons, man.
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Got nothin' to do with you.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+You telling me you never
+heard of other guests with
+my name?
+<color white><screen right><wait yes><sprite 0000403><n 0>
+Yeah, man. That's what I'm
+tellin' ya.
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Not likely I'd forget somethin' 
+like that.
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Why you bustin' me about it, 
+anyways?
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Just something I heard from
+that old-timer at the front
+desk.
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Seems there was a guest
+with my name about six
+months back.
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Six months...?
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+No, man, I got nothin'.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+'Sides, you think I wouldn't
+remember a guest what
+had your name?
+<color white><screen left><wait yes><sprite 0000102><n 0>
+I guess...
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Different vibe? What the hell's 
+that supposed to mean?
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000411><n 0>
+Well, it's, you know...
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+C'mon, man, you gotta know 
+what I'm sayin'!
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+You got that crappy leather
+jacket and that totally
+whacked-out tie.
+<color white><screen right><wait yes><sprite 0000420><n 0>
+And your hair? Man, you got 
+serious issues there.
+
+<color white><screen right><wait yes><sprite 0000404><n 0>
+This look... It ain't like you, 
+man.
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Not like me?
+
+
+<color white><screen right><wait yes><sprite 0000403><n 0>
+Uh-huh.
+
+
+<color white><screen right><wait yes><sprite 0000404><n 0>
+The Officer Hyde I remember 
+always wore a fly black suit.
+
+<color white><screen right><wait yes><sprite 0000405><n 0>
+And the way you used to
+strut around the city?
+You had it goin' on, man!
+<color white><screen left><wait yes><sprite 0000114><n 0>
+<color blue>He's right. That's how it<color white>
+<color blue>used to be. That's who I<color white>
+<color blue>was.<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>We ruled the streets, Bradley. <color white>
+<color blue>You and me, playing the<color white>
+<color blue>heroes.<color white>
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Yeah? What else?
+
+
+<color white><screen right><wait yes><sprite 0000411><n 0>
+Well, that's it, man. I mean,
+you were...
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Spit it out, Louie.
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+You were cool, man. Even
+when you were hasslin' me, 
+you were cool.
+<color white><screen left><wait yes><sprite 0000107><n 0>
+My cool ran out.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+I changed jobs and changed
+clothes. That's it.
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Right.
+
+
+<color white><screen left><wait yes><sprite 0000114><n 0>
+...
+
+
+<color white><screen right><wait yes><sprite 0000402><n 0>
+...
+
+
+<color white><screen left><wait yes><sprite 0000401><n 0>
+What're you writing, man?
+
+
+<color white><screen left><wait yes><sprite 0000401><n 0>
+What're you looking at, man?
+
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+This gig's been goin' on too 
+long.
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+I gotta blow, man.
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+All right.
+
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+This gig's been goin' on too
+long.
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+I gotta blow, man.
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+All right.
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+But, uh, listen. Before I go,
+lemme ask you something?
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+What is it?
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+You, uh...
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+You said you changed gigs,
+yeah?
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+What's the story?
+
+
+<color white><screen left><wait yes><sprite 0000114><n 0>
+Oh, that.
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Truth, Louie?
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+I hung it up.
+
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Hung what up?
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+My badge.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+What? No way!
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+You quit the beat?!
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Yeah.
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Actually, I got canned.
+
+
+<color white><screen right><wait yes><sprite 0000407><n 0>
+You were FIRED?!
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Oh man, Officer Hyde!
+What'd you do?!
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Well...
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 46><m 160>
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 46>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 43><e 49>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 43><e 49>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 47><m 022>
+<e 44>
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 47>
+<e 44>
+
+!------------------------------------------------------!
+<r 0001>
+<color white><screen left><wait no><sprite 0001706><n 0>
+<e 28>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<e 43>This is Hyde.
+
+
+<color white><screen left><wait no><sprite 00017FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Hyde, I've got bad news.
+It's Bradley. He...
+
+<color white><screen left><wait no><sprite 0001708><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+What the hell?
+
+
+!------------------------------------------------------!
+<r 0001>
+<color white><screen left><wait no><sprite 0001715><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0001403><n 0>
+<e 28><s 1028010>
+
+
+<color white><screen left><wait no><sprite 00017FF><n 0>
+<e 45>
+
+
+<color white><screen right><wait no><sprite 00014FF><n 0>
+<e 45>
+
+
+!------------------------------------------------------!
+<r 205_L>
+!------------------------------------------------------!
+<r 205_R>
+<color white><screen left><wait no><sprite 0000124><n 0>
+<e 48><m 100>
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+<m 012>You really wanna know?
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+...No thanks, man. I'll pass.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Sounds too heavy for me.
+Maybe some other time,
+yeah?
+<color white><screen left><wait yes><sprite 0000102><n 0>
+All right.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Can't believe you're not a
+cop anymore, man. What
+a trip.
+<color white><screen right><wait yes><sprite 0000404><n 0>
+So, what's your deal now?
+
+
+<color white><screen left><wait yes><sprite 0000101><n 0>
+I sell household goods door-
+to-door.
+
+<color white><screen right><wait yes><sprite 0000407><n 0>
+C'mon! Get outta here! You're 
+a door-to-door salesman?
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Yeah.
+
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+You?
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Me.
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+So that package what I
+delivered is full'a sales
+stuff?
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Detergent and floor wax
+and hairnets? Old lady crap
+like that?
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Could be.
+
+
+<color white><screen right><wait yes><sprite 0000417><n 0>
+Whaaaaa ha ha ha ha!
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Knock it off.
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+What's so damn funny?
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+Everything, man!
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+C'mon, the famous Officer
+Hyde? A SALESMAN?
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+That's even more of a gas
+than me being a bellhop!
+
+<color white><screen right><wait yes><sprite 0000417><n 0>
+Whaaaaa ha ha ha haaaaa!
+
+
+<color white><screen left><wait yes><sprite 0000114><n 0>
+That so?
+
+
+<color white><screen right><wait yes><sprite 0000402><n 0>
+...
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Truth, Louie?
+
+
+<color white><screen right><wait yes><sprite 0000404><n 0>
+What?
+
+
+<color white><screen left><wait yes><sprite 0000114><n 0>
+...
+
+
+<color white><screen right><wait yes><sprite 0000404><n 0>
+Hey, you said you changed
+gigs, but you ain't saying...
+
+<color white><screen right><wait yes><sprite 0000405><n 0>
+You didn't QUIT, did ya?
+
+
+<color white><screen left><wait yes><sprite 0000122><n 0>
+Not like that.
+
+
+<color white><screen left><wait yes><sprite 0000101><n 0>
+I'm just in a different
+department now.
+Missing persons.
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Missing persons? Oh, that
+makes sense.
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Came all the way from
+Manhattan to the West
+Coast on a lead, huh?
+<color white><screen left><wait yes><sprite 0000101><n 0>
+Something like that.
+
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+<e 42>Hm...
+
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+All right, man, I gotta bail.
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+...Yo, Officer Hyde?
+
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+Yeah?
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+My past...
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+You know all the crap that
+happened in New York?
+All the stuff I did?
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Well, ain't nobody out here
+who knows about it, man.
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+I'd appreciate it if you'd...
+like...keep it to yourself.
+Ya know?
+<color white><screen left><wait yes><sprite 0000103><n 0>
+All right.
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 31>
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+<s 1012010>Louie leaves the room.
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 16>
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 16>
+
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+What?
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+My suitcase is on the
+table.
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+The key's broken, and the
+suitcase is still locked.
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+I need something to get
+this open...
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+My suitcase is on the
+table.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The package Louie delivered
+is on the bed.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The package the bellhop
+delivered is on the bed.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+A single brown notebook is
+inside the box.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's nothing inside the
+package.
+
+<color white><screen left><wait yes><sprite 0000120><n 0>
+Huh? What's this supposed to
+be?
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+There's no order sheet.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+This isn't Ed's package.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+That moron Louie brought
+me the wrong package!
+
+<sprite 0000125><color red>I gotta tell the front desk.<color white>
+<color white><screen left><wait no><sprite 0000119><n 0>
+
+
+
+<screen left><wait yes><sprite 0000000>I got the <color red>old notebook<color white> that
+was inside the package.
+
+<screen left><wait yes><sprite 0000000>The title written on the
+cover of the notebook
+is "The Secret Word."
+<color white><screen left><wait yes><sprite 0000120><n 0>
+Huh? What's this supposed to
+be?
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+There's no order sheet.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+This isn't Ed's package.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+That moron Louie brought
+me the wrong package!
+
+<sprite 0000125><color red>I gotta tell the front desk.<color white>
+<color white><screen left><wait no><sprite 0000119><n 0>
+
+
+
+<screen left><wait yes><sprite 0000000>I got the <color red>old notebook<color white> that
+was inside the package.
+
+<screen left><wait yes><sprite 0000000>The title written on the
+cover of the notebook
+is "The Secret Word."
+<color white><screen left><wait yes><sprite 0000120><n 0>
+Huh? What's this supposed to
+be?
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+There's no order sheet.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+This isn't Ed's package.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+That moronic bellhop
+brought me the wrong
+package.
+<sprite 0000125><color red>I gotta tell the front desk.<color white>
+<color white><screen left><wait no><sprite 0000119><n 0>
+
+
+
+<screen left><wait yes><sprite 0000000>I got the <color red>old notebook<color white> that
+was inside the package.
+
+<screen left><wait yes><sprite 0000000>The title written on the
+cover of the notebook
+is "The Secret Word."
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's a phone next to the
+bed.
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+I guess I gotta call the
+front desk.
+
+<b 0120>
+<b 0136>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<s 1022010>
+
+
+<b 0142>
+!------------------------------------------------------!
+<r 0000>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<b 0119>
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<s 1021010>...
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 07>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<b 0132>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+No answer.
+
+
+<b 0120>
+<b 0136>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<s 1021011>
+<s 1023010>
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Bet the old man's glued to<color white>
+<color blue>the TV again.<color white>
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+<color blue>Damn.<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<b 0137>
+<color white><screen left><wait no><sprite 0000124><n 0>
+<s 1013010>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 07>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Huh? Who's there?
+
+
+<b 0137>
+<color white><screen left><wait no><sprite 0000121><n 0>
+
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 28>
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait no><sprite 0000130><n 0>
+<s 1011010>
+
+
+<color white><screen right><wait no><sprite 0001701><n 0>
+<e 28>
+
+
+!------------------------------------------------------!
+<r 205_01>
+<color white><screen right><wait yes><sprite 0000818><n 0>
+Um...
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait no><sprite 0000130><n 0>
+<s 1011010>
+
+
+<color white><screen right><wait no><sprite 0001701><n 0>
+<e 28>
+
+
+!------------------------------------------------------!
+<r 205_01>
+<color white><screen right><wait no><sprite 0000221><n 0>
+
+
+
+!------------------------------------------------------!
+<r 205_01>
+<color white><screen left><wait no><sprite 0000102><n 0>
+<e 15><m 028>
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+<e 07>Hyde! I need to talk to ya!
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Oh, it's you.
+
+
+<color white><screen right><wait yes><sprite 0000206><n 0>
+I got me a complaint about
+ya from the guest in Room
+216!
+<color white><screen right><wait yes><sprite 0000206><n 0>
+Said there's somethin' fishy
+'bout ya!
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Room 216? That woman? Iris?
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+What in the hell does she
+have to complain about?
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+That lady's clueless. What
+did she say?
+
+<color white><screen right><wait yes><sprite 0000909><n 0>
+WHAT?!
+
+
+<color white><screen right><wait yes><sprite 0000909><n 0>
+Did you say I'm<color red> clueless<color white>?!
+
+
+<sprite 0000104><color red>！<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Oh, great. Now she's pissed.<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 205_01>
+<!><color white><screen left><wait yes><sprite 0000110><n 0>
+Right there all along, huh?
+
+
+<!><color white><screen right><wait no><sprite 00009FF><n 0>
+
+
+
+<!><color white><screen right><wait yes><sprite 0000909><n 0>
+You're a jerk!
+
+
+<!><color white><screen left><wait yes><sprite 0000106><n 0>
+Relax, doll.
+
+
+<!><color white><screen left><wait yes><sprite 0000106><n 0>
+Didn't mean to offend you.
+Sorry, OK?
+
+<!><color white><screen right><wait yes><sprite 0000906><n 0>
+As long as you understand
+your mistake.
+
+<!><color white><screen left><wait yes><sprite 0000117><n 0>
+But tell me something.
+
+
+<!><color white><screen left><wait yes><sprite 0000117><n 0>
+What did I do to bother you?
+What's fishy about me?
+
+<!><color white><screen right><wait yes><sprite 0000901><n 0>
+It's what that bellhop guy...
+you know, Louis? It's what
+he said.
+<!><color white><screen right><wait yes><sprite 0000901><n 0>
+He said you were a detective.
+
+
+<!><color white><screen left><wait yes><sprite 0000113><n 0>
+Ha ha ha!
+
+
+<!><color white><screen right><wait yes><sprite 0000915><n 0>
+What's so funny?
+
+
+<!><color white><screen left><wait yes><sprite 0000109><n 0>
+It was a joke.
+
+
+<!><color white><screen right><wait yes><sprite 0000907><n 0>
+A joke?
+
+
+<!><color white><screen left><wait yes><sprite 0000117><n 0>
+Do I look like a detective?
+
+
+<!><color white><screen left><wait yes><sprite 0000117><n 0>
+I'm not cut out for the
+badge. Too dangerous,
+and the pay stinks.
+<!><color white><screen left><wait yes><sprite 0000117><n 0>
+So I guess I'm a man you can 
+feel safe around.
+
+<!><color white><screen right><wait yes><sprite 0000905><n 0>
+I... I see.
+
+
+!------------------------------------------------------!
+<r 205_01>
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Hold it.
+
+
+<color white><screen right><wait no><sprite 00009FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 205_01>
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Calm down. You're going to
+have a stroke.
+
+<color white><screen right><wait no><sprite 00009FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000909><n 0>
+But you just said... You
+called me clueless, you...
+you CAD!
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Don't get so worked up.
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+You're prettier when you're
+not screaming and carrying
+on.
+<color white><screen right><wait yes><sprite 0000907><n 0>
+What? I... I am? I'm pretty?
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Yeah, sure. Why not?
+
+
+<color white><screen right><wait yes><sprite 0000906><n 0>
+Oh... T-thanks.
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+So what's the problem?
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Why don't you trust me?
+
+
+<color white><screen right><wait yes><sprite 0000901><n 0>
+It's what that bellhop man...
+you know, Louis? It's what
+he said.
+<color white><screen right><wait yes><sprite 0000901><n 0>
+He said you were a detective. 
+
+
+<color white><screen left><wait yes><sprite 0000113><n 0>
+Ha ha ha!
+
+
+<color white><screen right><wait yes><sprite 0000915><n 0>
+What's so funny?
+
+
+<color white><screen left><wait yes><sprite 0000109><n 0>
+It was a joke.
+
+
+<color white><screen right><wait yes><sprite 0000907><n 0>
+A joke?
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Do I look like a detective?
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+I'm not cut out for the
+badge. Too dangerous,
+and the pay stinks.
+<color white><screen left><wait yes><sprite 0000117><n 0>
+So I guess I'm a man you can
+feel safe around.
+
+<color white><screen right><wait yes><sprite 0000905><n 0>
+Oh, I see.
+
+
+!------------------------------------------------------!
+<r 205_01>
+<color white><screen left><wait yes><sprite 0000111><n 0>
+Cut the crap!
+
+
+<color white><screen right><wait no><sprite 00009FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000111><n 0>
+You don't want to get on my
+bad side!
+
+<color white><screen right><wait yes><sprite 0000908><n 0>
+<e 42>You're nothing but a lying
+jerk!
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Lying jerk? What's your
+problem, lady?
+
+<color white><screen right><wait yes><sprite 0000909><n 0>
+So you think I'm clueless, do
+you? Well, try this on for
+size!
+<color white><screen right><wait yes><sprite 0000909><n 0>
+When that bellhop said you
+were a cop, I got curious.
+
+<color white><screen right><wait yes><sprite 0000904><n 0>
+I thought I'd check to see
+if it was true, so you know
+what I did?
+<color white><screen right><wait yes><sprite 0000906><n 0>
+I made a call to the NYPD,
+that's what!
+
+<color white><screen right><wait yes><sprite 0000901><n 0>
+I called the 89th Precinct
+and asked to speak to
+Detective Kyle Hyde.
+<color white><screen left><wait yes><sprite 0000124><n 0>
+...You did what?
+
+
+<color white><screen right><wait yes><sprite 0000915><n 0>
+Oh yes I did! And you know
+what? They said there was
+NO SUCH PERSON!
+<color white><screen right><wait yes><sprite 0000206><n 0>
+What now, pal?! You wanna
+show us yer cereal-box
+badge?
+<color white><screen right><wait yes><sprite 0000909><n 0>
+Come on! Show me! Show me
+your license to be a jerk!
+
+<color white><screen left><wait yes><sprite 0000114><n 0>
+I'd rather not.
+
+
+<color white><screen right><wait yes><sprite 0000909><n 0>
+You don't have a badge, do
+you?
+
+<color white><screen left><wait yes><sprite 0000122><n 0>
+As long as the air's been
+cleared.
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+Hey! What in the Sam Hill
+is goin' on here?!
+
+<color white><screen right><wait yes><sprite 0000901><n 0>
+I'm sorry, Mr. Smith.
+
+
+<color white><screen right><wait yes><sprite 0000901><n 0>
+It was a misunderstanding
+on my part.
+
+<color white><screen right><wait yes><sprite 0000215><n 0>
+A misunderstandin'?
+
+
+<color white><screen right><wait yes><sprite 0000903><n 0>
+Yes.
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+...Huh.
+
+
+<color white><screen right><wait yes><sprite 0000209><n 0>
+Well, strike up the band
+and drop the ticker tape!
+Sheeeee-eesh!
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Guess there was no need
+to haul my butt up here!
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+Sorry for the trouble,
+Mr. Hyde.
+
+<color white><screen right><wait yes><sprite 0000906><n 0>
+Bye now.
+
+
+<color white><screen right><wait no><sprite 00009FF><n 0>
+<e 12>
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The two of them leave the
+room.
+
+!------------------------------------------------------!
+<r 205_01>
+<color white><screen right><wait yes><sprite 0000801><n 0>
+<e 16>Oh dear...
+
+
+<color white><screen right><wait yes><sprite 0000915><n 0>
+<e 07><m 028>It's just like I told you
+earlier, Mr. Smith.
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Listen, you!
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+I dunno who the hell ya
+are, but I don't need no
+troublemakers in my place!
+<color white><screen right><wait yes><sprite 0000214><n 0>
+<e 07>There's two ways ya can
+leave... On yer feet, or 
+on yer ass! You decide!
+<color white><screen left><wait yes><sprite 0000110><n 0>
+What?
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 30>
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+<e 29>
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait yes><sprite 0000129><n 0>
+<m 030><color blue>Great, Hyde...<color white>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 52>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Why'd you have to go and lie<color white>
+<color blue>to Louie earlier?<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 38>
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 32><e 31><e 38>
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+<e 36><e 35>You, uh...
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+You said you changed gigs,
+yeah?
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+What's the story?
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 32><e 31>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 38>
+
+
+<color white><screen left><wait yes><sprite 0000108><n 0>
+...Damn.
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000804><n 0>
+Begging your pardon, but
+are you Kyle Hyde?
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+That's right.
+
+
+<color white><screen right><wait yes><sprite 0000801><n 0>
+And did you perhaps receive
+a call from the front desk?
+
+<color white><screen right><wait yes><sprite 0000801><n 0>
+About the parcels?
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Yeah.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+You the guy who called
+down earlier?
+
+<color white><screen right><wait yes><sprite 0000803><n 0>
+The very same!
+
+
+<color white><screen right><wait yes><sprite 0000801><n 0>
+My name is <color red>Martin Summer<color white>, 
+and I'm currently lodged in
+Room 211.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 11>
+
+
+<color white><screen right><wait no><sprite 0000817><n 0>
+<e 21>
+
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Martin Summer, huh?<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0000801><n 0>
+<e 23>
+
+
+<sprite 0000125><color red>I've heard his name before.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 15>
+
+
+<color white><screen right><wait yes><sprite 0000804><n 0>
+At any rate, about the
+parcels?
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Yeah?
+
+
+<color white><screen right><wait yes><sprite 0000801><n 0>
+The footboy delivered a
+parcel to my room some
+time ago.
+<color white><screen right><wait yes><sprite 0000801><n 0>
+Unfortunately, it appears
+he somehow brought me
+the wrong one.
+<color white><screen right><wait yes><sprite 0000804><n 0>
+However...
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Yeah?
+
+
+<color white><screen right><wait yes><sprite 0000804><n 0>
+Please forgive me, but I  
+failed to notice until after 
+I opened it.
+<color white><screen right><wait yes><sprite 0000804><n 0>
+The contents were not what 
+I was expecting, you see.
+
+<color white><screen right><wait yes><sprite 0000806><n 0>
+At any rate,<color red> I saw the name<color white>
+<color red>Kyle Hyde on the form<color white>, and
+so here I am!
+<sprite 0000124><color red>！<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Huh?<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 213_03>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Hey!
+
+
+<color white><screen right><wait no><sprite 00008FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+You read it?!
+
+
+<color white><screen right><wait no><sprite 0000802><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000803><n 0>
+<e 42>Well, yes...
+
+
+<color white><screen left><wait yes><sprite 0000116><n 0>
+That's private property,
+buddy! What's your problem?
+
+<color white><screen right><wait yes><sprite 0000809><n 0>
+Please, Mr. Hyde! You've no
+cause to take that tone
+with me.
+<color white><screen right><wait yes><sprite 0000806><n 0>
+This is<color red> <color white>rather <color red>boorish<color white>
+<color red>behavior toward a man<color white>
+<color red>you've only just met<color white>!
+<sprite 0000124><color red>！<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Huh?<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<!><color white><screen right><wait yes><sprite 0000806><n 0>
+Don't you agree?
+
+
+<!><color white><screen left><wait yes><sprite 0000115><n 0>
+Yeah... I guess.
+
+
+<!><color white><screen left><wait yes><sprite 0000101><n 0>
+...Sorry. Sometimes my
+mouth moves before my
+noodle can catch up.
+<!><color white><screen right><wait yes><sprite 0000805><n 0>
+As long as you understand,
+I'm willing to forgive and
+forget. It reminds me ofｵ  
+<color white><screen left><wait yes><sprite 0000109><n 0>
+Good name, isn't it?
+
+
+<color white><screen right><wait no><sprite 00008FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000806><n 0>
+Indeed.
+
+
+<color white><screen right><wait yes><sprite 00008FF><n 0>
+Quite a nice name, actually.
+
+
+!------------------------------------------------------!
+<r 213_03>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Hey.
+
+
+<color white><screen right><wait no><sprite 00008FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000116><n 0>
+Don't like my behavior? Give
+me a second and then you
+REALLY won't like it!
+<color white><screen right><wait no><sprite 0000802><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000808><n 0>
+<e 42>Mr. Hyde, please!
+
+
+<color white><screen right><wait yes><sprite 0000809><n 0>
+It's true that I did look at
+the contents of your
+parcel.
+<color white><screen right><wait yes><sprite 0000809><n 0>
+However, let me assure you
+I intended no harm. These
+things happen andｵ
+<color white><screen left><wait yes><sprite 0000111><n 0>
+These things happen? Oh, is
+that right? Well screw you,
+buddy!
+<color white><screen left><wait yes><sprite 0000111><n 0>
+You think I'll let you off
+because things happen?
+I oughta cuff you around!
+<color white><screen right><wait yes><sprite 0000808><n 0>
+This is...this is simply
+shocking!
+
+<color white><screen right><wait yes><sprite 0000809><n 0>
+Very well, Mr. Hyde. Have it
+your way.
+
+<color white><screen right><wait yes><sprite 0000809><n 0>
+I sought merely to be
+courteous and deliver
+to you your parcel.
+<color white><screen right><wait yes><sprite 0000809><n 0>
+I can see now that was a
+mistake. I'll deliver it to
+the front desk instead.
+<color white><screen right><wait no><sprite 00008FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+<s 1012010>Summer finishes speaking
+and leaves the room.
+
+<color white><screen left><wait yes><sprite 0000122><n 0>
+Sorry, buddy. I got a little
+carried away there.
+
+<color white><screen left><wait yes><sprite 0000122><n 0>
+It's an important package.
+I... I let my mouth get
+ahead of me.
+<color white><screen right><wait yes><sprite 0000805><n 0>
+As long as we understand
+each other, I shall forgive.
+It reminds me ofｵ 
+<color white><screen left><wait yes><sprite 0000122><n 0>
+Skip the explanation. I got
+a short attention span.
+
+<color white><screen right><wait yes><sprite 0000809><n 0>
+Is...is that so?
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Our packages got swapped.
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Mine was delivered to your
+room, right?
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+And the one I got here is
+probably yours.
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+That about cover it?
+
+
+<color white><screen right><wait yes><sprite 0000809><n 0>
+Yes, I do believe that
+summarizes the situation.
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+So. Where's my package?
+
+
+<color white><screen right><wait no><sprite 0000802><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000804><n 0>
+Oh, yes, I brought it with
+me. It's right here.
+
+<b 0129>
+<color white><screen left><wait yes><sprite 0000119><n 0>
+That's it, huh?
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000806><n 0>
+Yes.
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 16>
+
+
+<color white><screen right><wait no><sprite 00008FF><n 0>
+<e 16>
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Martin Summer?
+
+
+<color white><screen right><wait no><sprite 0000802><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000114><n 0>
+I've heard that name before. 
+
+
+<color white><screen right><wait yes><sprite 0000805><n 0>
+Yes, that's not surprising.
+
+
+<color white><screen right><wait yes><sprite 0000804><n 0>
+Perhaps you've run across
+my name in a magazine?
+Or a newspaper?
+<color white><screen right><wait yes><sprite 0000801><n 0>
+Does that strike a familiar
+tone, Mr. Hyde?
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Huh?
+
+
+<color white><screen right><wait yes><sprite 0000805><n 0>
+I suppose it's possible that
+you've actually read one of
+my<color red> books<color white>...
+<sprite 0000125><color red>Books? This guy's a writer?<color white>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000801><n 0>
+No?
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Maybe.
+
+
+<color white><screen left><wait yes><sprite 0000101><n 0>
+You a writer?
+
+
+<color white><screen right><wait no><sprite 0000802><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000806><n 0>
+Yes, that is correct, although 
+I prefer to think of myself
+as an author.
+<color white><screen right><wait yes><sprite 0000801><n 0>
+I pen novels mostly, although
+I have dabbled in other,
+more obscure, mediums.
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Novels? What kind?
+
+
+<color white><screen right><wait yes><sprite 0000801><n 0>
+Mysteries.
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+They sell?
+
+
+<color white><screen right><wait yes><sprite 0000804><n 0>
+Yes, they do all right.
+
+
+<color white><screen right><wait yes><sprite 0000809><n 0>
+You can find my work in
+most bookstores of note.
+
+<color white><screen right><wait yes><sprite 0000801><n 0>
+I have quite a large female
+fan base, actually.
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+You don't say.
+
+
+<color white><screen right><wait yes><sprite 0000805><n 0>
+Have you perhaps read any
+of my novels?
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Nope.
+
+
+<color white><screen right><wait yes><sprite 0000806><n 0>
+I see. Well, not wholly
+unexpected, but a shame
+nonetheless.
+<color white><screen right><wait yes><sprite 0000801><n 0>
+If you get the chance, I
+hope you will read one.
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Sure. Why not?
+
+
+<color white><screen right><wait no><sprite 0000803><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Yeah, I read one.
+
+
+<color white><screen right><wait yes><sprite 0000805><n 0>
+Truly?
+
+
+<color white><screen right><wait yes><sprite 0000805><n 0>
+Tell me, which one?
+
+
+<color white><screen left><wait yes><sprite 0000122><n 0>
+I think it was called
+"The Angel Whispers."
+
+<color white><screen right><wait yes><sprite 0000807><n 0>
+You read it? Oh, how
+exciting!
+
+<color white><screen right><wait yes><sprite 0000810><n 0>
+To learn that you've read
+that story...
+
+<color white><screen right><wait yes><sprite 0000805><n 0>
+Well, it fills me with pure
+happiness!
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Oh, it was... "A Tale of
+Two...um...Gangsters." 
+Or something.
+<color white><screen right><wait yes><sprite 0000809><n 0>
+...
+
+
+<color white><screen right><wait yes><sprite 0000801><n 0>
+Unfortunately, that is not
+one of my novels, Mr. Hyde.
+I don't think it even exists.
+<color white><screen left><wait yes><sprite 0000108><n 0>
+...
+
+
+<color white><screen left><wait yes><sprite 0000801><n 0>
+What is it?
+
+
+<color white><screen left><wait yes><sprite 0000801><n 0>
+What are you reading?
+
+
+<color white><screen left><wait yes><sprite 0000806><n 0>
+Eureka! That's my 
+notebook.
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Maybe I should keep him<color white>
+<color blue>talking.<color white>
+
+<color white><screen right><wait no><sprite 0000802><n 0>
+
+
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000804><n 0>
+My notebook, Mr. Hyde...
+
+
+<color white><screen right><wait yes><sprite 0000805><n 0>
+Please return it.
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Sure.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+This is the notebook that
+was in the package I
+received.
+<color white><screen right><wait no><sprite 0000802><n 0>
+
+
+
+<b 0128>
+<color white><screen left><wait yes><sprite 65534FF><n 0>
+<color blue>I give the<color white> <color red>old notebook<color white>
+<color blue>back to Summer.<color white>
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000804><n 0>
+Now then, Mr. Hyde...
+
+
+<color white><screen right><wait yes><sprite 0000805><n 0>
+Shall we discuss my parcel,
+which was inadvertently
+delivered to you?
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Sure. I'm game.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+All that was in the package
+was this notebook.
+
+<color white><screen right><wait no><sprite 0000802><n 0>
+
+
+
+<b 0128>
+<color white><screen left><wait yes><sprite 65534FF><n 0>
+<color blue>I show Summer the<color white> <color red>old<color white>
+<color red>notebook<color blue>.<color white>
+
+<color white><screen right><wait yes><sprite 0000808><n 0>
+Eureka, that's it!
+
+
+<color white><screen left><wait no><sprite 0000103><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000811><n 0>
+This is the notebook!
+
+
+<color white><screen right><wait yes><sprite 0000811><n 0>
+This is what I have been
+waiting for!
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0000811><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Great. Then I'll take my
+package from you and we'll
+call it a day.
+<color white><screen right><wait yes><sprite 0000811><n 0>
+Yes, please do.
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+<color blue>Doesn't look like he can<color white>
+<color blue>take his eyes off that<color white>
+<color blue>notebook.<color white>
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Guess he was really looking<color white>
+<color blue>forward to getting it. <color white>
+<color blue>...Must be a writer thing.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00008FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait no><sprite 0000121><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+I pick up the box that
+Summer brought with him.
+
+<b 0130>
+<color white><screen left><wait no><sprite 0000123><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+I toss it on the bed.
+
+
+!------------------------------------------------------!
+<r 205_R>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0000811><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Hey.
+
+
+<color white><screen right><wait yes><sprite 0000807><n 0>
+Oh, yes... My apologies.
+Let me just...
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Hey!
+
+
+<color white><screen right><wait yes><sprite 0000804><n 0>
+...Hmm? Oh! Oh, yes. Yes, I
+suppose I should depart.
+
+<color white><screen right><wait yes><sprite 0000805><n 0>
+It's fortunate for both of
+us that we discovered
+this mistake when we did.
+<color white><screen right><wait yes><sprite 0000805><n 0>
+Now, if you'll excuse me.
+
+
+<color white><screen right><wait no><sprite 00008FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+<s 1012010>Summer finishes talking and
+leaves the room.
+...Stupid writers.
+<b 0137>
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Glad that's over.
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Guess I should open the
+thing.
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The package Summer brought 
+is on the bed.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+Yeah, this is mine.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's an order sheet, new
+products, and a client list
+inside the box.
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There are some new products
+and a client list in the box.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There are some new products 
+in the box.
+
+<color white><screen left><wait yes><sprite 0000119><n 0>
+It's the order sheet.
+
+
+<screen left><wait yes><sprite 0000000><color blue>I got the<color white> <color red>order sheet<color blue> that<color white>
+<color blue>was inside the box.<color white>
+
+<screen left><wait yes><sprite 0000000>The items I'm supposed to
+find are listed on here.
+
+<color white><screen left><wait yes><sprite 0000119><n 0>
+<color blue>1) A small red box.<color white>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>2) The December issue of<color white>
+<color blue>a magazine with Cecily Lee<color white>
+<color blue>on the cover.<color white>
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<color blue>Guess it's time to call<color white>
+<color blue>Rachel.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There are some new
+products in the box.
+
+<b 0137>
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Oh, right...
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Better give Rachel a call.
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+Guess I'll give Rachel a call. 
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The phone's ringing.
+
+
+<b 0120>
+<b 0136>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<b 0142>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<s 1022010>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 21>
+
+
+!------------------------------------------------------!
+<r 0001>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<s 1021010>
+
+
+<color white><screen right><wait no><sprite 0001602><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0001603><n 0>
+<e 28><s 1021011>
+<s 1022010>
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Red Crown, this is Rachel. 
+
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+It's Hyde. I got the package. 
+
+
+<color white><screen right><wait no><sprite 00016FF><n 0>
+<e 12>
+
+
+<b 0135>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+<e 23>I knew you would, sweetie.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+A red box and a girlie mag?
+I'm thrilled.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Who's the client on this one? 
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Somebody new. Seems to be 
+in a hurry, too.
+
+<b 0110>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+You figure it's some sort of
+business deal gone wrong?
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+That's what it sounds like.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+But who knows what's in the
+box? Could be trouble.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+My old friend.
+
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Any idea where to start?
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Yeah, I'll head down to the
+front desk and poke around
+the lost and found.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+If that doesn't work, guess
+I just gotta canvas the
+hotel.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Nice plan, handsome. Let us
+know if you come up with
+anything.
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Ed around?
+
+
+<b 0134>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+He just stepped out. Some
+old client called and asked
+to see him.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Said he'd be right back,
+though. Why, you need
+something?
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+No rush.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I'll call back.
+
+
+<b 0135>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+I've got a weird feeling about 
+this one, Kyle.
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Be careful.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Only 'cause you asked.
+
+
+<color white><screen right><wait no><sprite 00016FF><n 0>
+<e 16><e 21>
+
+
+<b 0120>
+!------------------------------------------------------!
+<r 0001>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<s 1023010>
+
+
+<color white><screen right><wait no><sprite 0001601><n 0>
+<e 28>
+
+
+<color white><screen right><wait no><sprite 00016FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00016FF><n 0>
+<e 12>
+
+
+<b 0136>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00016FF><n 0>
+<e 16><e 23>
+
+
+<b 0135>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+I'll let Ed know.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Thanks.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Um, Kyle?
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Yeah?
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Remember what I said earlier?
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+About not knowing anything
+about you?
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+And wanting to know you 
+better? Listen, forget I said
+any of that, OK?
+<b 0132>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Don't worry.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+My life's a train wreck. People 
+want to stop and stare.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+But I'll tell you one thing.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Anybody else pestered me
+about this? I'd shoot 'em.
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Wow, Kyle. You can actually 
+be kind of sweet when you 
+set your mind to it.
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Bye, sweetie. Be safe.
+
+
+<color white><screen right><wait no><sprite 00016FF><n 0>
+<e 16><e 21>
+
+
+<b 0120>
+!------------------------------------------------------!
+<r 0001>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<s 1023010>
+
+
+<color white><screen right><wait no><sprite 0001601><n 0>
+<e 28>
+
+
+<color white><screen right><wait no><sprite 00016FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00016FF><n 0>
+<e 12>
+
+
+<b 0136>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00016FF><n 0>
+<e 16><e 23>
+
+
+!------------------------------------------------------!
+<r 205_L>
+<b 0136>
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>Ed Vincent's the president<color white>
+<color blue>of Red Crown.<color white>
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>He's an ex-L.A. cop who<color white>
+<color blue>worked like a dog until they<color white>
+<color blue>forced him to retire.<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>My old man died when I was<color white>
+<color blue>ten, but he and Ed were<color white>
+<color blue>good friends.<color white>
+<color white><screen left><wait yes><sprite 0000114><n 0>
+<color blue>And as for me, well...<color white>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Ed's the only one who knows<color white>
+<color blue>I'm still searching for<color white>
+<color blue>Bradley.<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>The only one who knows I<color white>
+<color blue>won't let it go.<color white>
+
+<color white><screen left><wait no><sprite 0000141><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>But now I run into Louie,<color white>
+<color blue>another voice from the<color white>
+<color blue>past.<color white>
+<color white><screen left><wait yes><sprite 0000141><n 0>
+<color blue>What're the chances of him <color white>
+<color blue>being here? Slim to none, <color white>
+<color blue>and slim left town.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<color blue>Throw this girl Mila into the<color white>
+<color blue>mix, and things get nine<color white>
+<color blue>kinds of odd.<color white>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>I'd better think all this<color white>
+<color blue>through and make sure<color white>
+<color blue>it's straight in my head.<color white>
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+My suitcase is on the
+table. The key broke, so
+I can't open it.
+<b 0120>
+!------------------------------------------------------!
+<r 0000>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 12><e 21><s 1021011>
+<s 1022010>
+
+<b 0142>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+<m 033>Hello?
+
+
+<b 0133>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Rachel?
+
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+<e 23>It's me, sweetie. Did you
+receive the package?
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Yeah, well...
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Look, here's the deal. The
+idiot bellhop got his wires
+crossed.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Delivered my package to
+another guy.
+
+<b 0134>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Are you serious?
+
+
+<b 0132>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Yeah. I oughta sock him one.
+
+
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+You have to get it back,
+Kyle! It's important!
+
+<b 0110>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Yeah, yeah, I know. I'll get
+it back, don't worry.
+
+<b 0111>
+<color white><screen right><wait yes><sprite 00016FF><n 0>
+Don't screw this up, Kyle!
+I'm serious!
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Got it. Thanks.
+
+
+<b 0120>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 21><s 1023010>
+
+
+<color white><screen right><wait no><sprite 0001601><n 0>
+<e 16>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0001602><n 0>
+
+
+
+<b 0136>
+<color white><screen left><wait no><sprite 0000132><n 0>
+<s 1021010>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 07>
+
+
+<color white><screen left><wait yes><sprite 0000131><n 0>
+Huh?
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+It's the phone.
+
+
+<b 0137>
+<color white><screen left><wait yes><sprite 0000124><n 0>
+The phone's ringing.
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+I'd better answer that.
+
+
+!------------------------------------------------------!
+<r 0000>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen right><wait no><sprite 0001720><n 0>
+<m 003>
+
+
+<color white><screen left><wait no><sprite 0000125><n 0>
+<e 21>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>The guy who pays the bills<color white>
+<color 4>at Red Crown has spoken.<color white>
+<color 4>And when Ed speaks, I go.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>That's why I'm this side of<color white>
+<color 4>nowhere in some hole called<color white>
+<color 4>Hotel Dusk.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>The reason I'm here is...<color white>
+
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I'm not tired.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I'm just pissed off with this
+whole situation.
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2088010>
+<m 022>
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<e 16>That's right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I sell household goods for
+Red Crown, which is run by
+my old man's pal, Ed.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I also lend a hand with a
+hobby of his.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Ed's got a side business
+finding things that get
+themselves lost.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+My dad died when I was ten.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Couldn't meet up with him
+even if I wanted to.
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait no><sprite 0001720><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><m 003>
+
+
+<color white><screen left><wait no><sprite 0000125><n 0>
+<e 16>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Had an interesting chat<color white>
+<color 4>with Dunning, the hotel<color white>
+<color 4>owner, when I checked in.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>He mentioned a couple of<color white>
+<color 4>things that I can't quite<color white>
+<color 4>get out of my head.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>First, six months ago some <color white>
+<color 4>guy with my name stayed<color white>
+<color 4>here.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Second, the room I'm in,<color white>
+<color 4>Room 215, has a history.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>The story he told me about<color white>
+<color 4>the room was...<color white>
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2088010>
+<m 022>
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<e 16>That's right. He said the
+room grants wishes.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Said if I stayed there, my
+wish would come true.
+Kept a straight face, too.
+<color white><screen left><wait yes><sprite 0000102><n 0>
+If I met him in New York, I
+bet he'd try to sell me the
+Brooklyn Bridge.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Here's what gets me... Why'd
+he tell me such a crazy
+fairy tale in the first place?
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Room 215's the cheapest
+room in the place.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+It sure ain't a suite.
+
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+That's another story ol'
+Dunning felt the need to
+share.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Three years back, this hotel
+was used as a place to
+exchange stolen goods.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+That's why it got raided
+by the cops.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Dunning didn't say it had
+anything to do with
+Room 215.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait no><sprite 0001720><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><m 003>
+
+
+<color white><screen left><wait no><sprite 0000125><n 0>
+<e 16>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>I checked in to Hotel Dusk<color white>
+<color 4>and got Room 215.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Then I waited in my room<color white>
+<color 4>for the package Ed sent.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Imagine my surprise when<color white>
+<color 4>the bellhop turned out<color white>
+<color 4>to be Louie DeNonno.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>I knew Louie from my days<color white>
+<color 4>back east.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>He knows I used to be a<color white>
+<color 4>New York cop.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>But he didn't know my<color white>
+<color 4>partner, whose name was...<color white>
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Summer's the novelist
+staying down the hall
+in 211.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Dunning owns this dump.
+
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2088010>
+<m 022>
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<e 16>That's right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+My partner on the force
+three years ago was
+Brian Bradley.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+We were investigating that
+crime ring responsible for
+all those art thefts.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait no><sprite 0001720><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><m 003>
+
+
+<color white><screen left><wait no><sprite 0000125><n 0>
+<e 16>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>That idiot Louie brought<color white>
+<color 4>me somebody else's<color white>
+<color 4>package.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>I went to the lobby to<color white>
+<color 4>straighten things out.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>That's where I met the<color white>
+<color 4>young girl named Mila.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Mila hitched a ride to the<color white>
+<color 4>hotel with a kid named<color white>
+<color 4>Jeff.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>She didn't have any luggage<color white>
+<color 4>or money, so Rosa took her<color white>
+<color 4>under her wing.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>But the weird thing when I<color white>
+<color 4>talked to Mila was...<color white>
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Bradley's sister was named
+Mila, but that's not the
+oddest thing.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2088010>
+<m 022>
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<e 16>That's right. It was the
+silver bracelet she had on
+her left wrist.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Looked like the one Bradley
+was wearing the last time I
+saw him.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+She was a looker in that
+little white number and all,
+but...
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+That wasn't what surprised
+me.
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait no><sprite 0001720><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><m 003>
+
+
+<color white><screen left><wait no><sprite 0000125><n 0>
+<e 16>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>That idiot Louie brought<color white>
+<color 4>me the wrong package.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>My stuff got sent to a guy<color white>
+<color 4>named Summer who's in<color white>
+<color 4>Room 211.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>After a bit of jawing and<color white>
+<color 4>other nonsense, I finally<color white>
+<color 4>got the damn thing.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Inside the box was an order<color white>
+<color 4>sheet, some new products,<color white>
+<color 4>and my client list.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>The order sheet listed the<color white>
+<color 4>things Ed wants me to find.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>It's a short list...only two<color white>
+<color 4>things on it.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>One's a pinup mag with<color white>
+<color 4>a dame named Cecily Lee<color white>
+<color 4>on the cover.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>And the other's...<color white>
+
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2088010>
+<m 022>
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<e 16>That's right. The other thing 
+I'm supposed to find is a
+small red box.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I gave Ed's secretary Rachel
+a call as soon as I got the
+order sheet.
+<b 0003>
+<color white><screen left><wait no><sprite 0000125><n 0>
+<m 003>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Now that I know what I'm
+looking for, it's time to
+start searching the hotel.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+But this job feels...
+different somehow.
+Off.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Maybe it's 'cause I ran
+into Louie. Haven't seen
+him for three years...
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Or maybe it's because there
+was another guest named
+Kyle Hyde...
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Guess that girl I met by the
+front desk could be behind it,
+too...
+<color white><screen left><wait no><sprite 0000124><n 0>
+<m 004>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Whatever it is, Bradley,
+I can't get you out of
+my head.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+I feel like I'm gonna find
+something big here.
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Something that's gonna lead
+me to wherever it is you
+disappeared to.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Tell ya what, Bradley...
+I think it's gonna be a
+long night.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 29><m 160>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<e 29>
+
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+The old notebook was in
+Summer's package.
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I got the pager from Ed.
+It wasn't in the package.
+

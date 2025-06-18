@@ -1,0 +1,787 @@
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait no><sprite 0000132><n 0>
+<s 1038010>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000131><n 0>
+...Huh?
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Someone's coming.
+
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+Oh, great. It's Dunning.
+What now?
+
+<color white><screen right><wait no><sprite 0000221><n 0>
+
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait no><sprite 0000132><n 0>
+<s 1038010>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000131><n 0>
+...Huh?
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Someone's coming.
+
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+Oh, great. It's Dunning.
+What now?
+
+<color white><screen right><wait no><sprite 0000221><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 15><m 028>
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+<e 07>Hyde! I got a bone t'pick
+with ya!
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+<e 07>It's about Louis!
+!------------------------------------------------------!
+<r 0000>
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+What now? He misplace
+somebody's medication?
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Get this! Kid came bargin'
+into my office and ya know
+what he wanted?
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Wanted to know if ya told
+me he had a criminal
+record!
+<color white><screen left><wait yes><sprite 0000124><n 0>
+...Oh.
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+'Course I got no idea what
+he's yappin' about, 'cause
+we ain't been talkin'!
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Now I don't know what the
+hell's goin' on between you
+two, but lemme tell ya...
+<color white><screen right><wait yes><sprite 0000211><n 0>
+I don't need this crap! And
+I don't need any trouble-
+makers in my hotel!
+<color white><screen right><wait yes><sprite 0000214><n 0>
+<e 07>Pack yer stuff and get
+out before I throw ya on
+the street m'self!
+<color white><screen left><wait yes><sprite 0000110><n 0>
+What?
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 30>
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+<e 29>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<m 030>
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait yes><sprite 0000129><n 0>
+<color blue>Oh, I see... It's when I was<color white>
+<color blue>coming out of Dunning's<color white>
+<color blue>office.<color white>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 52>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Louie asked me what I'd been<color white>
+<color blue>talking to Dunning about.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 38>
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 38>
+
+
+<color white><screen right><wait yes><sprite 0000414><n 0>
+<e 36><e 35>Why'd you have to go and
+open your big mouth?
+
+<color white><screen right><wait yes><sprite 0000414><n 0>
+You're a total loser! 
+
+
+<color white><screen right><wait yes><sprite 0000414><n 0>
+You damn dirtbag!
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 32><e 31>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 38>
+
+
+<color white><screen left><wait yes><sprite 0000108><n 0>
+...Damn.
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 15><m 028>
+
+
+<color white><screen right><wait yes><sprite 0000214><n 0>
+<e 07>You! Hyde! Wait just a
+gol-darn minute! You're
+a cop, ain't ya?!
+<color white><screen left><wait yes><sprite 0000107><n 0>
+What?
+
+
+<color white><screen right><wait yes><sprite 0000215><n 0>
+<e 07>That's right, pal! The cat's 
+outta the bag now!
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Just had me a little chat 
+with Louis, and he told me 
+you're fuzz!
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Like I told ya, this hotel's
+off-limits to all scumbags...
+Includin' COPS!
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Ya ain't stayin' here, pal!
+
+
+<color white><screen right><wait yes><sprite 0000214><n 0>
+<e 07>Grab yer things and get
+the hell out!
+
+<color white><screen left><wait yes><sprite 0000110><n 0>
+What?
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 30>
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+<e 29>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<m 030>
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait yes><sprite 0000129><n 0>
+<color blue>Oh, I see... It's when I was<color white>
+<color blue>coming out of Dunning's<color white>
+<color blue>office.<color white>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 52>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>Louie asked me what I'd been<color white>
+<color blue>talking to Dunning about.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 38>
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 38>
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+<e 36><e 35>You're a total scumbag! You
+been a cop all along, huh?
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Was it fun stringin' me
+along? Watchin' me dance
+and play your stupid game?
+<color white><screen right><wait yes><sprite 0000414><n 0>
+You make me sick, man!
+Wish I could puke all over
+your shoes!
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 32><e 31>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 38>
+
+
+<color white><screen left><wait yes><sprite 0000108><n 0>
+...Crap.
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 117_06>
+<color white><screen left><wait yes><sprite 0000130><n 0>
+Huh?
+
+
+<color white><screen right><wait no><sprite 0001726><n 0>
+<s 1016010>
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Someone's coming down
+the hallway.
+
+<color white><screen right><wait no><sprite 0000221><n 0>
+<s 1017010>
+
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>...It's Dunning.<color white>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+Hey, it's you!
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen left><wait yes><sprite 0000101><n 0>
+Got a sec?
+
+
+<color white><screen right><wait no><sprite 0000202><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+Whatcha need?
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+You know anything special
+about December 5th?
+
+<color white><screen right><wait no><sprite 0000202><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000215><n 0>
+...December 5th?
+
+
+<color white><screen right><wait yes><sprite 0000206><n 0>
+Fifth day'a the twelfth month. 
+What of it?
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Nothing, I guess...
+
+
+<color white><screen right><wait yes><sprite 0000215><n 0>
+<e 07>What's goin' on, Hyde? Why
+the hell ya askin' me about
+that?
+<color white><screen right><wait yes><sprite 0000211><n 0>
+You ain't been pokin' around
+my office, have ya?
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Who's Jenny?
+
+
+<color white><screen right><wait no><sprite 0000202><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000215><n 0>
+...Jenny?
+
+
+<color white><screen right><wait yes><sprite 0000206><n 0>
+Where'd ya hear that name?!
+
+
+<color white><screen left><wait yes><sprite 0000106><n 0>
+Little bird told me.
+
+
+<color white><screen right><wait yes><sprite 0000215><n 0>
+<e 07>Why the hell ya asking me
+about Jenny?! 
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Ya ain't been pokin' around
+my office, have ya?
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Where's Louie?
+
+
+<color white><screen right><wait no><sprite 0000202><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+DeNonno? No idea.
+
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+And speakin' a'him, Rosa let
+me in on yer secret.
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+Told me you and DeNonno
+are old friends.
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+In a way.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Look, there's something I
+need to talk to him about.
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+That so?
+
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+He SHOULD be helpin' t'get
+the restaurant ready.
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+So he's either in the kitchen
+or loafin' in his room. I'd put
+a sawbuck on which...
+<color white><screen left><wait yes><sprite 0000106><n 0>
+That's quite an employee
+you have there.
+
+<color white><screen right><wait yes><sprite 0000203><n 0>
+Damned if I don't know it!
+
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+Anyways, kitchen and his
+room are both through
+the door behind me.
+<color white><screen right><wait yes><sprite 0000201><n 0>
+If he ain't in the kitchen, I'm
+sure you'll find him in his
+room.
+<color white><screen right><wait yes><sprite 0000201><n 0>
+I'd go grab him by the 
+scruff'a the neck m'self,
+but I'm a bit tied up.
+<color white><screen right><wait yes><sprite 0000201><n 0>
+Go see what ya can find,
+will ya?
+
+<color white><screen left><wait yes><sprite 0000201><n 0>
+So, what're ya writing?
+
+
+<color white><screen left><wait yes><sprite 0000201><n 0>
+So, what're ya reading?
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen right><wait yes><sprite 0000208><n 0>
+Hey! That's...
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Where'd ya get that?
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen right><wait yes><sprite 0000208><n 0>
+Hey! That's...
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Where'd ya get that?
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen right><wait yes><sprite 0000208><n 0>
+Hey! That's...
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Where'd ya get that?
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen right><wait yes><sprite 0000208><n 0>
+Hey! That's...
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Where'd ya get that?
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen right><wait yes><sprite 0000208><n 0>
+Hey! That's...
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Where'd ya get that?
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen right><wait yes><sprite 0000208><n 0>
+Hey! That's...
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Where'd ya get that?
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0000202><n 0>
+
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Got a second?
+
+
+<color white><screen right><wait no><sprite 0000202><n 0>
+
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+We done here? 
+
+
+<color white><screen right><wait yes><sprite 0000201><n 0>
+Good. I'll see ya around.
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+Dunning finishes talking or
+mumbling or whatever he
+does and walks away.
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen left><wait no><sprite 0000124><n 0>
+<e 15><m 028>
+
+
+<color white><screen right><wait yes><sprite 0000214><n 0>
+<e 07>Someone ransacked my
+office!
+
+<color white><screen right><wait yes><sprite 0000214><n 0>
+<e 07>Was it you?
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Nope. I was too busy
+stealing towels from my
+bathroom.
+<color white><screen right><wait yes><sprite 0000215><n 0>
+Don't get smart with me,
+pal! I know ya was in my
+office!
+<color white><screen right><wait yes><sprite 0000211><n 0>
+I knew there was somethin'
+wrong about ya!
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+You ain't welcome here!
+
+
+<color white><screen right><wait yes><sprite 0000214><n 0>
+<e 07>Pack up and get the hell
+out!
+
+<color white><screen left><wait yes><sprite 0000110><n 0>
+Huh?
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 30>
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+<e 29>
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait yes><sprite 0000129><n 0>
+<m 030><color blue>That's not what I intended.<color white>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 52>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>He wasn't supposed to react<color white>
+<color blue>this way...<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 38>
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+<e 38>
+
+
+<color white><screen right><wait yes><sprite 0000215><n 0>
+<e 36><e 35>What's goin' on, Hyde? Why
+the hell ya asking me about
+that?
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Ya ain't been pokin' around
+my office, have ya?
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+<e 32><e 31>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 38>
+
+
+<color white><screen left><wait yes><sprite 0000108><n 0>
+...Damn.
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 117_06>
+!------------------------------------------------------!
+<r 117_09>
+<color white><screen left><wait no><sprite 0000124><n 0>
+<e 15><m 028>
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+<e 07>Oh, now I get it.
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+<e 07>Yer the one!
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Huh?
+
+
+<color white><screen right><wait yes><sprite 0000215><n 0>
+Things have gone missin'
+'round the hotel lately, and
+now I know why!
+<color white><screen right><wait yes><sprite 0000211><n 0>
+You been stealin' 'em!
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Knew there was somethin'
+fishy about ya!
+
+<color white><screen right><wait yes><sprite 0000214><n 0>
+<e 07>Pack yer things and get out
+before I toss ya out!
+
+<color white><screen left><wait yes><sprite 0000110><n 0>
+Huh?
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 30>
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+<e 29>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<m 030>
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 0000>
+<color white><screen left><wait yes><sprite 0000129><n 0>
+<color blue>That's not what I intended.<color white>
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<e 52>
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>He wasn't supposed to react<color white>
+<color blue>this way...<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 38>
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+<e 38>
+
+
+<color white><screen right><wait yes><sprite 0000208><n 0>
+<e 36><e 35>Hey! That's...
+
+
+<color white><screen right><wait yes><sprite 0000211><n 0>
+Where'd ya get that?
+
+
+<color white><screen right><wait no><sprite 00002FF><n 0>
+<e 32><e 31>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 38>
+
+
+<color white><screen left><wait yes><sprite 0000108><n 0>
+...Damn.
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+

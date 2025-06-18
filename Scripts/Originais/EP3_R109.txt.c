@@ -1,0 +1,85 @@
+<color white><screen left><wait yes><sprite 0000410><n 0>
+There it is.
+
+
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+<color white><screen left><wait yes><sprite 0000410><n 0>
+There it is.
+!------------------------------------------------------!
+<r 109_R>
+!------------------------------------------------------!
+<r 109_L>
+<color white><screen left><wait yes><sprite 0000109><n 0>
+Got it.
+
+
+<color white><screen right><wait no><sprite 0000403><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000405><n 0>
+Nice work, my man.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+I'll get back to 218.
+
+
+<color white><screen left><wait no><sprite 0000124><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000415><n 0>
+Aw, man, Dunning's gonna
+murder me! C'mon, you
+gotta fix it!
+!------------------------------------------------------!
+<r 109_R>
+!------------------------------------------------------!
+<r 109_L>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+What do we have to do?
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+We gotta hit the breaker on
+the switchboard.
+
+!------------------------------------------------------!
+<r 109_R>
+!------------------------------------------------------!
+<r 109_L>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+What happened?
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+I got Melissa out of the
+room.
+
+<color white><screen right><wait yes><sprite 0000404><n 0>
+All right.
+
+
+!------------------------------------------------------!
+<r 109_R>
+!------------------------------------------------------!
+<r 109_L>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Move it, man! Poor kid's
+probably bawlin' like a
+little girl!

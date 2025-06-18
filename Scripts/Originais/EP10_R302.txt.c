@@ -1,0 +1,994 @@
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen left><wait no><sprite 0000124><n 0>
+<m 021>
+
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Yo, what's that smell, man?
+
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Somebody been paintin' in
+here?
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Yeah... Dunning.
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+Huh? You tryin' to tell me ol'
+man Dunning paints?
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+You're trippin', Hyde!
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Dunning's the one who painted
+all the apples, Louie.
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+I think the fumes is gettin' to
+me. I thought you said 
+Dunning painted apples.
+<color white><screen left><wait yes><sprite 0000117><n 0>
+You heard right. Now keep
+listening.
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Dunning's got a daughter he
+hasn't seen in years. Her
+name's Jenny.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Jenny?
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+That's the name of the girl
+who was kidnapped from
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Yeah, and it's the name what 
+them apple painting letters 
+spell out, too.
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Yeah. But here's something I
+learned in the basement.
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Dunning knew Evans before
+he took over this hotel.
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Wait... Evans? That's Mila's
+pops, yeah?
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+You sure 'bout all this? Hard
+to believe Dunning and Mila's
+pops were pals.
+<color white><screen left><wait yes><sprite 0000117><n 0>
+I'm sure.
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+They knew each other, and
+they shared a secret they'd
+die before revealing.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+That's a heavy secret, man.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+But you know it, yeah? C'mon,
+brother, lemme hear it!
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+You know the angel painting
+Bradley stole from Nile's
+warehouse?
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Dunning painted it.
+
+
+<color white><screen right><wait yes><sprite 0000408><n 0>
+WHAT?!
+
+
+<color white><screen right><wait yes><sprite 0000408><n 0>
+You're crazy! That don't make
+no damn sense!
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Listen, Louie.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+The proof is in this room.
+I'm sure of it.
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Help me find it.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+It's a huge sheet of canvas.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+One side of the canvas is
+covered in white paint.
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+This painting is...
+
+
+!------------------------------------------------------!
+<r 302_R>
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Painting? Ya callin' this a
+painting? What is it, white
+cat in a snowstorm?
+<color white><screen right><wait yes><sprite 0000420><n 0>
+I tell ya, man, I don't get this
+whole art thing.
+
+<color white><screen left><wait yes><sprite 0000141><n 0>
+<color blue>This paint is real thick...<color white>
+<color blue>What's going on here?<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+It's a huge sheet of canvas.
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+Here goes nothing...
+
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Yo, man, whatcha gonna do
+with that?
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+It's a well-used palette and
+palette knife.
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+Hey, look. It's a...whatever  
+these things are called.
+Palette knife? Is that it?
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+<screen left><wait yes><sprite 0000000><color blue>I pick up a <color red>palette knife<color blue>.<color white>
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Damn, I'm good.
+
+
+<color white><screen right><wait yes><sprite 0000419><n 0>
+Whoa!
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+Who'd have thunk a painting
+was under there?
+
+<color white><screen right><wait yes><sprite 0000419><n 0>
+That's an angel, ain't it?
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Sure is.
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+An angel...
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+You ever see this painting
+before, Louie?
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Naw, man, didn't spend too
+much time in church as a
+kid, ya dig?
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+Wait a minute...
+
+
+<color white><screen left><wait no><sprite 0000103><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000408><n 0>
+<m 021>No way!
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+Yo, Hyde! Is...is that it?
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+One and the same, Louie.
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+This is the angel painting
+Bradley stole from Nile.
+
+<color white><screen right><wait yes><sprite 0000408><n 0>
+I need a drink, man. Hell, I 
+need three.
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+But what... How... What's it
+doin' here?
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+It's like I said. THIS angel
+painting was created by
+Dunning.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Yeah, but... How ya expect me
+to believe that?
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Hey, Louie, you know the
+name of this painting?
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Ain't it Angel Painting?
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+That's what Danny always
+called it.
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+No offense to Danny, but it's
+called Angel Opening a Door.
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Angel Opening a Door?
+Sure, why not?
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+If I gotta buy that ol' man
+Dunning painted it, I can
+believe anything.
+<color white><screen left><wait yes><sprite 0000117><n 0>
+You're getting loopy on me,
+Louie. Now listen.
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+The rest of the world thinks
+this was painted by a guy
+named Osterzone.
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Osterzone was an artist born 
+in the nineteenth century.
+Or so the story goes.
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Couple dozen or so of his
+paintings were discovered
+forty years after he died.
+<color white><screen left><wait yes><sprite 0000117><n 0>
+And then all the artsy types
+went gaga over 'em.
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Angel Opening a Door is
+supposed to have been his
+masterpiece.
+<color white><screen right><wait yes><sprite 0000420><n 0>
+So, wait. This Osterzone cat
+really did do an angel painting?
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+And then Dunning, like,
+copied it?
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+This isn't a copy, Louie.
+This is the original.
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+The original? But...I... That
+can't be right.
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+You said this painting is one'a 
+Ostertoes... Er... Oserman... 
+Ozzie... Whatever! 
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Still don't get it?
+
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Get WHAT?
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+<s 4004010>Dunning IS Osterzone!
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000408><n 0>
+...Oh, trip...
+
+
+<color white><screen right><wait yes><sprite 0000409><n 0>
+<m 021>This is like findin' out your
+girl's your sister or somethin'.
+It's messed up.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Three years back, my pal
+Danny got plugged over this
+painting!
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+Thought he could sell it and
+get enough scratch for us 
+to break outta the city.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+And...and here it is.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+In some secret vault under 
+my damn bedroom, a million
+miles from New York!
+<color white><screen right><wait yes><sprite 0000409><n 0>
+This blows my mind.
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+...Why?
+
+
+<color white><screen right><wait yes><sprite 0000414><n 0>
+WHY?!
+
+
+<color white><screen right><wait yes><sprite 0000414><n 0>
+The HELL is it doing here?
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Louieµ
+
+
+<color white><screen right><wait yes><sprite 0000414><n 0>
+Don't Louie me, man!
+
+
+<color white><screen right><wait yes><sprite 0000414><n 0>
+Tell me!
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+You want to know how it
+got here?
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I think Bradley returned it
+to the man who painted it.
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+What? Bradley RETURNED it?
+
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+What's that supposed to mean?
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+I think Bradley knew the
+truth about Osterzone.
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Aw, you're killin' me, Hyde.
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+He knew Osterzone was just
+a painter somebody made up.
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+Wait, but you saidµ
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Look, Osterzone's story is that
+he was a painter who died
+before his work was valued.
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Truth is, no one ever heard 
+of the guy at all.
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Not until somebody wrote
+a book about him.
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Thanks to the book, he went 
+from nobody to somebody 
+overnight.
+<color white><screen left><wait yes><sprite 0000107><n 0>
+And his paintings started 
+selling for a whole lot
+of dough.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+What kinda book is it?
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+It's called "Osterzone, the
+Phantom Painter."
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+It was published in 1963. You
+know who wrote it?
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Robert Evans.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Robert Evans?
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+That's Mila's pops, ain't it?
+But that means...
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+OK, OK. I think I follow.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+So Mila's pops is part of this
+whole angel painting thing, too?
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Yeah. This angel's one popular 
+dame. Got herself a whole
+flock of admirers.
+<color white><screen left><wait yes><sprite 0000117><n 0>
+The thing I haven't figured
+out yet is why.
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Why did Evans and Dunning
+create Osterzone in the
+first place?
+<color white><screen left><wait yes><sprite 0000117><n 0>
+And how did Bradley stumble
+onto it?
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+More mysteries? You know,
+I used to like mysteries. Not
+anymore, man.
+<color white><screen left><wait no><sprite 0000141><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 00004FF><n 0>
+You got it figured out?
+
+
+<color white><screen left><wait yes><sprite 0000141><n 0>
+<m 014>Not all of it, but I think I'm
+getting close. I've just got
+to line everything up.
+<color white><screen left><wait yes><sprite 0000141><n 0>
+Here's what I got so far.
+Evans's book on Osterzone
+came out sixteen years ago.
+<color white><screen left><wait yes><sprite 0000141><n 0>
+Then Mila and her old man
+came here ten years ago.
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Yeah, that's when the hotel
+closed up for a bit.
+
+<color white><screen left><wait yes><sprite 0000141><n 0>
+And the story about the girl
+going missing from the hotel?
+Ten years ago.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Oh! Oh! And that's when Mila
+went into a coma and got
+put in the hospital!
+<color white><screen left><wait yes><sprite 0000141><n 0>
+And it's when Mila's old man
+bought the hotel. A lot
+happened ten years back.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Wait, wait.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Mila's pops used to own the
+Dusk?
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Yeah.
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Robert Evans used to be the
+owner.
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+But seven years ago, he
+suddenly closes up his art
+gallery and disappears.
+<color white><screen left><wait yes><sprite 0000107><n 0>
+And then Dunning buys the
+hotel.
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Hold it. Woodward said Mila's
+pops always came to see her
+in the hospital.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+And he only stopped comin'
+six months ago, yeah?
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+That's what he said.
+
+
+<color white><screen right><wait yes><sprite 0000411><n 0>
+It don't add up, man.
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+When did Dunning reopen the
+Dusk? Five years ago, right?
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Yeah, and Bradley killed Danny
+three years ago.
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Then you went and shot
+Bradley right after.
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+...Yeah.
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 46>
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 46>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 43><e 49>
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 43><e 49>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 47><m 022>
+<e 44>
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+<e 47>
+<e 44>
+
+!------------------------------------------------------!
+<r 0001>
+<color white><screen left><wait no><sprite 0001706><n 0>
+<e 28>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<e 43>This is Hyde.
+
+
+<color white><screen left><wait no><sprite 00017FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Hyde, I've got bad news.
+It's Bradley. He... He's on
+the take.
+<color white><screen left><wait no><sprite 0001708><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+What the hell?
+
+
+!------------------------------------------------------!
+<r 0001>
+<color white><screen left><wait no><sprite 0001715><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0001403><n 0>
+<e 28><s 1028010>
+
+
+<color white><screen left><wait no><sprite 00017FF><n 0>
+<e 45>
+
+
+<color white><screen right><wait no><sprite 00014FF><n 0>
+<e 45>
+
+
+!------------------------------------------------------!
+<r 302_L>
+!------------------------------------------------------!
+<r 302_R>
+<color white><screen left><wait no><sprite 0000124><n 0>
+<e 48><m 100>
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Yo, Hyde. Can I ask you
+somethin'?
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+Sure.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Why'd you shoot Bradley?
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+I mean, you guys were 
+partners. And friends, too, 
+yeah?
+<color white><screen right><wait yes><sprite 0000410><n 0>
+You the kinda cat what hunts
+down a pal if you think he
+did you wrong?
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Just line him up and put him
+down? Cold, brother. Real
+cold.
+<color white><screen left><wait yes><sprite 0000124><n 0>
+<m 007>...I don't know.
+
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+How don't you know?
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I heard what he did. Heard he 
+went rogue. ...I tore up the
+city looking for him.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I finally caught up to him at
+the docks.
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+I was mad as hell, Louie. I
+could barely see.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I pulled my piece and yelled
+at him. Asked him why he 
+did it...
+<color white><screen right><wait yes><sprite 0000410><n 0>
+So what'd he say?
+
+
+<color white><screen left><wait yes><sprite 0000114><n 0>
+Nothing... Not a word. Just
+turned and looked at me.
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+There was a message there, 
+but I couldn't read it. It
+was all too fast.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Then he turned, and I  
+thought he was going to
+make a run for it.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I... My gun was out, and I...
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I pulled the trigger.
+
+
+<color white><screen left><wait no><sprite 0000114><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0000412><n 0>
+
+
+
+<color white><screen right><wait no><sprite 0000415><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+Whoa... Hey, um... Sorry I
+asked, ya know?
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+But I get it, man. You didn't
+get to talk to him, never got
+to hear his side of things.
+<color white><screen right><wait yes><sprite 0000413><n 0>
+That's why you're lookin' for
+him. Tryin' to make your
+final peace, yeah?
+<color white><screen left><wait no><sprite 0000102><n 0>
+<m 100>
+
+
+<color white><screen right><wait no><sprite 0000402><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Enough about that. We need
+to focus on what's in
+front of us.
+<color white><screen right><wait yes><sprite 0000403><n 0>
+Yeah, man, sure.
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+<m 007>When did Dunning reopen the
+Dusk? Five years ago, right?
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Yeah, and Bradley killed Danny
+three years ago.
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+And then Bradley vanished
+with the angel painting.
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+Which brings us to six months 
+ago when he checked in here 
+as Kyle Hyde.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Right... And that's when Mila's 
+pops vanished.
+
+<color white><screen right><wait yes><sprite 0000410><n 0>
+And Bradley came to town.
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Yeah.
+
+
+<color white><screen right><wait yes><sprite 0000411><n 0>
+But man, none of this means
+squat!
+
+<color white><screen right><wait yes><sprite 0000411><n 0>
+All just a buncha dates and
+numbers to me!
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+Unless... Unless you got this
+all figured out.
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+Most of it. At least, I think
+so.
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+C'mon, Louie. We have to find 
+Dunning and Mila.
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+We talk to them? I got a
+hunch this'll all come
+together.
+<color white><screen right><wait yes><sprite 0000410><n 0>
+Whatever you say, Officer.
+
+
+<color white><screen right><wait no><sprite 00004FF><n 0>
+
+
+
+<color white><screen left><wait no><sprite 0000114><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+What is it?
+
+
+<color white><screen right><wait yes><sprite 0000420><n 0>
+I still can't tell.
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+I got it!
+
+
+<color white><screen left><wait no><sprite 0000114><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+What's up, Hyde?
+
+
+<color white><screen right><wait yes><sprite 0000413><n 0>
+Ain't ya gonna do nothin'?
+
+
+<color white><screen left><wait yes><sprite 0000107><n 0>
+I'm getting ready to go.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's paint in the bottom
+of the bucket.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There are all kinds of colors
+painted on the canvas.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's not much red paint
+left.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's yellow paint in the
+can.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's blue paint in the can.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's green paint in the
+can.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The bucket's pretty dusty.
+Guess no one used it
+for a while.
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's a painting of flowers
+on the wall.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's a painting leaning
+against the wall.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's a date on the back
+of the painting.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+It's a long piece of canvas.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's a landscape painted
+on the other side.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+Angel Opening a Door, huh?
+Hard to see what all the
+fuss is about.
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+This wooden table is all  
+nicked up. 
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+This palette's been used a
+lot.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's some wood on the
+table.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+A spray bottle of turpentine.
+Better keep this out of
+my eyes.
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+It's a dirty box. Go figure.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+About half of the paint's been
+used.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+An old bottle filled with paint.
+I didn't know paint came in
+bottles...
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+It's a cardboard box filled 
+with paint.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's a letter on the table.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's a palette knife on the
+table.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The wooden chair has paint
+on it.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The chair's ripped and full of
+holes.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's a charcoal drawing of
+a building on the back of the
+canvas.
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+There's a sketch of a woman
+on the back of the canvas.
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+It's a blank canvas.
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+The box holding the canvas
+is worn out.
+
