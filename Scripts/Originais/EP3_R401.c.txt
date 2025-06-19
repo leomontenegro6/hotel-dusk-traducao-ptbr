@@ -1,0 +1,829 @@
+!------------------------------------------------------!
+<r 401_01>
+!------------------------------------------------------!
+<r 0000>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+<s 1017010>
+
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+Huh? Someone's there.
+
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+It's...
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 401_01>
+!------------------------------------------------------!
+<r 401_02>
+<color white><screen left><wait no><sprite 0000124><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000923><n 0>
+Oh, hello. Is something wrong? 
+Why are you here?
+
+!------------------------------------------------------!
+<r 401_01>
+!------------------------------------------------------!
+<r 401_02>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Just wanted to find you.
+
+
+<color white><screen right><wait no><sprite 0000902><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000109><n 0>
+Thought maybe we could
+chat for a bit.
+
+<color white><screen right><wait yes><sprite 0000908><n 0>
+...Pardon?
+
+
+<color white><screen right><wait yes><sprite 00009FF><n 0>
+You came to see me? Why
+on earth...
+
+<color white><screen right><wait yes><sprite 0000908><n 0>
+Were you...were you FOLLOWING 
+me?
+
+<color white><screen right><wait yes><sprite 0000908><n 0>
+GO AWAY!
+
+
+!------------------------------------------------------!
+<r 401_01>
+!------------------------------------------------------!
+<r 401_02>
+<color white><screen left><wait yes><sprite 0000102><n 0>
+What, you own this roof?
+Knock it off.
+
+<color white><screen right><wait no><sprite 0000902><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I just came out to get some
+fresh air.
+
+<color white><screen right><wait yes><sprite 0000923><n 0>
+That wouldn't be the only
+fresh thing about you...
+
+<color white><screen right><wait yes><sprite 0000923><n 0>
+It's a bit cold, but it feels
+nice. Don't you agree?
+
+!------------------------------------------------------!
+<r 401_01>
+!------------------------------------------------------!
+<r 401_02>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Out here by yourself,
+huh?
+
+<color white><screen right><wait no><sprite 0000902><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 00009FF><n 0>
+Why? Are you lonely?
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+You didn't meet anyone
+out here or anything?
+
+<color white><screen right><wait yes><sprite 0000915><n 0>
+Like you?
+
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Like Kevin Woodward from
+219.
+
+<color white><screen right><wait yes><sprite 0000904><n 0>
+No, I don't know anyone by
+that name.
+
+<color white><screen right><wait yes><sprite 0000912><n 0>
+I've been by myself the
+whole time. Not that it's
+any of your business.
+<color white><screen left><wait yes><sprite 0000102><n 0>
+That so?
+
+
+!------------------------------------------------------!
+<r 401_01>
+!------------------------------------------------------!
+<r 401_02>
+<color white><screen left><wait yes><sprite 0000105><n 0>
+So you just came out to
+grab some air, huh?
+
+<color white><screen right><wait no><sprite 0000902><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000915><n 0>
+I dislike your tone, Mr. Hyde.
+Are you implying something?
+
+<color white><screen left><wait yes><sprite 0000105><n 0>
+Just seeing if you had any
+other reason for braving
+the chill.
+<color white><screen right><wait yes><sprite 0000915><n 0>
+No. No other reason.
+
+
+<color white><screen right><wait yes><sprite 0000915><n 0>
+Are you this charming to all
+the ladies in your life?
+
+!------------------------------------------------------!
+<r 401_01>
+!------------------------------------------------------!
+<r 401_02>
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+What?
+
+
+<color white><screen right><wait no><sprite 0000902><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00009FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+Iris turns and scampers off
+the rooftop.
+
+<color white><screen left><wait yes><sprite 0000124><n 0>
+<color blue>What the hell? I'm used to <color white> 
+<color blue>cold reactions from dames,<color white>
+<color blue>but that was nuts.<color white>
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 401_01>
+!------------------------------------------------------!
+<r 401_02>
+<color white><screen left><wait no><sprite 0000102><n 0>
+
+
+
+<color white><screen right><wait yes><sprite 0000901><n 0>
+Now if you'll excuse me?
+
+
+<color white><screen right><wait no><sprite 00009FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait yes><sprite 65534FF><n 0>
+Iris turns and leaves the
+rooftop.
+
+<color white><screen left><wait yes><sprite 0000102><n 0>
+<color blue>I wonder if she was really<color white>
+<color blue>here by herself...<color white>
+
+<color white><screen right><wait no><sprite 65534FF><n 0>
+
+
+
+!------------------------------------------------------!
+<r 401_01>
+!------------------------------------------------------!
+<r 401_02>
+<color white><screen left><wait no><sprite 0000141><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>OK, Hyde... Think. Why did <color white>
+<color blue>Melissa's mother up and<color white>
+<color blue>leave.<color white>
+<color white><screen left><wait yes><sprite 0000141><n 0>
+<color blue>And why would Kevin take<color white>
+<color blue>his kid to a hole like this?<color white>
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+<color blue>This whole thing stinks like<color white>
+<color blue>last week's lunch.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<color blue>Time to organize, Hyde.<color white>
+
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<color blue>Take a second and get your<color white>
+<color blue>thoughts together...<color white>
+
+!------------------------------------------------------!
+<r 0000>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen right><wait no><sprite 0001720><n 0>
+<m 003>
+
+
+<color white><screen left><wait no><sprite 0000125><n 0>
+<e 21>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>In the evening, I went down<color white>
+<color 4>to the restaurant for<color white>
+<color 4>dinner.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Before going, I ran into<color white>
+<color 4>Melissa's dad, Kevin.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Kevin asked me about...<color white>
+
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+He didn't ask me about
+the menu.
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2088010>
+<m 022>
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<e 16>That's right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+He wanted to know if
+Melissa had told me
+anything special.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Kevin told me he's a surgeon
+at a hospital down in
+Santa Monica, but...
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+He didn't ask about my
+job. Doubt he cares...
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait no><sprite 0001720><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><m 003>
+
+
+<color white><screen left><wait no><sprite 0000125><n 0>
+<e 16>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>I told Louie I wanted to get<color white>
+<color 4>into Room 217, where the<color white>
+<color 4>other Kyle Hyde stayed.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Then I sat down and had<color white>
+<color 4>a delicious meal made by<color white>
+<color 4>Rosa the Wonder Maid.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>After dinner, Summer came<color white>
+<color 4>by and yapped at me<color white>
+<color 4>about...<color white>
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2088010>
+<m 022>
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<e 16>That's right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Summer wanted to ask me
+about the box his notebook 
+was in.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Wanted to know if there was
+still a bookmark in the box.
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Louie's the one who asked
+me to have a drink with him.
+...Which I plan to do.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Helen's the one who asked
+me to help her to the
+restaurant.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait no><sprite 0001720><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><m 003>
+
+
+<color white><screen left><wait no><sprite 0000125><n 0>
+<e 16>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>There was a picture of an<color white>
+<color 4>angel on the bookmark I<color white>
+<color 4>found in the box.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>It was based on a painting<color white>
+<color 4>by a guy named...<color white>
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Alan's the name on the
+fountain pen that Louie
+picked up.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Pinkie Rabbit's the name of
+the cartoon character on
+Melissa's puzzle.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2088010>
+<m 022>
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<e 16>That's right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+It was a painter named
+Osterzone.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+The name of the painting
+is Angel Opening a Door.
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait no><sprite 0001720><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><m 003>
+
+
+<color white><screen left><wait no><sprite 0000125><n 0>
+<e 16>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Melissa argued with her dad,<color white>
+<color 4>then got locked in a room<color white>
+<color 4>with no power.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>I fixed the switchboard, got<color white>
+<color 4>power back to the room,<color white>
+<color 4>and got her out of there.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>The room Melissa was locked<color white>
+<color 4>in was...<color white>
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Room 219's where she and
+her dad are staying.
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2088010>
+<m 022>
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<e 16>That's right.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Melissa got herself locked
+in 218.
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Room 217's where the
+other Kyle Hyde stayed
+six months ago.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen right><wait no><sprite 0001720><n 0>
+
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><m 003>
+
+
+<color white><screen left><wait no><sprite 0000125><n 0>
+<e 16>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>While Melissa was locked in<color white>
+<color 4>the room, her dad Kevin was<color white>
+<color 4>nowhere to be found.<color white>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>Once we freed Melissa, he<color white>
+<color 4>showed up.<color white>
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<color 4>When I asked him where he'd<color white>
+<color 4>been, he said...<color white>
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2088010>
+<m 022>
+
+<color white><screen left><wait yes><sprite 0000103><n 0>
+<e 16>That's right. Said he'd been
+up on the roof.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+When I heard that, I decided
+to go and check out the
+roof myself.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+When I got there, I ran
+into Iris.
+
+<b 0003>
+<color white><screen left><wait no><sprite 0000125><n 0>
+<m 003>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+I got ready for my first
+night at Hotel Dusk.
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+I get the feeling that all
+the guests here are
+hiding secrets...
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+And why Melissa's mom
+vanished is just one of 
+them.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+There's also the guy with
+my name who stayed
+in 217 six months ago.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+The story about that
+bookmark picture got my
+wheels turning, too.
+<color white><screen left><wait no><sprite 0000124><n 0>
+<m 004>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Too many mysteries in my
+life. And I'm so damn tired...
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Well, guess I better poke
+around and see what
+else I can find.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+Who knows? Something here
+may get me a step closer
+to Bradley.
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 29><m 160>
+
+
+<color white><screen right><wait no><sprite 00101FF><n 0>
+<e 29>
+
+
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+Mila was the one looking at
+the painting.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+She was standing in front of
+a painting with an apple in
+it.
+!------------------------------------------------------!
+<r 0002>
+!------------------------------------------------------!
+<r 0002>
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 12>
+
+
+<color white><screen left><wait no><sprite 00001FF><n 0>
+<e 49><s 2089010>
+
+
+<color white><screen left><wait yes><sprite 0000115><n 0>
+<e 16>No, that ain't it.
+
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I was the one doing a
+puzzle in Melissa's room.
+
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+I put the puzzle together
+and found a message on
+the back of it.
+<color white><screen left><wait yes><sprite 00001FF><n 0>
+It was a message from
+Melissa's mom.
+
