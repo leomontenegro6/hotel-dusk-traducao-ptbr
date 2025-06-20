@@ -1,10 +1,10 @@
 <color white><screen left><wait yes><sprite 0000102><n 0>
-<m 014><color blue>Wait a minute...<color white>
+<m 014><color blue>Espera um instante...<color white>
 
 
 <color white><screen left><wait yes><sprite 0000115><n 0>
-<color blue>Dunning said something<color white>
-<color blue>while I was checking in...<color white>
+<color blue>Dunning disse algo enquanto<color white>
+<color blue>eu estava dando entrada...<color white>
 
 !------------------------------------------------------!
 <r 0000>
@@ -17,20 +17,20 @@
 
 
 <color white><screen right><wait yes><sprite 0000219><n 0>
-<e 36><e 35>Yer name really Kyle Hyde?
+<e 36><e 35>Seu nome é mesmo Kyle Hyde?
 
 
 <color white><screen right><wait yes><sprite 0000213><n 0>
-Huh.
+Hã.
 
 
 <color white><screen right><wait yes><sprite 0000215><n 0>
-Yeah, sure. Forget about it.
-
+É, claro! Esqueça o
+que acabei de dizer.
 
 <color white><screen left><wait yes><sprite 0000114><n 0>
-<e 40><color blue>I wonder why my name got<color white>
-<color blue>that reaction.<color white>
+<e 40><color blue>Por que será que meu nome<color white>
+<color blue>fez ele ter aquela reação?<color white>
 <m 160>
 <color white><screen right><wait no><sprite 00002FF><n 0>
 <e 31>
@@ -41,13 +41,13 @@ Yeah, sure. Forget about it.
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-<m 014><color blue>That reminds me...<color white>
+<m 014><color blue>Isso me lembra que...<color white>
 
 
 <color white><screen left><wait yes><sprite 0000115><n 0>
-<color blue>When Dunning gave me my<color white>
-<color blue>room key, he said<color white>
-<color blue>something...<color white>
+<color blue>Quando Dunning deu a chave<color white>
+<color blue>do meu quarto, ele disse<color white>
+<color blue>algo...<color white>
 !------------------------------------------------------!
 <r 0000>
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -59,16 +59,16 @@ Yeah, sure. Forget about it.
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-<e 36><e 35>Naw, forget it.
+<e 36><e 35>Nada, esquece.
 
 
 <color white><screen right><wait yes><sprite 0000217><n 0>
-I'm sure a man like you would
-think the story's a waste'a
-time!
+Um cara como você
+acharia a história uma
+perda de tempo!
 <color white><screen left><wait yes><sprite 0000114><n 0>
-<e 40><color blue>I wonder what story he was<color white>
-<color blue>talking about.<color white>
+<e 40><color blue>De que história ele estava<color white>
+<color blue>falando.<color white>
 <m 160>
 <color white><screen right><wait no><sprite 00002FF><n 0>
 <e 31>
@@ -79,13 +79,13 @@ time!
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-<m 014><color blue>That reminds me...<color white>
+<m 014><color blue>Isso me lembra que...<color white>
 
 
 <color white><screen left><wait yes><sprite 0000115><n 0>
-<color blue>When I asked about my<color white>
-<color blue>package, Dunning said<color white>
-<color blue>something...<color white>
+<color blue>Quando perguntei sobre meu<color white>
+<color blue>pacote, Dunning disso algo...<color white>
+
 !------------------------------------------------------!
 <r 0000>
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -97,16 +97,16 @@ time!
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-<e 36><e 35>Ya send a package to a
-hotel when ya don't even
-have a reservation? Nice...
+<e 36><e 35>Tu enviou um pacote pra um
+hotel que nem fez reserva?
+É osso, né...
 <color white><screen right><wait yes><sprite 0000204><n 0>
-Oh, and this package better
-not be anything that's
-gonna cause problems!
+Ah, é melhor que esse seu 
+pacote não seja nada que 
+vá causar problemas!
 <color white><screen left><wait yes><sprite 0000114><n 0>
-<e 40><color blue>I wonder what he meant<color white>
-<color blue>about causing problems.<color white>
+<e 40><color blue>O que ele quis dizer<color white>
+<color blue>com causar problemas?<color white>
 <m 160>
 <color white><screen right><wait no><sprite 00002FF><n 0>
 <e 31>
