@@ -1,29 +1,30 @@
 !------------------------------------------------------!
 <r 213_03>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-You know where that kid
-on the stairs is staying?
+Você sabe onde aquela guria
+na escada tá hospedada?
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I think she's in Room 219.
+Acho que ela tá no
+quarto 219.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-She's staying with a big slob
-of a man. Probably her 
-father.
+Ela tá hospedada com aquele
+bananão lá. Provavelvemente 
+é o pai dela.
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Her name's Melissa. At least
-that's what her father calls
-her.
+O nome dela é Melisa. Pelo
+menos é assim que o pai
+dela chama ela.
 !------------------------------------------------------!
 <r 213_03>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-What's your name?
+Qual o teu nome?
 
 
 <color white><screen right><wait no><sprite 0000602><n 0>
@@ -31,7 +32,7 @@ What's your name?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I'm Jeff.
+É Jeff.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
@@ -47,9 +48,9 @@ Jeff Angel.
 
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<color blue>Jeff Angel? Yeah, right.<color white>
-<color blue>Wonder what this punk's<color white>
-<color blue>story is.<color white>
+<color blue>Jeff Angel? Aham, tá bom.<color white>
+<color blue>Quero só ver qual é a<color white>
+<color blue>história desse moleque.<color white>
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
 
@@ -59,30 +60,33 @@ Jeff Angel.
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-You here alone?
+Veio pra cá só?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Yes. What of it?
+Sim. E daí?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-You stay here a lot?
+Você se hospeda bastante
+por aqui?
 
 
 <color white><screen right><wait yes><sprite 0000613><n 0>
-You're kidding, right?
+Tá tirando uma com a
+minha cara, é?
 
 
 <color white><screen right><wait yes><sprite 0000614><n 0>
-This is the first time I've
-ever stayed in a place
-without room service.
+É a primeira vez que me
+hospedo num hotel que
+nem tem serviço de quarto.
 <color white><screen right><wait yes><sprite 0000614><n 0>
-Normally, I wouldn't come
-near a dump like this.
+Geralmente, eu nem sequer
+chegaria perto num fim de
+mundo que nem aqui.
 
 <color white><screen right><wait yes><sprite 0000614><n 0>
-Tonight, however, I seem to
-have no choice.
+Mas hoje, contudo, pareceu
+que eu não tive escolha.
 
