@@ -3,83 +3,84 @@
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Top o' the mornin', Hyde.
+Dormiu com as galinhas, Hyde?
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-"Top o' the mornin'"? Hey,
-DeNonno, you're Italian,
-remember?
+"Dormiu com as galinhas'"?
+E isso lá jeito de dar bom
+dia, DeNonno?
 <color white><screen right><wait yes><sprite 0000420><n 0>
-To the bone, paisan! So 
-what's the deal? Why ya
-carrying your suitcase?
+Que nada! Mas então, qual é 
+lance? Por que tu tá
+carregando essa maleta?
 <color white><screen right><wait yes><sprite 0000420><n 0>
-Don't tell me you're hitting
-the road already!
+Não vai me dizer que tu já
+vai meter o pé na estrada?!
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-I am.
+Vou sim.
 
 
 <color white><screen right><wait yes><sprite 0000413><n 0>
-What? Aw, c'mon, Hyde, ya
-can't be serious.
+Quê? Ah, qualé, cara! Hyde,
+tu só pode tá brincando.
 
 <color white><screen right><wait yes><sprite 0000413><n 0>
-What now? Cat stuck in a tree
-somewheres? Grandma Patch
-need help crossin' a road?
+Qual o problema dessa vez?
+Vai ajudar uma vovózinha
+atravessar a esquina?
 <color white><screen left><wait yes><sprite 0000117><n 0>
-You're hilarious, Louie. And
-I'm done helping people.
+Você é uma comédia e tanto,
+Louie. Eu tô é farto de
+ajudar pessoas.
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-I'm taking a vacation. Maybe
-get some sun. Find a nice
-beach somewhere and relax. 
+Vou tirar umas férias. Num
+lugar bom. Numa praia aí
+e relaxar. 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-You? Relaxin'? World's gone
-crazy!
-
-<color white><screen right><wait yes><sprite 0000401><n 0>
-But yeah, that sounds good to
-me, too.
-
-<color white><screen left><wait yes><sprite 0000117><n 0>
-So...
-
-
-<color white><screen left><wait yes><sprite 0000117><n 0>
-How's Mila?
-
+Você? Relaxar? O mundo ficou
+maluco!
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Aw, she's in Rosa's room.
+Mas realmente, me parece ser
+uma boa ideia.
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Então...
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+Como vai a Mila?
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Heard she didn't sleep too
-good last night.
+Ah, ela tá no quarto da Rosa.
+
+
+<color white><screen right><wait yes><sprite 0000401><n 0>
+Ouvi que ela não conseguiu
+dormir bem ontem.
 
 <color white><screen right><wait yes><sprite 0000415><n 0>
-All the stuff what she's
-learned since comin' here?
-Must be rough, yeah?
+E todas aquelas coisas que
+ela soube vindo pra cá?
+Deve ser dureza, né?
 <color white><screen left><wait yes><sprite 0000114><n 0>
-Yeah.
+Pois é.
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Yeah, but I bet she'd like to
-see you, man.
+Mas eu acho que ela iria
+gostar de te ver, cara.
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Best to stop by before you
-leave, ya dig?
+Melhor dá um adeus antes de
+partir, morou?
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-I might.
+Acho que vou fazer isso.
 
 
 <color white><screen left><wait no><sprite 0000102><n 0>
@@ -87,11 +88,12 @@ I might.
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Yo, Hyde.
+Aí, Hyde.
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Make sure ya go an' see Mila.
+Me promete que tu vai ver
+a Mila.
 
 
 <color white><screen left><wait no><sprite 0000102><n 0>
@@ -99,43 +101,45 @@ Make sure ya go an' see Mila.
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-How's Mila doin'?
+Como é que tá a Mila?
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Ya get a chance to talk to
-her? Did she mention me?
+Teve uma chance de poder
+falar com ela? Ela falou algo
+sobre mim?
 
 <color white><screen left><wait yes><sprite 0000114><n 0>
-I didn't see her.
+Eu não fui ver ela.
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Why not, man?
+Por que não, cara?
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-It's better this way.
+É melhor assim.
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Listen, Louie, I want you to
-take care of Mila.
+Escuta, Louie, eu quero que
+você tome conta dela.
 
 <color white><screen right><wait no><sprite 0000403><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-What're you talkin' 'bout? Me
-and Mama Sass got everything 
-covered.
+Que é que tu tá falando? Eu
+e a mamãezona já tamo 
+cuidando de tudo.
 <color white><screen right><wait yes><sprite 0000401><n 0>
-I bet even ol' man Dunning will
-lend a hand.
+Aposto que até o velhote do
+Dunning iria dar uma mão.
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Don't worry 'bout a thing.
+Precisa se preocupar com
+nada.
 
 
 <color white><screen left><wait no><sprite 0000103><n 0>
@@ -147,43 +151,45 @@ Don't worry 'bout a thing.
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-So, uh, Hyde?
+Então, err, Hyde?
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-You think Nile's still after me?
+Tu acha que o Nilo ainda tá
+atrás de mim?
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-I think you're in the clear, pal.
-
+Eu acho que você tá limpo,
+cara.
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-I think Nile's going to be
-busy chasing Bradley.
+Provavelmente eles estão
+ocupados indo atrás do
+Bradley.
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-Oh, trip, man...
+Ah, viagem, cara...
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-Louie, this whole damn day
-has been a trip.
+Louie, esta droga inteira de
+dia foi mesmo uma viagem.
 
 <color white><screen right><wait yes><sprite 0000402><n 0>
-I hear you, brother.
+Pode crer, meu irmão.
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-So... See ya around?
+Então... Te vejo por aí?
 
 
 <color white><screen left><wait yes><sprite 0000109><n 0>
-Bet your life, brother. We're
-partners, remember.
+Pode apostar, meu irmão. A
+gente é parceiro, lembra?
 
 <color white><screen right><wait yes><sprite 0000405><n 0>
-That's what I'm talking about!
+É disso que eu tô falando!
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -195,10 +201,9 @@ That's what I'm talking about!
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Take care of yourself, Officer
-Hyde.
+Se cuida, Oficial Hyde.
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-And stay outta trouble!
+E fique longe de encrencas!
 
 
