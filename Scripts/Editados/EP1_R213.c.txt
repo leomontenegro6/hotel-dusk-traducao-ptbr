@@ -496,7 +496,7 @@ mesma hora?
 <!><color white><screen right><wait yes><sprite 0000601><n 0>
 Tipo, com um detetive de
 verdade. Isso não costuma
-muito, né?
+acontecer muito, né?
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000105><n 0>
@@ -2164,7 +2164,7 @@ Relaxa, maninho!
 Pra quê perder a cabeça,
 morou?
 <color white><screen right><wait yes><sprite 0000404><n 0>
-Tanto faz, tenho que ir. 
+Tanto faz, tô vazando. 
 
 
 <color white><screen right><wait no><sprite 00004FF><n 0>
@@ -2316,39 +2316,39 @@ Você é um idiota.
 
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-And here's more proof that
-I'm right. You brought me
-the wrong package.
+E aqui mais uma prova de
+que eu estou certo. Você me
+trouxe o pacote errado.
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Two packages to deliver and
-you got 'em both wrong.
-Nice work, Louie.
+Você entregou dois pacotes,
+e os dois entregou errado.
+Belo trabalho, Louie.
 <color white><screen right><wait yes><sprite 0000411><n 0>
-What?
+Sério?
 
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Luckily when I went down to
-the front desk, the guy who
-got my package called.
+Felizmente quando eu fui
+na recepção, o cara que tava
+com meu pacote ligou.
 <color white><screen left><wait yes><sprite 0000107><n 0>
-He's going to drop it by my
-room later.
+Ele vai deixar no meu quarto
+mais tarde.
 
 <color white><screen right><wait yes><sprite 0000413><n 0>
-So we're all cool then, right, 
-man?
+Ah, então ficou tudo resolvido,
+né não?
 
 <color white><screen left><wait yes><sprite 0000111><n 0>
-No. We're not cool. You're
-an idiot and I'm ticked off! 
-
+Não. Não tá resolvido.
+Você é um idiota e eu tô
+de saco cheio disso! 
 <color white><screen right><wait yes><sprite 0000413><n 0>
-Chill, brother! No need to
-blow a fuse, yeah?
-
+Relaxa, maninho! 
+Pra quê perder a cabeça,
+morou?
 <color white><screen right><wait yes><sprite 0000404><n 0>
-Anyway, gotta blow. 
+Tanto faz, tô vazando. 
 
 
 <color white><screen right><wait no><sprite 00004FF><n 0>
@@ -2356,11 +2356,11 @@ Anyway, gotta blow.
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Louie leaves.
+O Louie vai embora.
 
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<color blue>Same old Louie.<color white>
+<color blue>O mesmo Louie de sempre.<color white>
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -2388,7 +2388,7 @@ Louie leaves.
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Go away.
+Vai embora.
 
 
 !------------------------------------------------------!
@@ -2402,11 +2402,11 @@ Go away.
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Who is it?
+Quem é?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Kyle Hyde, from 215.
+Kyle Hyde, do 215.
 
 
 !------------------------------------------------------!
@@ -2420,11 +2420,11 @@ Kyle Hyde, from 215.
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Who is it?
+Quem é?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Kyle Hyde, from 215.
+Kyle Hyde, do 215.
 
 
 !------------------------------------------------------!
@@ -2442,7 +2442,7 @@ Kyle Hyde, from 215.
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Go away.
+Vá embora.
 
 
 !------------------------------------------------------!
@@ -2468,11 +2468,11 @@ Go away.
 
 
 <color white><screen right><wait yes><sprite 0000901><n 0>
-Mr. Hyde? What do you need?
+Sr. Hyde? Do que precisa?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-I got questions.
+Tenho umas perguntas.
 
 
 <color white><screen right><wait no><sprite 0000902><n 0>
@@ -2494,7 +2494,7 @@ I got questions.
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Why are you staying here?
+Por que você tá ficando aqui?
 
 
 <color white><screen right><wait no><sprite 0000902><n 0>
@@ -2502,27 +2502,27 @@ Why are you staying here?
 
 
 <color white><screen right><wait yes><sprite 0000904><n 0>
-Pardon?
+Perdão?
 
 
 <color white><screen right><wait yes><sprite 0000901><n 0>
-I can understand why you'd
-want to speak to me, but...
+Consigo entender por que
+você quer falar comigo, mas...
 
 <color white><screen left><wait no><sprite 0000124><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000906><n 0>
-I'm sorry. I don't have time
-to...chat with you right
-now.
+Desculpe, eu não tenho tempo
+para... conversar com você
+agora.
 <color white><screen right><wait yes><sprite 0000901><n 0>
-And I think you should mind
-your own business!
-
+E eu acho que você deveria
+cuidar de coisas que fossem
+da sua conta!
 <color white><screen right><wait yes><sprite 0000904><n 0>
-Now please leave.
+Agora por favor, saia.
 
 
 !------------------------------------------------------!
@@ -2534,20 +2534,20 @@ Now please leave.
 
 
 <color white><screen right><wait yes><sprite 0000901><n 0>
-Is that everything?
+Isso é tudo?
 
 
 <color white><screen right><wait yes><sprite 0000906><n 0>
-Then may I suggest that
-you buy an outdated map
-and get lost?
+Então, sugiro que você vá
+lá na esquina ver se eu
+estou lá?
 <color white><screen right><wait no><sprite 00009FF><n 0>
 <e 12>
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-<s 1012010>Iris goes inside and slams
-the door.
+<s 1012010>A Iris volta para dentro e
+bate a porta.
 
 <color white><screen left><wait no><sprite 0000102><n 0>
 <e 28>
@@ -2570,34 +2570,34 @@ the door.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Yes? What is it?
+Sim? O que deseja?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-I met a girl in the lobby
-named Mila.
+Conheci uma garota no
+saguão chamada Mila.
 
 !------------------------------------------------------!
 <r 000_02>
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Mila? Who's that?
+Mila? Não conheço.
 
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-You should know. You brought 
-her here.
+Você deveria. Afinal foi você 
+que trouxe ela pra cá.
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Oh. Her. 
+Aah. Ela. 
 
 
-<sprite 0000125><color red>You didn't know her name?<color white>
+<sprite 0000125><color red>Você não sabia o nome dela?<color white>
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000604><n 0>
-What about her?
+Que que têm ela?
 
 
 !------------------------------------------------------!
@@ -2613,19 +2613,19 @@ What about her?
 !------------------------------------------------------!
 <r 000_02>
 <color white><screen right><wait yes><sprite 0000619><n 0>
-Who is it?
+Quem tá aí?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-You need something?
+Precisa de algo?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Kyle Hyde. I'm in 215.
+Kyle Hyde. Tô no 215.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I'm Jeff.
+Sou o Jeff.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
@@ -2641,8 +2641,8 @@ Jeff Angel.
 
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<color blue>Jeff Angel? Wonder what<color white>
-<color blue>this punk's story is?<color white>
+<color blue>Jeff Angel? Qual será a<color white>
+<color blue>história desse sujeito?<color white>
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
@@ -2653,34 +2653,34 @@ Jeff Angel.
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Tell me something, Jeff.
+Me tira uma dúvida, Jeff.
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-I met a girl in the lobby
-named Mila.
+Conheci uma garota no saguão
+chamada Mila.
 
 !------------------------------------------------------!
 <r 000_02>
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Mila? Who's that?
+Mila? Quem é?
 
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-You should know. You
-brought her here.
+Você deveria conhecer.
+Você quem trouxe ela pra cá.
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Oh. Her.
+Ah tá. Ela.
 
 
-<sprite 0000125><color red>You didn't know her name?<color white>
+<sprite 0000125><color red>Você não sabia o nome dela?<color white>
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000604><n 0>
-What about her?
+O que tem ela?
 
 
 !------------------------------------------------------!
@@ -2696,11 +2696,11 @@ What about her?
 !------------------------------------------------------!
 <r 000_02>
 <color white><screen right><wait yes><sprite 0000619><n 0>
-You again?
+Você de novo?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-What is it?
+O que é?
 
 
 !------------------------------------------------------!
@@ -2718,15 +2718,15 @@ What is it?
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000106><n 0>
-She never told you her
-name?
+Então ela nunca te disse
+seu nome?
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Maybe. I don't remember.
+Sei lá. Não me lembro.
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
@@ -2738,28 +2738,28 @@ Maybe. I don't remember.
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Why'd you bring her here?
-
+Por que você trouxe
+ela pra cá?
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-She asked me to.<color red> <color white>Said she
-<color red>had to get to Hotel Dusk<color white>.
+Ela que pediu.<color red> <color white>Disse que
+<color red>tinha que ir pro Hotel Dusk<color white>.
 
 <sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>Who would want to come<color white>
-<color blue>to this dump? Other than <color white>
-<color blue>a cockroach collector.<color white>
+<color blue>Quem viria pra esse lixão<color white>
+<color blue>por escolha própria? Talvez <color white>
+<color blue>um colecionador de baratas.<color white>
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
 
 
 <!><color white><screen right><wait yes><sprite 0000601><n 0>
-So I gave her a lift.
+Então dei uma carona.
 
 
 <!><color white><screen right><wait yes><sprite 0000601><n 0>
-Why, is there a problem?
+Por quê, algum problema?
 
 
 !------------------------------------------------------!
@@ -2767,7 +2767,7 @@ Why, is there a problem?
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Wait, wait.
+Calma, calma.
 
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
@@ -2779,134 +2779,134 @@ Wait, wait.
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-She ASKED you to bring
-her here?
+Ela te PEDIU pra vir
+pra cá?
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Of course! Well, kind of...
-Actually, she never said a
-word to me.
+Óbvio! Quer dizer, tipo isso...
+Na verdade, ela não disse
+uma palavra pra mim.
 <color white><screen left><wait yes><sprite 0000124><n 0>
-She didn't talk?
+Ela não falou?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-So how'd you know she
-wanted to come here? 
+Então como você sabia que
+ela queria vir pra cá?
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-She had a <color red>brochure<color white>. Of the
-hotel, you know?
+Ela tinha um <color red>panfleto<color white>.
+Aquele do hotel, sabe?
 
-<sprite 0000125><color red>She had a brochure?<color white>
+<sprite 0000125><color red>Ela tinha um panfleto?<color white>
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-You know, paper? Little 
-pictures? Anyway, I figured 
-it was her stop.
+Tá ligado, papel? Figuras? 
+Tanto faz, eu supus que era 
+aqui que ela queria ficar.
 !------------------------------------------------------!
 <r 000_02>
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-Why'd you give her a ride?
-
+Mas por que você deu a ela
+uma carona?
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000603><n 0>
-I'm a nice guy.
+Sou um cara legal.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Something wrong with trying
-to help out a girl in
-trouble?
+Algo de errado em tentar
+ajudar uma garota com
+problemas?
 <color white><screen right><wait yes><sprite 0000601><n 0>
-She had a <color red>brochure<color white>. Of the
-hotel, you know?
+Ela tinha um <color red>panfleto<color white>.
+Aquele do hotel, sabe?
 
-<sprite 0000125><color red>She had a brochure?<color white>
+<sprite 0000125><color red>Ela tinha um panfleto?<color white>
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Yeah. You know, paper?
-Little pictures? Anyway, I
-figured it was her stop.
+Tá ligado, papel? Figuras? 
+Tanto faz, eu supus que era 
+aqui que ela queria ficar.
 !------------------------------------------------------!
 <r 000_02>
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-So she knew about this
-hotel, did she?
+Então ela já conhecia
+esse hotel, certo?
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Are you practicing to be an
-echo chamber or something?
-Yeah, she knew.
+Tá fazendo aulas pra virar
+papagaio é? Sim, ela sabia.
+
 <color white><screen right><wait yes><sprite 0000601><n 0>
-She was carrying a brochure
-from this hotel. I don't get
-why this is so hard for you.
+Ela tinha um panfleto desse
+hotel. Não sei por que isso
+tá sendo difícil de entender.
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I asked her where she was
-headed. She showed me
-the brochure.
+Eu perguntei pra onde ela
+queria ir, eai ela me mostrou
+o panfleto.
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I needed a place to stay,
-too, and figured one place
-was as good as another.
+Eu também precisava de um
+lugar pra ficar, então pensei
+que esse lugar serviria.
 <color white><screen right><wait yes><sprite 0000601><n 0>
-So here I am.
+E aqui estou.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Believe me, I wouldn't have
-stopped if I knew what a
-dump it really was.
+Confie em mim, eu não
+teria parado se soubesse o
+lixão que esse lugar era.
 !------------------------------------------------------!
 <r 000_02>
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-You said it was too bad I
-wasn't a cop. What's that
-mean?
+Você disse que era uma pena
+eu não ser um tira. Por que 
+disse isso?
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Nothing much.
+Ah, por nada.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I just thought it would be
-<color red>cool <color white>to have a cop or a
-detective in the hotel.
+Só pensei que seria bem
+<color red>legal <color white>ter um tira ou um
+detetive no hotel.
 <sprite 0000104><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>Huh?<color white>
+<color blue>Hã?<color white>
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -2920,19 +2920,19 @@ detective in the hotel.
 
 
 <!><color white><screen right><wait yes><sprite 0000601><n 0>
-But what're the chances
-of being here at the same
-time?
+Mas qual a chance de
+eu estar aqui bem na
+mesma hora?
 <!><color white><screen right><wait yes><sprite 0000601><n 0>
-With a real detective, I
-mean. Can't happen too
-often, right?
+Tipo, com um detetive de
+verdade. Isso não costuma
+acontecer muito, né?
 !------------------------------------------------------!
 <r 000_02>
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Hold it.
+Espera.
 
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
@@ -2944,53 +2944,53 @@ Hold it.
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-What did you mean by
-"cool"?
+O que você quis dizer
+com "legal"?
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000603><n 0>
-Oh, that.
+Ah, isso.
 
 
 <color white><screen right><wait yes><sprite 0000604><n 0>
-Take a look around. Better
-yet, take a sniff. This
-hotel...
+Dê uma olhada em volta.
+Melhor, dê uma cheirada
+em volta. Esse hotel...
 <color white><screen right><wait yes><sprite 00006FF><n 0>
-It's like the set of some
-cheap TV crime drama,
-don't you think?
+Tem a exata cara de um
+cenário de série policial ruim,
+você não acha?
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-What if a real crime took
-place? Something sleazy
-and violent.
+E se acontecesse um crime 
+de verdade? Algo bem
+pesado e violento.
 <color white><screen right><wait yes><sprite 0000601><n 0>
-And then if a real gumshoe
-was here trying to figure
-things out...?
+E se tivesse tipo um
+detetive tentando desvendar
+o caso...?
 <color white><screen right><wait yes><sprite 0000601><n 0>
-C'mon! That would be cool!
-Even you must think so.
+Qualé! Seria muito maneiro!
+Até você tem que admitir isso.
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-That's an odd thing to
-think about.
+Isso é algo muito estranho
+de se pensar sobre.
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Yeah, I'm a pretty deep guy.
-
+Pois é, eu sou um cara
+bem profundo, sabe?
 
 <color white><screen right><wait yes><sprite 0000614><n 0>
-Hey, take it easy. I'm not a
-criminal or anything.
-
+Mas, ei, fica na boa.
+Não sou nenhum tipo de
+criminoso.
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
@@ -3004,33 +3004,33 @@ criminal or anything.
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Well, no detectives here.
-
+Olha, acho que não tem
+detetives por aqui.
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-No, it doesn't appear so.
+É, não parece ter mesmo.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-But then again, who knows?
+Mas sei lá, que sabe?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Got a thing for detectives?
+É chegado em detetives?
 
 
 <color white><screen right><wait yes><sprite 0000614><n 0>
-A thing? Well...I wouldn't
-mind meeting a down-
-and-out detective.
+Chegado? Olha... até que não
+me importaria de conhecer
+um detetive fracassado.
 <color white><screen right><wait yes><sprite 0000614><n 0>
-You know, the kind who'd
-stay in this dump? Guns 
-and dames and all that?
+Tá ligado, daqueles que
+ficariam em lixões como esse.
+Armas, garotas e tudo mais.
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
@@ -3044,32 +3044,32 @@ and dames and all that?
 !------------------------------------------------------!
 <r 213_06>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Hey, you said Mila asked you
-to bring her here, right?
-
+Ei, você disse que a Mila
+pediu pra você trazer ela
+aqui, certo?
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000603><n 0>
-That's right.
+Isso aí.
 
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-You sure?
+Tem certeza?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Well, she was carrying a
-hotel <color red>brochure<color white>, you know?
+Cara, ela tava carregando 
+um <color red>panfleto<color white> do hotel, sabe?
 
-<sprite 0000125><color red>She had a brochure?<color white>
+<sprite 0000125><color red>Ela tinha um panfleto?<color white>
 <color white><screen left><wait yes><sprite 0000601><n 0>
-What are you writing down?
+Escrevendo o que aí?
 
 
 <color white><screen left><wait yes><sprite 0000601><n 0>
-What are you looking at?
+Tá olhando o quê?
 
 
 !------------------------------------------------------!
@@ -3081,19 +3081,19 @@ What are you looking at?
 
 
 <color white><screen right><wait yes><sprite 0000604><n 0>
-<e 16>You need anything else?
+<e 16>Precisando de algo?
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-No.
+Não.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-All right.
+Certo.
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Good-bye, then.
+Até depois, então.
 
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
@@ -3103,19 +3103,19 @@ Good-bye, then.
 !------------------------------------------------------!
 <r 213_07>
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-<s 1012010>Jeff finishes talking and
-shuts the door.
+<s 1012010>O Jeff termina a conversa
+e fecha a porta.
 
 <color white><screen left><wait no><sprite 0000102><n 0>
 <e 28>
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-<e 11><m 014><color blue>Wait a minute...<color white>
+<e 11><m 014><color blue>Espera um momento...<color white>
 
 
 <color white><screen left><wait yes><sprite 0000115><n 0>
-<color blue>What did Jeff say?<color white>
+<color blue>O que o Jeff disse?<color white>
 
 
 !------------------------------------------------------!
@@ -3129,15 +3129,15 @@ shuts the door.
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-<e 36><e 35>She asked me to. 
+<e 36><e 35>Ela me pediu.
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Said she had to get to Hotel
-Dusk.
+Ela disse que tinha que ir
+pro Hotel Dusk.
 
 <color white><screen left><wait yes><sprite 0000114><n 0>
-<e 40>Mila can speak?
+<e 40>A Mila pode falar?
 
 <m 160>
 <color white><screen right><wait no><sprite 00006FF><n 0>
@@ -3149,8 +3149,8 @@ Dusk.
 !------------------------------------------------------!
 <r 213_R>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-Huh? Someone's in the
-hallway.
+Hã? Têm alguém no corredor.
+
 
 <color white><screen right><wait no><sprite 65533FF><n 0>
 
@@ -3171,43 +3171,43 @@ hallway.
 
 
 <color white><screen right><wait yes><sprite 0000211><n 0>
-<e 07>There ya are, Mr. Hyde!
-Hold it right there!
+<e 07>Aí está você, Sr. Hyde!
+Aguenta aí um segundo!
 
 <color white><screen right><wait yes><sprite 0000211><n 0>
-I was just comin' to see ya!
-
+Eu estava mesmo querendo
+ver sua cara!
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-You need something?
+Precisa de algo?
 
 
 <color white><screen right><wait yes><sprite 0000215><n 0>
-Just got a call from Mr.
-Summer 'bout a package.
-
+Acabei de receber uma
+ligação do Sr. Summer falando
+dum tal pacote.
 <color white><screen right><wait yes><sprite 0000211><n 0>
-The one was s'posed to go
-to you, but got sent t'him
-by accident?
+Era pra ter sido entregue pra
+tu, mas acabou nas mãos
+dele por engano?
 <color white><screen right><wait yes><sprite 0000211><n 0>
-He said ya chewed his ass
-out just 'cause he opened
-the damned thing!
+Ele falou que tu deu um
+carão nele só por que abriu
+a merda do teu pacote.
 <color white><screen right><wait yes><sprite 0000211><n 0>
-Must be somethin' in that
-package ya don't want
-nobody else to see, huh?
+Certeza que tem coisa nele
+que tu não queria que
+ninguém visse, né?
 <color white><screen right><wait yes><sprite 0000206><n 0>
-I dunno if it's drugs or guns
-or what, but I told ya I
-don't want no trouble!
+Sei lá se é droga, arma, ou
+o diabo a quatro. Mas te falei
+pra não causa problemas.
 <color white><screen right><wait yes><sprite 0000214><n 0>
-<e 07>I ain't takin' no chances!
-Pack yer stuff and hit the
-road!
+<e 07>Não vou arriscar, não!
+Junta tuas coisas e cai fora!
+
 <color white><screen left><wait yes><sprite 0000110><n 0>
-What?
+O quê?
 
 
 <color white><screen right><wait no><sprite 00002FF><n 0>
@@ -3225,7 +3225,7 @@ What?
 !------------------------------------------------------!
 <r 0000>
 <color white><screen left><wait yes><sprite 0000129><n 0>
-<m 030><color blue>That's not what...<color white>
+<m 030><color blue>Mas isso não é...<color white>
 
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
@@ -3233,8 +3233,8 @@ What?
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>I didn't mean to give<color white>
-<color blue>Summer a hard time.<color white>
+<color blue>Eu não queria ter<color white>
+<color blue>incomodado o Sr. Summer.<color white>
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 <e 38>
@@ -3245,17 +3245,17 @@ What?
 
 
 <color white><screen right><wait yes><sprite 0000809><n 0>
-<e 36><e 35>You have no cause to speak
-to me in such a manner,
-Mr. Hyde!
+<e 36><e 35>Você não tem motivo
+para falar comigo assim
+Sr. Hyde!
 <color white><screen right><wait yes><sprite 0000809><n 0>
-It's true that I did look at
-the contents of your
-parcel.
+É verídico que observei o
+conteúdo de sua encomenda.
+
 <color white><screen right><wait yes><sprite 0000809><n 0>
-However, let me assure you
-I intended no injury. These
-things happen andµ
+Contudo, deixe-me afirmar que
+não tive intenção de danificar.
+essas coisas acontecem eµ
 <color white><screen right><wait no><sprite 00008FF><n 0>
 <e 32><e 31>
 
@@ -3265,7 +3265,7 @@ things happen andµ
 
 
 <color white><screen left><wait yes><sprite 0000108><n 0>
-Right.
+Certo.
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
