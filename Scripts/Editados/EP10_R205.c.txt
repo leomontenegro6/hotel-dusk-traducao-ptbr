@@ -18,78 +18,79 @@
 
 
 <color white><screen right><wait yes><sprite 00015FF><n 0>
-Hyde! What's the good word?
+Hyde! Qual é a boa?
 
 
 <b 0133>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-I got it, Ed. I finally got it...
+Eu entendi, Ed. Finalmente,
+entendi...
 
 
 <color white><screen left><wait yes><sprite 65534FF><n 0>
-I told Ed everything that 
-Dunning said.
+Contei pro Ed tudo o que
+o Dunning falou.
 
 <color white><screen left><wait yes><sprite 65534FF><n 0>
-I told him about Evans, and
-Jenny, and Mila...
-And Bradley.
+Contei sobre o Evans, Jenny,
+Mila...
+E sobre o Bradley.
 <color white><screen left><wait yes><sprite 65534FF><n 0>
-Ed didn't say a word the whole
-time. But I knew he was
-listening.
+Ed não disse uma única coisa.
+Mas sabia que ele estava
+me ouvindo.
 <color white><screen right><wait yes><sprite 00015FF><n 0>
-So that's it, huh?
+Então é isso, hein?
 
 
 <b 0110>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Now I know! He had a reason 
-for selling us out!
+Agora eu sei! Ele tinha uma
+razão para ter caguetado!
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-He's alive, Ed! Bradley is
-alive.
+Ele tá vivo, Ed! Bradley tá
+vivo.
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-And he was here six months 
-ago.
+E ele tava aqui há seis
+meses.
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-It's funny...
+É engraçado...
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-He left all these little clues
-all around the hotel...
+Ele deixou todas essas pistas
+por todo o hotel...
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Almost like he knew I'd be
-coming.
+Como se ele soubesse que
+eu viria pra cá.
 
 <color white><screen right><wait yes><sprite 00015FF><n 0>
-Actually, Hyde...
+Na verdade, Hyde...
 
 
 <color white><screen right><wait yes><sprite 00015FF><n 0>
-I think you hit the nail on the 
-head.
+Eu acho que você foi pelo
+caminho certo.
 
 <color white><screen right><wait yes><sprite 00015FF><n 0>
-I just got off the horn with
-the guy who wanted the red
-box and the magazine.
+Acabei de dar um toque com
+o rapaz que queria a caixa
+vermelha e a revista.
 <color white><screen right><wait yes><sprite 00015FF><n 0>
-He settled the bill, but said 
-he didn't care about getting
-the items back.
+Ele pagou pelo serviço, mas
+disse que não se importa
+mais com os objetos.
 <b 0168>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Ed, wait. That means...
+Ed, pera. Isso quer dizer...
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Those items were just...
+Que aqueles objetos eram...
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -97,19 +98,20 @@ Those items were just...
 
 
 <color white><screen right><wait yes><sprite 0001502><n 0>
-Listen, Hyde.
+Escuta, Hyde.
 
 
 <color white><screen right><wait yes><sprite 00015FF><n 0>
-Lie down. Get some rest.
+Vai descançar um pouco.
 
 
 <color white><screen right><wait yes><sprite 00015FF><n 0>
-You need to clear your head.
+Você precisa organizar essa
+tua cabeça.
 
 
 <color white><screen right><wait yes><sprite 00015FF><n 0>
-I'll call you tomorrow.
+Te dou um toque amanhã.
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -141,12 +143,12 @@ I'll call you tomorrow.
 !------------------------------------------------------!
 <r 205_L>
 <color white><screen left><wait yes><sprite 0000102><n 0>
-<color blue>If the customer I've been<color white>
-<color blue>working for was actually<color white>
+<color blue>Se o cliente todo esse tempo<color white>
+<color blue>era, na verdade, o<color white>
 <color blue>Bradley...<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>Then the key Dunning gave<color white>
-<color blue>me in the basement...<color white>
+<color blue>Então a chave que o Dunning<color white>
+<color blue>me deu no porão...<color white>
 
 !------------------------------------------------------!
 <r 0000>
@@ -155,115 +157,114 @@ I'll call you tomorrow.
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-I tried using the key to open
-the small red box.
+Tentei usar a chave para
+abrir a caixinha vermelha.
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-The key turned. The lock 
-clicked. I opened the box
-and...
+A chave virou. A tranca fez
+um clique. Então, abri a
+caixa e...
 <b 0281>
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-I saw a letter written in a
-hand I knew well.
+Vi uma carta escrita com uma
+caligrafia que conheço bem.
 
 <color white><screen left><wait yes><sprite 0000120><n 0>
-<color blue>...This letter...<color white>
+<color blue>... Esta carta...<color white>
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-I read the letter, my eyes
-poring over each word.
+Li a carta. Os meus olhos
+fitaram cada letra dela.
 
 <b 0240>
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Hey, partner. I'm writing this
-in the hope that you'll find it
-and give it a read.
+E aí, parceiro? Escrevi esta
+carta na esperança de que
+você a encontre e leia.
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Six months ago, I heard that
-you turned in your badge
-and left Manhattan.
+Seis meses atrás, eu soube
+que você saiu da força e
+de Manhattan.
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<color blue>...Bradley.<color white>
+<color blue>... Bradley.<color white>
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-I figured it was my chance, 
-so I arranged for you to be
-here.
+Percebi que essa era a minha
+chance, então arranjei tudo
+para que você viesse aqui.
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-You know why I did it, don't
-you, partner? Because I
-know you.
+Você sabe o porquê que eu
+fiz isso tudo, né, parceiro?
+Foi porque eu te conheço.
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Because I knew you'd solve
-all the riddles hidden in this
-dump of a hotel.
+Porque eu sabia que você iria
+resolver todos os mistérios
+neste hotel de quinta.
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-I knew you'd discover what
-happened here, and what
-happened to me.
+Eu sabia que você iria
+descobrir o que aconteceu
+aqui e comigo.
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-You're a damn bulldog, Hyde.
-I knew you wouldn't let it go.
-I had to believe that.
+Você é teimoso demais, Hyde.
+Sabia que você iria até o fim.
+Eu tive que acreditar nisso.
 <color white><screen left><wait no><sprite 0000124><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Three years ago, I betrayed
-you.
+Há três anos, eu te traí.
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-I put your finger on that
-trigger, and I made you pull
-it.
+Te fiz botar esse seu dedo
+no gatilho e apertá-lo.
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-You know, Hyde, I can still
-hear your voice.
+Sabe, Hyde, eu ainda consigo
+ouvir a sua voz.
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Asking me why...
+Me perguntando "por quê?"...
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-You have any idea how angry
-you sounded? Of course, you 
-always were the crazy one.
+Você tem ideia do quão bravo
+você parecia? Claro, você era
+o mais louco de todos.
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-But every time I hear it in
-my head...
+Mas todas as vezes que eu
+a ouvia na minha cabeça...
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-I see Mila. I see the way Evans
-killed my baby sister.
+Vejo a Mila. Vejo como Evans
+assassinou a minha irmãzinha.
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-And I remember the day six
-months ago when I took my
-revenge.
+E eu lembro do dia, há seis
+meses, quando eu pude ter
+a minha vingança.
 <b 0241>
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-I know you understand, Hyde.
+Sei que você me entenderia,
+Hyde.
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-And so I'm on the run now.
-Nile wants me dead. Cops
-want me dead.
+E agora sou um procurado.
+O Nilo me quer morto. Os
+tiras me querem morto.
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Some life, huh, partner?
+Que vida, hein, parceiro?
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Stop looking for me, Kyle. My 
-way is a dead-end street.
-Let me go.
+Pare me procurar, Kyle. Eu
+sou um beco sem saída.
+Me deixe.
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-I'm a ghost now.
-�Bradley
+Eu sou um fantasma, agora.
+µBradley
 
 !------------------------------------------------------!
 <r 0000>
@@ -281,30 +282,30 @@ I'm a ghost now.
 
 <b 0225>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<color blue>I can see the surprise on his<color white>
-<color blue>face when he hears her name<color white>
-<color blue>for the first time... Mila.<color white>
+<color blue>Eu consigo ver a cara dele<color white>
+<color blue>de espanto quando ele ouviu<color white>
+<color blue>o nome dela... Mila.<color white>
 <color white><screen right><wait no><sprite 65534FF><n 0>
 
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>He stood by her bed and<color white>
-<color blue>watched her sleep, thinking<color white>
-<color blue>all the while of HIS Mila.<color white>
+<color blue>Ele ficou ao lado da cama<color white>
+<color blue>dela, vendo dormir, pensando<color white>
+<color blue>que era a SUA Mila.<color white>
 <b 0229>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>Then he took his bracelet off<color white>
-<color blue>his wrist and slipped it onto<color white>
-<color blue>hers...<color white>
+<color blue>Então ele tirou fora o seu<color white>
+<color blue>bracelete e então colocou<color white>
+<color blue>no pulso dela...<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>And then...<color white>
+<color blue>E então...<color white>
 
 
 !------------------------------------------------------!
 <r 0000>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<color blue>Tell me something, Bradley...<color white>
+<color blue>Me diz uma coisa, Bradley...<color white>
 
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
@@ -313,8 +314,8 @@ I'm a ghost now.
 
 <b 0240>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>Did you watch and wait? When<color white>
-<color blue>Evans came to see Mila...<color white>
+<color blue>Você assistiu e esperou?<color white>
+<color blue>Quando Evans visitou a Mila...<color white>
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
 
@@ -331,7 +332,7 @@ I'm a ghost now.
 
 <b 0202>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<s 1028010><color blue>Did you kill him? <color white>
+<s 1028010><color blue>Você matou ele? <color white>
 
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
@@ -368,7 +369,7 @@ Urr...
 
 
 <color white><screen left><wait yes><sprite 65534FF><n 0>
-Wha...
+Qu...
 
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
@@ -414,92 +415,94 @@ Wha...
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-<e 33>Morning, handsome!
+<e 33>Bom dia, bonitão!
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-So what's the good word?
-Hee hee! Isn't that what
-Ed always says?
+Então, qual é a boa?
+Hi hi! Não é assim
+que o Ed sempre fala?
 <b 0132>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Yeah, that's it. Is he there?
+É, é desse jeito. Ele tá aí?
 
 
 <b 0111>
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Not yet, sweetie. I'm here all
-by my lonesome.
+Ainda não, docinho. Estou
+aqui tão sozinha.
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Give him a message for me.
+Passa a seguinte mensagem.
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Tell him I'm gonna take some
-time off.
+Diz pra ele que eu vou dar
+um tempo fora.
 
 <b 0134>
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Wait, time off? YOU?
+Pera, dar um tempo? VOCÊ?
 
 
 <b 0132>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Yeah. Gonna hit the open road
-for a couple of weeks. ...See
-where it takes me.
+Pois é. Vou botar o pé na
+estrada por umas semanas...
+Ver onde ela vai me levar.
 <b 0111>
 <color white><screen right><wait yes><sprite 00016FF><n 0>
 Kyle...
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Did you find Bradley? Is that
-it?
+Você encontrou o Bradley?
+É isso?
 
 <b 0110>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-...No. No, nothing like that. I
-just... I need a vacation.
+... Não. Não, não é isso. É só
+que... preciso de umas férias.
 
 <b 0135>
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-OK, hon!
+OK, querido!
 
 
 <b 0111>
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-I'll let the big man know.
+Vou passar o recado pro
+patrão.
 
 
 <b 0133>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Ed's gonna kill me, isn't he?
+Ed vai me matar, não vai?
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Oh, probably! You know Ed!
-He'll huff and puff and slam
-doors and all that nonsense.
+Oh, provavelmente! Você sabe 
+como ele é! Vai bufar, bater
+a porta e outras idiotices.
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Probably tell me to get you 
-on the horn, pronto!
+Provavelmente ele vai me
+dizer para que você esteja
+pronto num instante!
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Sounds like Ed.
+Parece realmente o Ed.
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Just make sure you come 
-back, OK, Kyle?
+Só me prometa que você irá
+voltar, OK, Kyle?
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-I'll be waiting for you.
+Estarei te esperando.
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Thanks.
+Obrigado.
 
 
 <b 0120>
@@ -538,8 +541,8 @@ Thanks.
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-OK, Hyde. Time to hit the
-road.
+OK, Hyde. Hora de botar o
+pé na estrada.
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
 
@@ -587,7 +590,7 @@ Hmm?
 
 
 <color white><screen left><wait yes><sprite 65534FF><n 0>
-...Whaza?
+... Opa?
 
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
@@ -637,36 +640,36 @@ Hmm?
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-You awake, handsome?
+Tá acordado, bonitão?
 
 
 <b 0132>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Yeah, yeah. I'm up. ...Hey, is 
-Ed there?
+Sim, sim. Tô de pé... Ah, o 
+Ed tá aí?
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-No, not yet. I'm here all by
-myself.
+Não, ainda não. Estou
+totalmente sozinha.
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Rachel, I got a lead on
-Bradley.
+Rachel, eu consegui uma
+pista no Bradley.
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-He was here six months ago.
-Here, in this hotel.
+Ele tava aqui há seis meses.
+Aqui, neste hotel.
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Really? That's good news,
-right?
+Sério? Isso é uma boa notícia,
+não é?
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Kyle, are you all right? You
-sound exhausted.
+Kyle, você tá bem? Você
+parece que tá exausto.
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Only 'cause I am.
+É porque eu tô mesmo.
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
@@ -674,81 +677,83 @@ Kyle...
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Just need a break. That's all.
+Só preciso de um tempo. Só
+isso.
 
 
 <b 0111>
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-You? Time off? If it ever 
-happened, it would probably
-do you some good.
+Você? Um tempo? Se isso
+realmente acontecer, iria
+te fazer muito bem.
 <b 0133>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-You got any vacation time
-coming?
+As suas férias estão também
+chegando?
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-That's sweet, but don't put
-yourself out on my account.
+Que fofo da sua parte, mas
+não se preocupe comigo.
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-I can tell you need some 
-alone time.
+Creio que você precisa de
+um tempo só.
 
 <b 0110>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-...Can't fool you, huh?
+... Nada passa por ti, né?
 
 
 <b 0135>
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Remember when I said I
-didn't understand you?
+Se lembra quando eu disse
+que eu não te entendia?
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-That was a lie.
+Era uma mentira.
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-I think I understand you better
-than anyone.
+Eu acho que te entendo
+melhor do que qualquer um.
 
 <b 0111>
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-I'll let Ed know you'll be out
-for a while.
+Vou passar o recado pro Ed
+que você vai estar de folga.
 
 <b 0133>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-All right, but...
+Certo, mas...
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Ed's gonna kill me, isn't he?
+Ed vai me matar, né?
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Oh, probably! You know Ed!
-He'll huff and puff and slam
-doors and all that nonsense.
+Oh, provavelmente! Você sabe
+como ele é! Vai bufar, bater
+a porta e outras idiotices.
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Probably tell me to get you 
-on the horn, pronto!
+Provavelmente vai me dizer
+para que você esteja pronto
+num instante!
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Sounds like Ed.
+Parece realmente o Ed.
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Just make sure you come 
-back, OK, Kyle?
+Só me prometa que vai
+voltar, OK, Kyle?
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-I'll be waiting for you.
+Estarei te esperando.
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Thanks, Rach.
+Valeu, Rach.
 
 
 <b 0120>
@@ -787,8 +792,8 @@ Thanks, Rach.
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-...Dammit, Hyde. Shoulda just
-asked her to come.
+... Cacetada, Hyde. Deveria ter
+pedido pra sair com ela.
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
 
@@ -826,7 +831,7 @@ asked her to come.
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<s 1013010>Huh? Who's there?
+<s 1013010>Hã? Quem tá aí?
 
 
 <b 0137>
@@ -855,83 +860,84 @@ asked her to come.
 
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-<m 026>Oh. It's you. 
+<m 026>Ah. É você. 
 
 
 <color white><screen right><wait yes><sprite 0000604><n 0>
-Look, do you... Do you have
-a minute?
+Olha, você... Você tem um
+minuto?
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-What is it?
+O que é?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I wanted to...to apologize. 
-You know?
+Eu quero... te pedir desculpas. 
+Saca?
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-You?
+Você?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Yeah.
+Aham.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I caused you a lot of trouble.
-I know that. And...I'm sorry.
+Te causei muitos problemas.
+Eu sei disso. E... me desculpa.
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Don't worry. Long as you
-mean it, we're square.
+Não esquenta. Se você tá
+arrependido, estamos quites.
 
 <color white><screen right><wait no><sprite 0000603><n 0>
 
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-So what's the plan, Angel?
+Então, o que você vai fazer
+agora, Angel?
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-You heading back to Beverly
-Hills?
+Voltar para a Beverly Hills?
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-No, not yet.
+Não, ainda não.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-First I'm going to the police.
+Primeiro, eu vou me entregar
+à polícia.
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Talking to the Man, huh?
+Se voltando pra lei, hein?
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-You're turning yourself in?
+Vai se entregar?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Something like that.
+Por aí.
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-You sure? It's going to be
-one hell of a hassle.
+Certeza? Vai ser uma dor
+de cabeça danada.
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Yeah, I know.
+É, eu sei.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-But I did this, and I need to 
-take responsibility for it. 
+Mas eu fiz isso e preciso
+ser responsável pelo que fiz. 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Spoken like a man. 
+Palavras vindas de um homem.
 
 
 <color white><screen right><wait no><sprite 0000603><n 0>
@@ -939,32 +945,33 @@ Spoken like a man.
 
 
 <color white><screen right><wait yes><sprite 0000615><n 0>
-Oh, wait. Here. This is for
-you.
+Ah, pera. Aqui. Isto aqui é
+pra você.
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-You wrote me a letter?
+Você escreveu uma carta pra
+mim?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-No, not me. I ran into that 
-guy Summer in front of
-his room.
+Não, não foi eu. Eu fui me
+encontrar com aquele Summer
+no quarto dele.
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I said I was coming to see
-you, and he asked me to
-deliver this.
+Eu disse que iria encontrar
+contigo e aí ele me pediu
+pra te entregar isto.
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Guy wouldn't shut up, either.
+O cara não calava a boca.
 
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-Yeah, that's Summer.
+É, o Summer é assim mesmo.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Anyway, maybe I'll see you
-around.
+De qualquer forma, talvez eu
+te encontre por aí.
 
 <color white><screen left><wait no><sprite 0000103><n 0>
 
@@ -981,8 +988,8 @@ around.
 !------------------------------------------------------!
 <r 205_R>
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Jeff wanders down the hall
-and out of sight.
+Jeff caminha e desaparece no
+fim do corredor .
 
 !------------------------------------------------------!
 <r 205_R>
@@ -999,23 +1006,24 @@ and out of sight.
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Guess I'll read Summer's 
-letter. ...Hope it doesn't
-put me to sleep.
+Talvez eu leia a carta do
+Summer... Espero que ela não
+faça dormir.
 <color white><screen left><wait yes><sprite 0000120><n 0>
-Dear Mr. Hyde,
+Caro Sr. Hyde,
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-I met Mrs. Parker and spoke at
-length with her about Alan.
-What a charming woman!
+Encontrei-me com Sra. Parker
+e conversei sobre o Alan.
+Que mulher encatadora!
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-At any rate, I have made her
-a promise.
+De qualquer modo, a prometi
+uma coisa.
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-A promise to find Alan.
+Prometi em procurar pelo
+Alan.
 
 
 !------------------------------------------------------!
@@ -1029,27 +1037,28 @@ A promise to find Alan.
 
 
 <color white><screen right><wait yes><sprite 0000804><n 0>
-<e 36><e 35>I am going to start over,
-Mr. Hyde.
+<e 36><e 35>Recomeçarei do zero,
+Sr. Hyde.
 
 <color white><screen right><wait yes><sprite 00008FF><n 0>
-I shall pen a best seller, and
-it will be mine and mine alone! 
+Irei elaborar um best seller e
+será apenas pelo meu próprio
+mérito! 
 
 <color white><screen right><wait yes><sprite 0000804><n 0>
-And I have decided to model 
-my protagonist after yourself!
+E decidi que elaborarei o meu
+protagonista em sua persona!
 
 <color white><screen right><wait yes><sprite 00008FF><n 0>
-When my novel is finished,
-you will be the first person
-to whom I show it.
+Quando terminar de escrevê-lo,
+você será a primeira pessoa
+a quem mostrarei.
 <color white><screen right><wait yes><sprite 0000806><n 0>
-Farewell, good sir! May the
-winds of fortune be always
-at your back!
+Adeus, meu bom senhor! Que
+o seu caminho esteja repleto
+de prosperidade!
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<e 40>Oh. ...Joy.
+<e 40>Ah... Maravilha.
 
 <m 160>
 <color white><screen right><wait no><sprite 00008FF><n 0>
