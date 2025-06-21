@@ -11,17 +11,17 @@
 
 
 <color white><screen left><wait yes><sprite 0000139><n 0>
-Huh?
+Hã?
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Somebody's coming.
+Alguém está vindo.
 
 
 !------------------------------------------------------!
 <r 213_L>
 <color white><screen left><wait yes><sprite 0000102><n 0>
-It's Dunning.
+É o Dunning.
 
 
 <color white><screen right><wait no><sprite 0000221><n 0>
@@ -41,39 +41,40 @@ It's Dunning.
 
 
 <color white><screen right><wait yes><sprite 0000211><n 0>
-<e 07>What's yer problem, Hyde?
+<e 07>Qual teu problema, Hyde?
 
 
 <color white><screen right><wait yes><sprite 0000211><n 0>
-<e 07>You like hasslin' little girls?
+<e 07>Gosta de assediar garotinhas?
 
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-No, it wasn't like�
+Não, eu não tavaµ
 
 
 <color white><screen right><wait yes><sprite 0000206><n 0>
-Her old man just called the
-front desk and bawled me
-out!
+O pai dela ligou pra
+recepção e me deu uma
+bronca daquelas!
 <color white><screen right><wait yes><sprite 0000206><n 0>
-Told me a fella in a jacket
-and tie picked a fight with
-his daughter.
+Disse que um cara de
+casaco e gravata brigou
+com sua filha.
 <color white><screen right><wait yes><sprite 0000211><n 0>
-That's real nice, Hyde. Ya
-like makin' girls cry? Real
-tough guy, eh?
+Parabéns, Hyde, muito bem.
+Gosta de fazer criançinhas
+chorarem? Machão.
 <color white><screen right><wait yes><sprite 0000211><n 0>
-I ain't gonna have a grown
-man pickin' on girls in my
-hotel! No damn way!
+Não vou permitir um cara
+adulto implicando com meninas
+no meu hotel! Nem ferrando!
 <color white><screen right><wait yes><sprite 0000214><n 0>
-<e 07>Now get the hell out before
-I throw ya out myself!
+<e 07>Agora dá o fora daqui
+antes que eu te leve
+à força.
 
 <color white><screen left><wait yes><sprite 0000110><n 0>
-What?
+O quê?
 
 
 <color white><screen right><wait no><sprite 00002FF><n 0>
@@ -91,16 +92,16 @@ What?
 !------------------------------------------------------!
 <r 0000>
 <color white><screen left><wait yes><sprite 0000129><n 0>
-<m 030><color blue>I wasn't trying to make the<color white>
-<color blue>kid cry!<color white>
+<m 030><color blue>Eu não estava tentando<color white>
+<color blue>fazer ela chorar!<color white>
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
 <e 52>
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>That's not why I yelled at<color white>
-<color blue>her!<color white>
+<color blue>Não foi por isso que eu<color white>
+<color blue>gritei com ela!<color white>
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 <e 38>
@@ -111,15 +112,15 @@ What?
 
 
 <color white><screen right><wait yes><sprite 0001109><n 0>
-<e 36><e 35>Mom...
+<e 36><e 35>Mamãe...
 
 
 <color white><screen right><wait yes><sprite 0001109><n 0>
-My mom's not mean
-at all!
+A minha mamãe não
+é malvada.
 
 <color white><screen right><wait yes><sprite 0001111><n 0>
-Waaaaaaaa...
+Buáááááááá...
 
 
 <color white><screen right><wait no><sprite 00011FF><n 0>
@@ -131,7 +132,7 @@ Waaaaaaaa...
 
 
 <color white><screen left><wait yes><sprite 0000108><n 0>
-Oh, crap...
+Ah, droga...
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -149,8 +150,8 @@ Oh, crap...
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>Somebody's coming out of<color white>
-<color blue>Room 213.<color white>
+<color blue>Tem alguém saindo do<color white>
+<color blue>Quarto 213.<color white>
 
 !------------------------------------------------------!
 <r 213_11>
@@ -172,9 +173,9 @@ Oh, crap...
 <e 07>
 
 
-<sprite 0000124><color red>�I<color white>
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>Huh?<color white>
+<color blue>Hã?<color white>
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -184,7 +185,7 @@ Oh, crap...
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Hey there.
+Ei você.
 
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
@@ -194,7 +195,7 @@ Hey there.
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-What's going on?
+O que tá acontecendo?
 
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
@@ -206,41 +207,41 @@ Hm?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-You don't look so hot.
+Você não parece tão quente.
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-What?
+Quê?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-You sick or something?
+Tá doente ou algo assim?
 
 
 <color white><screen right><wait yes><sprite 0000612><n 0>
-N-no. No, I'm fine.
+N-não. Não. Tô de boa.
 
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-All right.
+Tá certo.
 
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Sorry to bother you.
+Desculpe incomodar.
 
 
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-You're in my way. Move.
-
+Você tá no meu meio.
+Saia.
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000607><n 0>
-Sigh...
+Argh...
 
 
 !------------------------------------------------------!
@@ -258,9 +259,9 @@ Sigh...
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-<s 1012010>The young guy looks around
-uneasily, then returns to his
-room. Never notices me.
+<s 1012010>O jovem olha ao redor
+inquieto e depois volta ao
+quarto. Nem me percebeu.
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait no><sprite 0000102><n 0>
@@ -268,7 +269,7 @@ room. Never notices me.
 
 
 <color white><screen right><wait yes><sprite 0000612><n 0>
-Huh?
+Hã?
 
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
@@ -276,33 +277,33 @@ Huh?
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-<s 1012010>Young guy glares at me, 
-then turns and sulks back
-to his room.
+<s 1012010>O rapaz me encara, depois
+se vira e volta ao quarto
+emburrado.
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Hold it.
+Espera aí.
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-Yeah?
+Oi?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Who are you?
+Quem é você?
 
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-Me?
+Eu?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Kyle Hyde. I'm down in 215.
+Kyle Hyde. Tô no 215.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I'm Jeff.
+Sou Jeff.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
@@ -318,9 +319,9 @@ Jeff Angel.
 
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<color blue>Jeff Angel? Yeah, right.<color white>
-<color blue>Wonder what this punk's<color white>
-<color blue>story is.<color white>
+<color blue>Jeff Angel? Certo, beleza.<color white>
+<color blue>Qual será a história desse<color white>
+<color blue>sujeito.<color white>
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
 
@@ -330,24 +331,24 @@ Jeff Angel.
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Stay here a lot?
+Fica muito aqui?
 
 
 <color white><screen right><wait yes><sprite 0000613><n 0>
-What, here? Never!
+O quê, aqui? Nunca!
 
 
 <color white><screen right><wait yes><sprite 0000614><n 0>
-No, I've never stayed in a
-place like this before.
+Não, eu nunca tinha ficado
+em um lugar assim antes.
 
 <color white><screen right><wait yes><sprite 0000614><n 0>
-Unfortunately, I have <color red>no<color white>
-<color red>choice<color white> but to stay here
-tonight.
-<sprite 0000124><color red>�I<color white>
+Infelizmente, <color red>não tenho<color white>
+<color red>escolha<color white> a não ser ficar
+aqui hoje.
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>You and me both, pal...<color white>
+<color blue>Somos dois, chapa...<color white>
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -361,17 +362,17 @@ tonight.
 
 
 <!><color white><screen right><wait yes><sprite 0000601><n 0>
-I thought I could stomach
-this place for a single
-night.
+Achei que conseguiria
+aguentar esse lugar só
+por uma noite.
 <!><color white><screen right><wait yes><sprite 0000601><n 0>
-But now I'm not so sure.
+Mas já tô em dúvida.
 
 
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Really?
+Sério?
 
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
@@ -381,76 +382,76 @@ Really?
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Why don't you have a
-choice?
+E por que você não tem
+outra escolha?
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
 
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Something happen?
+Aconteceu algo?
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-What's that?
+O que foi?
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Why am I staying here?
+Por que eu tô ficando aqui?
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-I don't think I need to
-explain myself to you.
+Eu não acho que tenho
+que me explicar pra você?
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Just asking.
+Só tava perguntando.
 
 
 <color white><screen right><wait yes><sprite 0000612><n 0>
-Just asking?
+Só pergutando?
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Easy. It's not like I'm a cop 
-or anything.
+Calma aí. Não é como se eu
+fosse um tira ou algo assim.
 
 <color white><screen right><wait yes><sprite 0000604><n 0>
-You're not a cop?
+Você não é um tira?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-That's kind of an odd thing
-to just blurt out, isn't it?
+Isso não é algo meio estranho
+de sair dizendo?
 
 <color white><screen right><wait yes><sprite 0000614><n 0>
-So...you're not a cop?
+Tá... Você não é um tira?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-That's <color red>too bad<color white>.
+É uma<color red> pena<color white>.
 
 
-<sprite 0000125><color red>It's too bad I'm not a cop?<color white>
+<sprite 0000125><color red>Uma pena eu não ser um tira?<color white>
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-This isn't a usual haunt
-for you?
+Não é o tipo de lugar que
+você costuma frequentar?
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Not really, no.
+Na verdade, não.
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-This is the first time I've
-ever stayed somewhere
-without room service.
+Essa é a primeira vez que
+fico em um lugar que não
+tem serviço de quarto.
 <color white><screen left><wait no><sprite 0000124><n 0>
 
 
@@ -458,25 +459,25 @@ without room service.
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Why is that too bad? You
-lookin' for the law?
+Por que seria uma pena?
+Tá precisando da polícia?
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Oh, no reason.
+Ah, por nada.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-I just thought it would be
-<color red>cool <color white>to have a cop or a
-detective in the hotel.
-<sprite 0000124><color red>�I<color white>
+Só pensei que seria bem
+<color red>legal <color white>ter um tira ou um
+detetive no hotel.
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>Cool? This kid's easily <color white>
-<color blue>amused...<color white>
+<color blue>Legal? Esse cara se diverte <color white>
+<color blue>com pouco...<color white>
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
@@ -489,17 +490,17 @@ detective in the hotel.
 
 
 <!><color white><screen right><wait yes><sprite 0000601><n 0>
-But what are the chances
-of my being here at the
-same time?
+Mas qual a chance de
+eu estar aqui bem na
+mesma hora?
 <!><color white><screen right><wait yes><sprite 0000601><n 0>
-With a real detective, I
-mean. That can't happen
-too often, am I right?
+Tipo, com um detetive de
+verdade. Isso não costuma
+muito, né?
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Hey.
+Ei.
 
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
@@ -509,53 +510,53 @@ Hey.
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-What did you mean by
-"cool"?
+O que você quis dizer
+com "legal"?
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000603><n 0>
-Oh, that.
+Ah, isso.
 
 
 <color white><screen right><wait yes><sprite 0000604><n 0>
-Take a look around. Better
-yet, take a sniff. This
-hotel...
+Dê uma olhada em volta.
+Melhor, dê uma cheirada
+em volta. Esse hotel...
 <color white><screen right><wait yes><sprite 00006FF><n 0>
-It's like the set of some
-cheap TV crime drama,
-don't you think?
+Tem a exata cara de um
+cenário de série policial ruim,
+você não acha?
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-What if a real crime took
-place? Something sleazy
-and violent...
+E se acontecesse um crime 
+de verdade? Algo bem
+pesado e violento...
 <color white><screen right><wait yes><sprite 0000601><n 0>
-And then if a real gumshoe
-was here trying to figure
-things out...?
+E se tivesse tipo um
+detetive tentando desvendar
+o caso...?
 <color white><screen right><wait yes><sprite 0000601><n 0>
-C'mon! That would be cool!
-Even you must think so.
+Qualé! Seria muito maneiro!
+Até você tem que admitir isso.
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-That's an odd thing to
-think about.
+Isso é algo muito estranho
+de se pensar sobre.
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Yeah, I'm a pretty deep guy.
-
+Pois é, eu sou um cara
+bem profundo, sabe?
 
 <color white><screen right><wait yes><sprite 0000614><n 0>
-Hey, take it easy. I'm not a
-criminal or anything.
-
+Mas, ei, fica na boa.
+Não sou nenhum tipo de
+criminoso.
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
@@ -567,33 +568,33 @@ criminal or anything.
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Well, I don't think there's
-any law around here.
+Olha, não acho que tenha
+algum tipo de policial por aí.
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-No, it doesn't appear so.
+É, não parece ter mesmo.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-But then again, who knows?
+Mas sei lá, que sabe?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Got a thing for detectives?
+É chegado em detetives?
 
 
 <color white><screen right><wait yes><sprite 0000614><n 0>
-A thing? Well...I wouldn't
-mind meeting a down-
-and-out detective.
+Chegado? Olha... até que não
+me importaria de conhecer
+um detetive fracassado.
 <color white><screen right><wait yes><sprite 0000614><n 0>
-You know, the kind who'd
-stay in this dump? Guns 
-and dames and all that?
+Tá ligado, daqueles que
+ficariam em lixões como esse.
+Armas, garotas e tudo mais.
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
@@ -605,27 +606,27 @@ and dames and all that?
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-The kid on the stairs.
-Where's she staying?
+A menina da escada.
+Sabe onde ela tá ficando?
 
 <color white><screen right><wait no><sprite 0000602><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-Kid?
+Menina?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Young girl, about ten.
-Rude as hell.
+Jovenzinha, por volta dos dez.
+Mal-educada que só ela.
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Oh, her. You must be talking 
-about Melissa.
+Ah, ela. Você deve tá falando
+da Melissa.
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-<s 4001010><color blue>Her name's Melissa?<color white>
+<s 4001010><color blue>O nome dela é Melissa?<color white>
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -633,19 +634,19 @@ about Melissa.
 
 
 <color white><screen right><wait yes><sprite 0000604><n 0>
-She's in Room 219.
+Ela tá no Quarto 219.
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-She's staying with her father. 
-Part of the great unwashed,
-if you ask me.
+Tá ela e o pai dela lá.
+Se quer saber, são
+gentalha, saca.
 <color white><screen left><wait yes><sprite 0000601><n 0>
-What are you writing?
+Tá escrendo o que aí?
 
 
 <color white><screen left><wait yes><sprite 0000601><n 0>
-What are you reading?
+Tá lendo o que aí?
 
 
 !------------------------------------------------------!
@@ -655,11 +656,11 @@ What are you reading?
 
 
 <color white><screen right><wait yes><sprite 0000601><n 0>
-Are we done talking?
+Terminamos de conversar?
 
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-Yeah.
+Uhum.
 
 
 !------------------------------------------------------!
@@ -669,21 +670,21 @@ Yeah.
 
 
 <color white><screen right><wait yes><sprite 0000604><n 0>
-Anything else?
+Mais alguma coisa?
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-Not now.
+Por enquanto não.
 
 
 !------------------------------------------------------!
 <r 213_08>
 <color white><screen right><wait yes><sprite 0000601><n 0>
-All right.
+Beleza.
 
 
 <color white><screen right><wait yes><sprite 0000605><n 0>
-See you around.
+Te vejo por aí.
 
 
 <color white><screen right><wait no><sprite 00006FF><n 0>
@@ -691,18 +692,18 @@ See you around.
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-<s 1012010>Mr. Jeff Angel goes back
-to his room.
+<s 1012010>O Sr. Jeff Angel volta para
+o seu quarto.
 
 !------------------------------------------------------!
 <r 213_04>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-So this is Room 215...
+Então esse é o Quarto 215...
 
 
 <color white><screen left><wait yes><sprite 0000120><n 0>
-<s 1014010>I use my key and unlock the
-door to Room 215.
+<s 1014010>Usei minha chave e abri
+a porta do Quarto 215.
 
 <color white><screen left><wait no><sprite 0000127><n 0>
 
@@ -731,11 +732,11 @@ door to Room 215.
 !------------------------------------------------------!
 <r 000_02>
 <color white><screen right><wait yes><sprite 0001020><n 0>
-Who are you?
+Quem é você?
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Kyle Hyde. I'm in 215. 
+Kyle Hyde. Tô no 215. 
 
 
 <color white><screen right><wait yes><sprite 0001004><n 0>
@@ -743,8 +744,8 @@ Kyle Hyde?
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-<e 11><color blue>So this is that kid's father,<color white>
-<color blue>huh?<color white>
+<e 11><color blue>Então esse é o pai da menina,<color white>
+<color blue>hein?<color white>
 
 <color white><screen right><wait no><sprite 0001019><n 0>
 <e 21>
@@ -759,18 +760,18 @@ Kyle Hyde?
 
 
 <color white><screen right><wait yes><sprite 0001009><n 0>
-Excuse me, I'm rather
-busy at the moment.
+Se me perdoa, estou muito
+ocupado no momento.
 
 !------------------------------------------------------!
 <r 213_05>
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-The man says nothing and
-<s 1012010>shuts his door.
+O homem não fala mais nada
+<s 1012010>e bate a porta.
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<color blue>See where the kid gets<color white>
-<color blue>her manners...<color white>
+<color blue>Descobri de quem ela puxou<color white>
+<color blue>as boas maneiras...<color white>
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
 <e 12><e 11>
@@ -797,8 +798,8 @@ Kyle Hyde.
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-I don't need anything.
-Go away.
+Não preciso de nada.
+Vá embora.
 
 <color white><screen left><wait no><sprite 0000124><n 0>
 
@@ -813,7 +814,7 @@ Go away.
 
 
 <color white><screen left><wait yes><sprite 0000101><n 0>
-Do you have a moment?
+Tem um segundo?
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
@@ -837,23 +838,23 @@ Do you have a moment?
 
 
 <color white><screen left><wait yes><sprite 0000130><n 0>
-Huh?
+Hã?
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Someone's coming out of
-Room 219.
+Tem alguém saindo do
+Quarto 219.
 
 <color white><screen right><wait no><sprite 0001121><n 0>
 
 
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-Huh?
+Hã?
 
 
 <color white><screen right><wait yes><sprite 0001122><n 0>
-Huh?
+Hã?
 
 
 <color white><screen right><wait yes><sprite 0001108><n 0>
@@ -867,23 +868,24 @@ Ah!
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-There's something on the
-stairs.
+Tem algo nas escadas.
+
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-Huh?
+Hã?
 
 
-<screen left><wait yes><sprite 0000000><color blue>I got a <color red>puzzle piece<color blue>.<color white>
+<screen left><wait yes><sprite 0000000><color blue>Peguei uma <color red>peça do<color white>
+<color red>quebra-cabeça<color blue>.<color white>
 
 
 <b 0151>
 <color white><screen left><wait yes><sprite 0000120><n 0>
-What's this? There's a black
-line on the back of this piece.
+O que é isso? Tem uma linha
+preta nas costas da peça.
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-Wonder what it is.
+O que será isso?
 
 
 !------------------------------------------------------!
@@ -891,7 +893,7 @@ Wonder what it is.
 !------------------------------------------------------!
 <r 213_R>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<m 011>Hey, kid.
+<m 011>Ei, menina.
 
 
 <color white><screen right><wait no><sprite 0001102><n 0>
@@ -899,11 +901,11 @@ Wonder what it is.
 
 
 <color white><screen right><wait yes><sprite 0001115><n 0>
-What?
+Quié?
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-What's the score?
+Quanto tá o jogo?
 
 
 <color white><screen right><wait no><sprite 0001117><n 0>
@@ -911,7 +913,7 @@ What's the score?
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Hey! Kid!
+Ei! Menina!
 
 
 <color white><screen right><wait no><sprite 0001117><n 0>
@@ -919,7 +921,7 @@ Hey! Kid!
 
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-I'm talking to you.
+Tô falando com você.
 
 
 !------------------------------------------------------!
@@ -927,7 +929,7 @@ I'm talking to you.
 !------------------------------------------------------!
 <r 213_R>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-Hey!
+Ei!
 
 
 <color white><screen right><wait no><sprite 0001102><n 0>
@@ -935,7 +937,7 @@ Hey!
 
 
 <color white><screen right><wait yes><sprite 0001104><n 0>
-OK, enough! Jeez!
+Tá, já chega! Credo!
 
 
 !------------------------------------------------------!
@@ -943,80 +945,80 @@ OK, enough! Jeez!
 !------------------------------------------------------!
 <r 213_R>
 <color white><screen right><wait yes><sprite 0001110><n 0>
-My name's not "kid"!
+Meu nome não é "menina"!
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Yeah, I know. Your name's
-Melissa.
+É, tô sabendo. Seu nome
+é Melissa.
 
 <color white><screen right><wait yes><sprite 0001115><n 0>
-Hey!
-
-
-<color white><screen right><wait yes><sprite 0001115><n 0>
-You know my name!
-
-
-<color white><screen left><wait yes><sprite 0000117><n 0>
-'Course I do. Don't
-underestimate adults, kid.
-
-<color white><screen left><wait yes><sprite 0000117><n 0>
-We know things.
+Ei!
 
 
 <color white><screen right><wait yes><sprite 0001115><n 0>
-Yeah, right. Whatever.
+Você sabe meu nome!
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-<e 15>Seriously, kid. Stop playing
-on the stairs. It's a hassle.
+Óbvio que sei. Não subestime
+os adultos, criança.
 
+<color white><screen left><wait yes><sprite 0000117><n 0>
+A gente sabe das coisas.
+
+
+<color white><screen right><wait yes><sprite 0001115><n 0>
+Tá, claro. Tanto faz.
+
+
+<color white><screen left><wait yes><sprite 0000117><n 0>
+<e 15>É serio, menina. Para de 
+brincar nas escadas.
+É um saco.
 <color white><screen right><wait yes><sprite 0001110><n 0>
-I'm not gonna play on the
-stairs anymore.
+Eu não vou mais brincar
+nas escadas.
 
 <color white><screen right><wait yes><sprite 00011FF><n 0>
-But I lost something really
-important.
+Mas eu perdi algo muito
+importante.
 
 <color white><screen right><wait yes><sprite 0001104><n 0>
-And now I<color red> won't be able to<color white>
-<color red>see my mom<color white>.
+Eai agora<color red> não posso mais<color white>
+<color red>ver a mamãe<color white>.
 
-<sprite 0000124><color red>�I<color white>
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>At least she'll be off the<color white>
-<color blue>damn stairs...<color white>
+<color blue>Pelo menos ela vai ficar<color white>
+<color blue>longe da droga das escadas...<color white>
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
 
 
 <!><color white><screen right><wait yes><sprite 0001115><n 0>
-That's why I'm not gonna
-be a brat anymore.
+Por isso eu não vou mais ser
+uma pestinha.
 
 <!><color white><screen right><wait yes><sprite 0001115><n 0>
-And I'm not gonna fight
-with my dad, either.
+E também não vou mais
+brigar com o papai.
 
 !------------------------------------------------------!
 <r 213_08>
 !------------------------------------------------------!
 <r 213_R>
 <color white><screen right><wait yes><sprite 0001110><n 0>
-My name's not "kid."
+Meu nome não é "menina."
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Yeah? Well, I got nothing
-else to call you.
+Verdade? Olha, eu não tenho
+outra coisa pra te chamar.
 
 <color white><screen right><wait yes><sprite 0001104><n 0>
-I'm Melissa.
+Eu sou a Melissa.
 
 
 <color white><screen left><wait no><sprite 0000124><n 0>
@@ -1040,48 +1042,48 @@ I'm Melissa.
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-<e 15>Don't play on the stairs
-anymore, kid. It's a
-hassle.
+<e 15>Não brinque mais nas
+escadas, menina. É um saco.
+
 <color white><screen right><wait no><sprite 0001102><n 0>
 <e 23>
 
 
 <color white><screen right><wait yes><sprite 0001110><n 0>
-I'm not gonna play on
-the stairs anymore.
+Juro que não vou mais
+brincar nas escadas.
 
 <color white><screen right><wait yes><sprite 00011FF><n 0>
-But I lost something really
-important.
+Mas perdi algo muito
+importante.
 
 <color white><screen right><wait yes><sprite 0001104><n 0>
-<color red>And now I won't be able to<color white>
-<color red>see my mom.<color white>
+<color red>E não vou conseguir mais<color white>
+<color red>ver a mamãe.<color white>
 
-<sprite 0000124><color red>�I<color white>
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>At least she'll be off the<color white>
-<color blue>damn stairs...<color white>
+<color blue>Pelo menos ela vai ficar longe<color white>
+<color blue>da droga das escadas...<color white>
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
 
 
 <!><color white><screen right><wait yes><sprite 0001115><n 0>
-That's why I'm not gonna
-be a brat anymore.
+E por isso não vou ser
+mais uma pestinha.
 
 <!><color white><screen right><wait yes><sprite 0001115><n 0>
-And I'm not gonna fight
-with my dad, either.
+Também não vou mais brigar
+com o papai.
 
 !------------------------------------------------------!
 <r 213_08>
 !------------------------------------------------------!
 <r 213_R>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Tell me something, will you? 
+Me diz uma coisa, vai?
 
 
 <color white><screen right><wait no><sprite 00011FF><n 0>
@@ -1093,7 +1095,7 @@ Tell me something, will you?
 !------------------------------------------------------!
 <r 213_R>
 <color white><screen left><wait yes><sprite 0000106><n 0>
-Where's your mom?
+Cadê a sua mãe?
 
 
 <color white><screen right><wait no><sprite 0001102><n 0>
@@ -1101,11 +1103,11 @@ Where's your mom?
 
 
 <color white><screen right><wait yes><sprite 0001114><n 0>
-I dunno.
+Eu não sei.
 
 
 <color white><screen right><wait yes><sprite 0001101><n 0>
-Only my dad knows.
+Só o papai sabe.
 
 
 !------------------------------------------------------!
@@ -1113,33 +1115,34 @@ Only my dad knows.
 !------------------------------------------------------!
 <r 213_R>
 <color white><screen left><wait yes><sprite 0000106><n 0>
-You won't be able to see
-your mom?
+E você não vai mais poder
+ver a sua mãe?
 
 <color white><screen right><wait no><sprite 0001102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0001103><n 0>
-Uh-huh. I had to promise
-my dad.
+Uhum. Eu tinha prometido
+ao papai.
 
 <color white><screen right><wait yes><sprite 0001101><n 0>
-I gotta do what he says...
-with no "back talk."
+Eu tinha que obedecer ele...
+E sem "reclamar."
 
 <color white><screen right><wait yes><sprite 0001101><n 0>
-If I don't, <color red>we won't see<color white>
-<color red>my mom<color white>. We'll just go home.
+Se não, <color red>a gente não ia<color white>
+<color red>mais ver a mamãe<color white>. A gente 
+ia pra casa.
 
-<sprite 0000125><color red>You're going to see Mom?<color white>
+<sprite 0000125><color red>Você está indo ver sua mãe?<color white>
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0001104><n 0>
-That's why I'm not gonna
-be a brat anymore.
+É por isso que eu não vou
+mais ser uma pestinha.
 
 !------------------------------------------------------!
 <r 213_08>
@@ -1157,7 +1160,7 @@ gonna go see your mom?
 <color red>My mom's not home.<color white>
 
 
-<sprite 0000124><color red>�I<color white>
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
 <color blue>Uh-oh. Trouble in paradise?<color white>
 
@@ -1596,7 +1599,7 @@ Melissa! What are you doing?
 
 
 <color white><screen right><wait yes><sprite 0001115><n 0>
-Dad, I was�
+Dad, I wasµ
 
 
 <color white><screen right><wait yes><sprite 0001009><n 0>
@@ -2013,7 +2016,7 @@ Good day, Mr. Hyde.
 
 
 <color white><screen right><wait yes><sprite 0000906><n 0>
-I'll be�
+I'll beµ
 
 
 !------------------------------------------------------!
@@ -2740,7 +2743,7 @@ Why'd you bring her here?
 She asked me to.<color red> <color white>Said she
 <color red>had to get to Hotel Dusk<color white>.
 
-<sprite 0000124><color red>�I<color white>
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
 <color blue>Who would want to come<color white>
 <color blue>to this dump? Other than <color white>
@@ -2899,7 +2902,7 @@ Nothing much.
 I just thought it would be
 <color red>cool <color white>to have a cop or a
 detective in the hotel.
-<sprite 0000104><color red>�I<color white>
+<sprite 0000104><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
 <color blue>Huh?<color white>
 
@@ -3250,7 +3253,7 @@ parcel.
 <color white><screen right><wait yes><sprite 0000809><n 0>
 However, let me assure you
 I intended no injury. These
-things happen and�
+things happen andµ
 <color white><screen right><wait no><sprite 00008FF><n 0>
 <e 32><e 31>
 
