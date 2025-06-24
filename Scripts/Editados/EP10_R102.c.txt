@@ -5,7 +5,7 @@
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Ya checkin' out?
+Vai fazê o check-out?
 
 
 <color white><screen left><wait no><sprite 0000103><n 0>
@@ -13,33 +13,34 @@ Ya checkin' out?
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Well, alrighty then.
+Tá bom, então.
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Ya paid for yer room in
-advance, but...
+Ocê pagô pelo teu quarto
+adiantado, mas...
 
 <color white><screen right><wait yes><sprite 0000219><n 0>
-I'll be damned if ya didn't run 
-up some charges!
+Ocê taria no sal se ocê num
+pagasse as taxas!
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-Dunning, is that a phone bill?
+Dunning, isso aí é a conta
+de telefone?
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Ah, forget it. This time it's on
-the house.
+Esquenta cum iss' não. É por
+conta da casa.
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-But...
+Mas...
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Next time yer here, ya gotta
-promise t'stay in my suite!
-It's a peach of a room!
+Da próxima vez que ocê vier,
+vai me prometê ficar na
+minha suíte! É uma belezura!
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
@@ -49,9 +50,9 @@ It's a peach of a room!
 
 
 <color white><screen right><wait yes><sprite 0000204><n 0>
-Anyway, ya got yer room
-key? Gotta get Wish ready
-for the next guest, ya know.
+Aliás, ocê tá cum a chave do
+quarto? Tenho que prepará o
+Desejo pro próximo hóspede.
 <color white><screen left><wait no><sprite 0000103><n 0>
 
 
@@ -62,53 +63,52 @@ for the next guest, ya know.
 
 <b 0297>
 <color white><screen left><wait yes><sprite 0000119><n 0>
-...The room that grants wishes,
-huh?
+... O quarto que realiza os
+desejos, hein?
 
 !------------------------------------------------------!
 <r 102_09>
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Yep. I hear tale some guests 
-claim the room's magic.
+Iss' mermo. Ouvi uns conto em
+que ele é mágico.
 
 <color white><screen left><wait yes><sprite 0000109><n 0>
 Ha ha ha!
 
 
 <color white><screen right><wait yes><sprite 0000215><n 0>
-Ya think that's funny?
+Qual é a graça?
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Ya like laughin' at an old
-man's tales of the fantastic?
+Ocê gosta é de ri de contos
+fantástico dum hômi, é?
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-No, Dunning. It's not that.
+Não, Dunning. Não é isso.
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-I was just thinking that... 
-maybe there's some truth
-to it, is all.
+Só estava pensando que... 
+talvez tenha um fundo de
+verdade nisso tudo. Só isso.
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Maybe it granted a couple of
-my wishes, too.
+Talvez tenha realizado uns
+desejos meus, também.
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Couple, huh?
+Uns, ocê diz?
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Yeah. Can't get greedy,
-though.
+Aham. Tenho que ser humilde.
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Guy like me has a lot of
-wishes.
+Um cara como eu tem muitos
+desejos.
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-...That so?
+... É mermo?
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -120,7 +120,7 @@ wishes.
 
 
 <color white><screen right><wait yes><sprite 0000203><n 0>
-Well, thank ya much.
+Bem, 'brigado por tudo.
 
 
 <color white><screen left><wait no><sprite 0000102><n 0>
@@ -128,15 +128,16 @@ Well, thank ya much.
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Year's almost over, ain't it? 
+Já estamos no fim do ano,
+não é?
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Happy New Year to ya.
+Feliz Ano-Novo pra ocê.
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-You too, Dunning.
+Para ti também, Dunning.
 
 
 <color white><screen left><wait no><sprite 0000102><n 0>
@@ -160,7 +161,7 @@ You too, Dunning.
 !------------------------------------------------------!
 <r 101_01>
 <color white><screen left><wait yes><sprite 0000147><n 0>
-<m 004>Huh?
+<m 004>Hã?
 
 
 <color white><screen right><wait no><sprite 0000525><n 0>
@@ -174,15 +175,15 @@ You too, Dunning.
 
 
 <color white><screen right><wait yes><sprite 0000521><n 0>
-Wait!
+Espera!
 
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-...Mila.
+... Mila.
 
 
 <color white><screen right><wait yes><sprite 0000501><n 0>
-Where...where are you going?
+Aonde... aonde você vai?
 
 
 <color white><screen left><wait no><sprite 0000102><n 0>
@@ -194,11 +195,11 @@ Where...where are you going?
 
 
 <color white><screen right><wait yes><sprite 0000501><n 0>
-Can I...
+Posso...
 
 
 <color white><screen right><wait yes><sprite 0000521><n 0>
-Can I go with you?
+Ir com você?
 
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
@@ -226,7 +227,7 @@ Mila...
 !------------------------------------------------------!
 <r 101_R>
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Is this...yours?
+Isto é... seu?
 
 
 <color white><screen left><wait no><sprite 0000127><n 0>
@@ -268,11 +269,11 @@ Ah!
 !------------------------------------------------------!
 <r 102_L>
 <color white><screen right><wait no><sprite 00101FF><n 0>
-December 31, 1979
-9:00 AM
+31 de dezembro de 1979.
+9:00 da manhã.
 
 <color white><screen right><wait no><sprite 00101FF><n 0>
-Hotel Dusk front desk
+Balcão do Hotel Dusk
 
 
 !------------------------------------------------------!
@@ -284,63 +285,63 @@ Hotel Dusk front desk
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Ya done with the cleaning,
-Rosa?
+Já terminô de limpá, Rosa?
 
 <color white><screen left><wait yes><sprite 0000306><n 0>
-Almost! Land sakes, be a little
-patient for once!
+Quase! Diacho, seja um pouco
+mais paciente às vezes!
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Where's Louis?
+Cadê o Louis?
 
 
 <color white><screen left><wait yes><sprite 0000301><n 0>
-He's getting the bar ready for
-the New Year's party.
+Ele tá preprando o bar para
+a festa de Ano-Novo.
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-I bet.
+Num duvido.
 
 
 <color white><screen left><wait yes><sprite 0000304><n 0>
-Does that take care of all
-the guests, Mr. Smith?
+Isso já toma conta de todos
+os hóspedes, Sr. Smith?
 
 <color white><screen left><wait yes><sprite 00003FF><n 0>
-Did everyone check out?
+Todo mundo já deu o
+check-out?
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Yep. All done.
+Aham. Todos.
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Been a helluva year, ain't it,
-Rosa? But it's all done now.
+Foi um ano e tanto, hein,
+Rosa? Mas já acabô.
 
 <color white><screen left><wait yes><sprite 0000311><n 0>
-Is it really?
+Será?
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-What're ya mumblin' 'bout,
-Rosa?
+Qu' é que ocê tá resmungando
+aí, Rosa?
 
 <color white><screen left><wait yes><sprite 0000306><n 0>
-It's probably nothing, but...
-I just had the strangest
-feeling.
+Não é nada não, é só que...
+É só que tenho essa
+estranha sensação.
 <color white><screen right><wait yes><sprite 0000209><n 0>
-You and yer feelings! I had a
-dime fer every one, I'd be a
-damn millionaire.
+Ocê e essas sensações! Se eu
+tivesse um tostão pra cada
+ess' sensação, taria é rico!
 <color white><screen right><wait yes><sprite 00002FF><n 0>
-Last thing we need's for
-somethin' t'happen on New
-Year's Eve. I just want to...
+O qu' nóis menos qué é algo
+algo doido acontecer bem na
+véspera de Ano-Novo...
 <color white><screen left><wait yes><sprite 0000306><n 0>
-...Mr. Smith?
+... Sr. Smith?
 
 
 <color white><screen left><wait no><sprite 00003FF><n 0>
@@ -352,15 +353,15 @@ Year's Eve. I just want to...
 
 
 <color white><screen left><wait yes><sprite 0000305><n 0>
-What is it? What's wrong?
-You're white as a sheet!
+O qu' que é? Qu' que foi?
+Ocê tá pálida qu' nem leite!
 
 <color white><screen right><wait no><sprite 0000202><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-It's...
+É a...
 
 
 <b 0216>
@@ -374,7 +375,7 @@ It's...
 
 
 <color white><screen right><wait yes><sprite 0000208><n 0>
-<s 1042010>...Jenny?
+<s 1042010>... Jenny?
 
 
 <color white><screen left><wait no><sprite 65534FF><n 0>
