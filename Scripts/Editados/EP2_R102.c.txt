@@ -7,13 +7,13 @@
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-There's someone standing in
-front of the lobby sofa.
+Tem alguém em pé ao lado
+sofá do saguão.
 
 !------------------------------------------------------!
 <r 102_02>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-...Huh? Oh, great.
+... Hã? Ah, ótimo.
 
 
 <color white><screen right><wait no><sprite 0000222><n 0>
@@ -25,7 +25,7 @@ front of the lobby sofa.
 
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-<e 11><color blue>Dunning's looking at me.<color white>
+<e 11><color blue>Dunning tá olhando pra mim.<color white>
 
 
 <color white><screen left><wait no><sprite 0000124><n 0>
@@ -37,39 +37,39 @@ front of the lobby sofa.
 
 
 <color white><screen right><wait yes><sprite 0000214><n 0>
-Hey, you! Yeah, you! Get
-<e 07>over here!
+Ei, ocê! É, ocê mermo! Vem
+<e 07>pra cá agora!
 
 <color white><screen right><wait yes><sprite 0000214><n 0>
-<e 07>I been talkin' to Rosa!
+<e 07>Tava faland' cum a Rosa!
 
 
 <color white><screen right><wait yes><sprite 0000211><n 0>
-Says ya been sniffin' all
-over my hotel!
+Disse que ocê andou xeretando
+o meu hotel!
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Huh?
+Hã?
 
 
 <color white><screen right><wait yes><sprite 0000215><n 0>
-Don't play soft with me!
+Num se faz de bobo, não!
 
 
 <color white><screen right><wait yes><sprite 0000211><n 0>
-You some kinda reporter?
-One'a them TV guys who
-tries to ruin people's lives?
+Ocê é um jornalista?
+Um daqueles jornais marrom
+qu' só publica mentira?
 <color white><screen right><wait yes><sprite 0000211><n 0>
-I don't need no bad press
-drivin' away business!
+Eu num preciso dess' tipo
+de atenção no meu hotel!
 
 <color white><screen right><wait yes><sprite 0000214><n 0>
-<e 07>Hit the road, ya jerk!
+<e 07>Pro olho da rua, salafrário!
 
 
 <color white><screen left><wait yes><sprite 0000110><n 0>
-Huh?
+Hã?
 
 
 <color white><screen right><wait no><sprite 00002FF><n 0>
@@ -87,7 +87,7 @@ Huh?
 !------------------------------------------------------!
 <r 0000>
 <color white><screen left><wait yes><sprite 0000129><n 0>
-<m 030><color blue>Oh, crap...<color white>
+<m 030><color blue>Ah, cacetada...<color white>
 
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
@@ -95,8 +95,8 @@ Huh?
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>When I was talking with<color white>
-<color blue>Rosa earlier...<color white>
+<color blue>Quando eu tava conversando<color white>
+<color blue>com a Rosa antes...<color white>
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 <e 38>
@@ -107,15 +107,15 @@ Huh?
 
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-<e 36><e 35>You're a pest, you know
-that?! A darn pest!
+<e 36><e 35>Ocê é um pé no saco, sabia?
+Um belo de um pé no saco!
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-Why are you so interested in
-this hotel, anyway?
+Por que qu' ocê tá tão
+fissurado neste hotel, hein?
 
 <color white><screen right><wait yes><sprite 0000315><n 0>
-Say, you aren't...
+Digo, você não está...
 
 
 <color white><screen right><wait no><sprite 00003FF><n 0>
@@ -127,7 +127,7 @@ Say, you aren't...
 
 
 <color white><screen left><wait yes><sprite 0000108><n 0>
-Damn!
+Droga!
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
