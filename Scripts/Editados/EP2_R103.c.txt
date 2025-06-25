@@ -29,34 +29,34 @@
 
 
 <color white><screen right><wait yes><sprite 00002FF><n 0>
-That you, Hyde?
+É ocê, Hyde?
 
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-Yeah.
+Aham.
 
 
 <color white><screen right><wait yes><sprite 0000204><n 0>
-Ya come to pay yer bill?
+Veio pagar a conta?
 
 
 <color white><screen left><wait yes><sprite 0000108><n 0>
-<color blue>...Damn. My money's still in<color white>
-<color blue>my suitcase.<color white>
+<color blue>... Droga. Minha grana ainda<color white>
+<color blue>tá na minha maleta.<color white>
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-Oh yeah. Cash in advance.
-Can't be too careful and
-all that, right?
+É mesmo. Adiantado em grana.
+Não tem como não errar
+nisso, não é?
 <color white><screen right><wait yes><sprite 0000206><n 0>
-I'd 'preciate it if ya settle
-up soon as ya can.
+Vô ficá agradecid' se ocê
+puder resolvê iss' logo.
 
 !------------------------------------------------------!
 <r 0000>
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-<s 1012010>Dunning says nothing more
-and shuts the door.
+<s 1012010>Dunning diz mais nada e
+e bate a porta.
 
 !------------------------------------------------------!
 <r 103_03>
@@ -75,50 +75,50 @@ and shuts the door.
 
 
 <color white><screen right><wait yes><sprite 00002FF><n 0>
-That you, Hyde?
+É ocê, Hyde?
 
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-Yeah.
+Aham.
 
 
 !------------------------------------------------------!
 <r 103_04>
 <color white><screen right><wait yes><sprite 0000204><n 0>
-<s 1012010>Ya come to pay yer bill?
+<s 1012010>Veio pagar a conta?
 
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-Yeah.
+Aham.
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-How much?
+Quanto?
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Forty clams.
+Quarenta pratas.
 
 
 <color white><screen left><wait yes><sprite 0000121><n 0>
-Here.
+Tá aqui.
 
 
 <color white><screen right><wait yes><sprite 0000203><n 0>
-Forty on the nose.
+Quarenta redondinho.
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Oh, and I heard all about
-yer hassle!
+Ah, eu ouvi qu' ocê teve uns
+contratemp's!
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-<color red>Sorry 'bout that.<color white>
+<color red>Me discurpa pro iss'.<color white>
 
 
-<sprite 0000124><color red>�I<color white>
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>Sorry about what?<color white>
+<color blue>Desculpar pelo quê?<color white>
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -136,36 +136,37 @@ yer hassle!
 
 
 <color white><screen right><wait yes><sprite 0000205><n 0>
-Lemme make it up to ya...
-Dinner's on the house
-tonight!
+Vô te compensar por iss'...
+O jantar é por cont' da
+casa!
 <color white><screen right><wait yes><sprite 00002FF><n 0>
-And just listen to what the
-Moonlight Grill's got on
-the menu...
+E esper' só sabê o qu' vem
+na Grelha do Luar no
+cardápio...
 <color white><screen right><wait yes><sprite 00002FF><n 0>
-Rib eye steak with fresh
-garlic butter! And that's
-a class steak, too!
+Bife de costel' com manteiga
+acebolad' fresquinh'! E a
+carn' é de primera!
 <color white><screen right><wait yes><sprite 0000210><n 0>
-Rosa may run her mouth,
-but she's a helluva cook!
+Rosa é uma baita duma
+tagalarela, mas cozinh' bem
+demais!
 
 <color white><screen right><wait yes><sprite 00002FF><n 0>
-I'll even have her throw in
-dessert for ya.
+Vô até pedi pra ela fazê
+uma sobremes' procê.
 
 <color white><screen right><wait yes><sprite 0000204><n 0>
-Oh, and by the way...
+Ah, e mais uma coisa...
 
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-I'm gonna close up the office 
-and head back to my own
-room for a spell.
+Vô trancar o escritóri' e
+vortá pro meu quart'
+até lá.
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Ya need anything, it'll have
-t'wait till later.
+Se ocê precisá de algo, vô
+só vô podê resolver depois.
 
 <color white><screen right><wait no><sprite 00002FF><n 0>
 <e 31>
@@ -182,13 +183,13 @@ t'wait till later.
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Dunning finishes, then turns
-and walks down the hall.
+Dunning termina e então dá
+meia-volta descendo corredor.
 
 !------------------------------------------------------!
 <r 103_04>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-...Hey.
+... Aí.
 
 
 <color white><screen right><wait no><sprite 00002FF><n 0>
@@ -198,101 +199,102 @@ and walks down the hall.
 !------------------------------------------------------!
 <r 103_04>
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Hassle ain't the word for it,
-pal. You need to get a handle
-on things.
+Vai vai precisar se esforçar
+mais que isso, chapa. Você 
+precisa pegar umas coisas.
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Figure out some way to get
-things from here to my room
-without losing 'em, all right?
+Ache uma forma de levar
+essas coisas daqui pro meu
+quarto, entendido?
 <color white><screen right><wait yes><sprite 0000205><n 0>
-Hey now! Said I was sorry! No 
-need to jump down m'throat!
+Calminha aí, amigo! Já pedi
+desculpas! Num precisa sortá
+os cachorro em mim!
 
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000209><n 0>
-That damn Louis is just one
-screwup after another.
+Esse Louis é só encrenca
+atrás de encrenca.
 
 <color white><screen right><wait yes><sprite 0000215><n 0>
-Next time he does somethin'
-like that, he's gone!
+Da próxim' veiz qu' ele fazê
+iss' de novo, vai sê o fim
+da linha!
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-But right now I'm busier'n a
-one-legged man in an
-ass-kickin' contest.
+Mas agora, quem é qu' tá
+no sal aqui sô eu.
 <color white><screen right><wait yes><sprite 0000204><n 0>
-So firin' him will hafta wait
-for a bit.
+Então, mandá pro olho da
+da rua vai tê qu' esperá.
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-Too bad.
+Que pena.
 
 
 !------------------------------------------------------!
 <r 103_04>
 <color white><screen left><wait yes><sprite 0000106><n 0>
-What're you talking about?
+Do que é que você tá 
+falando?
 
 
 <color white><screen right><wait yes><sprite 0000204><n 0>
-The mix-up with yer
-package!
+Da tua entrega trocada!
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-Rosa told me that Louis
-brought ya the wrong one!
+Rosa me diss' qu' o Louis
+quem te deu o errado!
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Oh. That.
+Ah. Aquilo.
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Yeah, he screwed that up.
+É, ele pisou na bola nessa.
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-If it weren't for that guy
-Summer, who knows what
-would've happened?
+Se num foss' pelo aquele tal
+de Summer, só Deus sabe
+o qu' iria acontecer.
 <color white><screen right><wait yes><sprite 0000205><n 0>
-But yer package got to ya
-in the end, right?
+Mas teu pacote veio procê
+são e salvo, né não?
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-I guess.
+Acho que sim.
 
 
 <color white><screen right><wait yes><sprite 0000210><n 0>
-Good, good. Just glad t'hear
-that ya finally got it.
+Ótim'. Fic' feliz qu' tud'
+acabô bem no final.
 
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000209><n 0>
-That damn Louis is just one
-screwup after another.
+Esse Louis é só encrenca
+atrás de encrenca.
 
 <color white><screen right><wait yes><sprite 0000215><n 0>
-Next time he does somethin'
-like that, he's gone!
+Da próxim' veiz qu' ele fazê
+iss' de novo, vai sê o fim
+da linha!
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
-But right now I'm busier'n a
-one-legged man in an
-ass-kickin' contest.
+Mas agora, quem é qu' tá
+no sal aqui sô eu.
 <color white><screen right><wait yes><sprite 0000204><n 0>
-So firin' him will hafta wait
-for a bit.
+Então, mandá pro olho da
+da rua vai tê qu' esperá.
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-Too bad.
+Que pena.
 
 
 !------------------------------------------------------!
@@ -304,16 +306,15 @@ Too bad.
 
 
 <color white><screen right><wait yes><sprite 0000422><n 0>
-Heya, Officer Hyde. What's
-shakin'?
+Opa, falaí, Oficial Hyde. Tudo
+em cima?
 
 <color white><screen left><wait yes><sprite 0000131><n 0>
-Oh, look. It's Louie.
-
+Olhem só, é o Louie.
 
 <color white><screen right><wait yes><sprite 0000422><n 0>
-Man, I didn't even see you!
-Where were you hiding?
+Mano, nem te vi aí!
+Tá se escondendo?
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
 
@@ -328,24 +329,25 @@ Where were you hiding?
 
 
 <color white><screen right><wait yes><sprite 0000422><n 0>
-Yo, Officer Hyde!
+E aí, Oficial Hyde!
 
 
 <color white><screen left><wait yes><sprite 0000146><n 0>
-Huh?
+Hã?
 
 
 <color white><screen right><wait yes><sprite 0000420><n 0>
-Don't tell me you're trying to
-break into the office!
+Não me diga que tu tá
+tentando arrombar o
+escritório!
 
 <color white><screen left><wait yes><sprite 0000122><n 0>
-Don't be a sap, Louie. If I was
-trying to get in the office, I'd
-just kick the door in.
+Não inventa, Louie. Se eu de
+fato queria arrombar o
+escritório, teria metido o pé.
 <color white><screen right><wait yes><sprite 0000420><n 0>
-Right. Yeah, well, just keep
-stuff chill, ya dig?
+Certo. Bem, então, vamo
+fazê vista grossa, morou?
 
 <color white><screen left><wait no><sprite 0000103><n 0>
 
@@ -360,23 +362,23 @@ stuff chill, ya dig?
 
 
 <color white><screen right><wait yes><sprite 0000319><n 0>
-Mr. Hyde!
+Sr. Hyde!
 
 
 <color white><screen left><wait yes><sprite 0000146><n 0>
-Huh?
+Hã?
 
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-Do you need something from
-the office?
+Precisa de algo dentro do
+escritório?
 
 <color white><screen left><wait yes><sprite 0000122><n 0>
-Uh, no, nothing.
+Hã, não, nada.
 
 
 <color white><screen right><wait yes><sprite 0000315><n 0>
-Well, OK...
+Bem, então tá...
 
 
 <color white><screen left><wait no><sprite 0000103><n 0>
@@ -388,7 +390,7 @@ Well, OK...
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000106><n 0>
-<m 012>What do you want?
+<m 012>O que você quer?
 
 
 <color white><screen right><wait no><sprite 0000402><n 0>
@@ -396,11 +398,12 @@ Well, OK...
 
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-Did you just pop outta the
-office, man?
+Cê realmente tava lá dentro
+escritório, mano?
 
 <color white><screen right><wait yes><sprite 0000420><n 0>
-What were ya doin' in there?
+O que é que cê tava fazendo
+lá?
 
 
 !------------------------------------------------------!
@@ -408,7 +411,7 @@ What were ya doin' in there?
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000102><n 0>
-Business.
+Coisas.
 
 
 <color white><screen right><wait no><sprite 0000402><n 0>
@@ -416,17 +419,17 @@ Business.
 
 
 <color white><screen right><wait yes><sprite 0000420><n 0>
-Business? What're ya talkin'
-about?
+Coisas? Que "coisas" cê tá
+fazendo lá?
 
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000102><n 0>
-Business that's got nothing
-to do with you, Louie.
-So mind yours.
+Coisas que não têm nada a
+ver com você, Louie.
+Então, não me enche.
 <color white><screen right><wait no><sprite 0000402><n 0>
 
 
@@ -436,7 +439,7 @@ So mind yours.
 
 
 <color white><screen right><wait yes><sprite 0000412><n 0>
-...That so?
+... É isso?
 
 
 !------------------------------------------------------!
@@ -444,7 +447,7 @@ So mind yours.
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-What're you worried about?
+O que é você tá preocupado?
 
 
 <color white><screen right><wait no><sprite 0000402><n 0>
@@ -452,39 +455,39 @@ What're you worried about?
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-No, seriously, man. What 
-were you doin' in the office?
+Não, sério, mano. O que é
+que cê tava fazendo lá?
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-You and ol' man Dunning...
-You weren't... Ya know...
+Cê e o velhote do Dunning...
+Cês não... Sabe...
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-You weren't talkin' about
-me, were you?
+Cês num tavam falando sobre
+mim, tavam?
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-About you?
+Sobre você?
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-Yeah, man.
+É, mano.
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-You know, chattin' 'bout my
-history in the city...
+Cê sabe, papeando sobre o
+meu passado na cidade...
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-You weren't filling Dunning's
-head with a buncha garbage
-'bout ol' Louis, were ya?
+Cê num tava falando um
+monte de abobrinha sobre
+mim pra ele, tava?
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Sure was.
+Eu estava.
 
 
 <color white><screen right><wait no><sprite 0000402><n 0>
@@ -492,32 +495,31 @@ Sure was.
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-<e 42>WHAT?! You were?!
+<e 42>O QUÊ?! Cê tava?!
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-Aw, man, why?! Why the hell
-would ya go and do that?
-Yer killin' me here!
+Ah, mano, pra quê?! Por que
+diacho cê faria isso comigo?
+Vai me ferrar assim, mano!
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000122><n 0>
-Relax, Louie. We weren't
-talking about you.
+Relaxa, Louie. A gente não
+tava falando sobre ti.
 
 <color white><screen right><wait no><sprite 0000402><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000402><n 0>
-Whew! Thank goodness for
-that, my man!
+Ufa! Graças a Deus, mano!
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-I was gonna have a total
-freak-out!
+Eu já tava pra pirar o
+cabeção!
 
 !------------------------------------------------------!
 <r 103_04>
@@ -528,15 +530,15 @@ freak-out!
 
 
 <color white><screen right><wait yes><sprite 0000414><n 0>
-Why'd you have to go and
-open your big mouth?
+Por que é que cê foi
+abrir essa sua boca?
 
 <color white><screen right><wait yes><sprite 0000414><n 0>
-You're a total loser! 
+Cê é um paspalho!
 
 
 <color white><screen right><wait yes><sprite 0000414><n 0>
-You damn dirtbag!
+Seu palerma!
 
 
 <color white><screen right><wait no><sprite 00004FF><n 0>
@@ -544,7 +546,7 @@ You damn dirtbag!
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Louie storms away.
+Louie sai batendo o pé.
 
 
 !------------------------------------------------------!
@@ -556,19 +558,19 @@ Louie storms away.
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-Officer Hyde?
+Oficial Hyde?
 
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-Yeah?
+Sim?
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-You told me you quit the
-force and started sellin'
-junk, right?
+Cê me disse que saiu da
+polícia e agora tá vendendo
+essas tralhas, né?
 <color white><screen right><wait yes><sprite 0000410><n 0>
-Were you serious?
+Cê tava falando sério?
 
 
 !------------------------------------------------------!
@@ -576,31 +578,31 @@ Were you serious?
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000107><n 0>
-You believed that? Ha!
-You're an idiot, Louie.
+Você acreditou nisso? Ha!
+Você é um beócio, Louie.
 
 <color white><screen right><wait no><sprite 0000402><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000420><n 0>
-<e 42>...It's not true?
+<e 42>... Não era real?
 
 
 <color white><screen right><wait yes><sprite 0000420><n 0>
-You were lying?
+Cê tava mentindo?
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-What a jerk! You have fun
-pullin' my chain? Think
-you're a clown?
+Que pulha! Cê gosta de se
+divertir das minhas custas?
+Acha graça, é?
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000107><n 0>
-...Yeah. I'm serious.
+... Sim. Falo sério.
 
 
 <color white><screen right><wait no><sprite 0000402><n 0>
@@ -608,7 +610,7 @@ you're a clown?
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-Really?
+Sério mesmo?
 
 
 !------------------------------------------------------!
@@ -620,19 +622,21 @@ Really?
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-You're a total scumbag! You
-been a cop all along, huh?
+Vai tomar banho na soda! Cê
+é um tira todo esse tempo,
+é isso mesmo?
 
 <color white><screen right><wait yes><sprite 0000414><n 0>
-You make me sick, man!
-Wish I could puke all over
-your shoes!
+Cê me enoja, mano!
+Queria que cê tomasse na
+tarraqueta!
 <color white><screen right><wait no><sprite 00004FF><n 0>
 <e 12>
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Louie storms away.
+Louie sai batendo o pé no
+chão.
 
 
 !------------------------------------------------------!
@@ -644,31 +648,33 @@ Louie storms away.
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-Officer Hyde?
+Oficial Hyde?
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-Gotta tell you, my man,
-you don't act like any
-salesman I ever seen.
+Vô te mandar a real, mano,
+cê num tem jeito algum pra
+ser vendedor.
 <color white><screen left><wait yes><sprite 0000114><n 0>
 ...
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-So why'd you quit being
-the Man in the first place?
+Então por que é que cê saiu
+da polícia pra início de 
+conversa?
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
-I know you said you were
-canned, but...
+Eu tô ligado que cê disse
+você foi mandado embora,
+mas...
 
 <color white><screen right><wait yes><sprite 0000420><n 0>
-What'd ya do to lose your
-badge?
+O que é que cê fez pra
+perder teu distintivo?
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-Well...
+Bem...
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -702,7 +708,7 @@ Well...
 
 
 <color white><screen right><wait no><sprite 00101FF><n 0>
-<e 43>This is Hyde.
+<e 43>Hyde falando.
 
 
 <color white><screen left><wait no><sprite 00017FF><n 0>
@@ -710,15 +716,15 @@ Well...
 
 
 <color white><screen right><wait no><sprite 00101FF><n 0>
-Bad news, Hyde.
-It's Bradley. He...
+Problemão, Hyde.
+É o Bradley. Ele...
 
 <color white><screen left><wait no><sprite 0001708><n 0>
 <e 28>
 
 
 <color white><screen right><wait no><sprite 00101FF><n 0>
-What the hell?
+Mas que droga?
 
 
 !------------------------------------------------------!
@@ -748,11 +754,11 @@ What the hell?
 
 
 <color white><screen right><wait yes><sprite 0000420><n 0>
-Hey, what gives?
+Mas e aí?
 
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<m 021>I screwed up a case.
+<m 021>Eu ferrei com o caso.
 
 
 <color white><screen right><wait no><sprite 0000420><n 0>
@@ -760,36 +766,36 @@ Hey, what gives?
 
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-Oh, trip, man!
+Ah, loucura, mano!
 
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-It was three years back. My 
-partner and I were working
-a case.
+Foi há a três anos. O meu
+parceiro e eu estávamos
+trabalhando num caso.
 <color white><screen left><wait yes><sprite 0000105><n 0>
-We were investigating a series 
-of art thefts.
+A gente tava investigando
+roubos de arte.
 
 <color white><screen right><wait yes><sprite 0000420><n 0>
-...Art thefts?
+... Roubos de arte?
 
 
 <color white><screen right><wait yes><sprite 00004FF><n 0>
-You talking 'bout that crime
-ring?
+Cê tá falando daquele
+grupo?
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-Ever hear of Nile?
+Já ouviu falar do Nilo?
 
 
 <color white><screen right><wait yes><sprite 0000408><n 0>
-...Did you say<color red> Nile<color white>?!
+... Você disse<color red> "Nilo"<color white>?!
 
 
-<sprite 0000124><color red>�I<color white>
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>That hit a mark.<color white>
+<color blue>Em cheio.<color white>
 
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
@@ -805,42 +811,42 @@ Ever hear of Nile?
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen right><wait yes><sprite 0000410><n 0>
-So you were undercover?
+Então cê era um infiltrado?
 
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-No. I was in the office,  
-pushing paper and
-drinking bad coffee.
+Não. Eu tava no precinto,  
+arrumando a papelada e
+bebendo café ruim.
 <color white><screen right><wait yes><sprite 0000410><n 0>
-Wait... So it was that OTHER
-detective what was runnin'
-with Nile?
+Pera... Então era o OUTRO
+detetive que tava se
+infiltrando no Nilo?
 <color white><screen left><wait yes><sprite 0000106><n 0>
-Yeah.
+Aham.
 
 
 <color white><screen right><wait yes><sprite 0000408><n 0>
-Oh, wow, man. Trip...
+Ah, caraca, mano. Loucura...
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-What're you mumbling about 
-now, Louie?
+Que é que você tá balbuciando
+aí, Louie?
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-I never thought meeting up
-with you again would clear
-up that...
+Eu nunca pensei que me
+encontrando contigo eu iria
+entender aquilo...
 <color white><screen right><wait yes><sprite 0000410><n 0>
-<color red>It all makes sense now. <color white>
-Yeah...<color red> So that's how it was?<color white>
+<color red>Faz todo o sentido do mundo. <color white>
+Aham...<color red> Então é isso?<color white>
 
-<sprite 0000124><color red>�I<color white>
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>I may have to slap him<color white>
-<color blue>around if he doesn't start<color white>
-<color blue>making some damn sense...<color white>
+<color blue>Parece que vou ter que dar<color white>
+<color blue>uma bolacha nele se começar<color white>
+<color blue>a falar nada com nada...<color white>
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
 
@@ -850,19 +856,19 @@ Yeah...<color red> So that's how it was?<color white>
 !------------------------------------------------------!
 <r 103_01>
 <!><color white><screen right><wait yes><sprite 0000409><n 0>
-I'm totally disappointed in
-you, Officer Hyde...
+Tô realmente desapontado
+contigo, Oficial Hyde...
 
 <!><color white><screen left><wait yes><sprite 00001FF><n 0>
-What in the hell are you
-talking about?
+Que droga que você tá
+falando?
 
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Hold it.
+Um momento.
 
 
 <color white><screen right><wait no><sprite 00004FF><n 0>
@@ -874,31 +880,31 @@ Hold it.
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-You look like you just saw
-a ghost, Louie. 
+Parece que você acabou de
+ver um fantasma, Louie. 
 
 <color white><screen right><wait yes><sprite 0000407><n 0>
-'Course, man! That's a
-real shock...
+É claro, mano! É simplesmente
+inacreditável...
 
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-That something you knew
-about?
+Sobre aquilo que você sabia
+agora pouco?
 
 <color white><screen right><wait yes><sprite 0000407><n 0>
-Is the pope Catholic? Yeah,
-I knew.
+É claro, né mano. É claro
+que eu sei.
 
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Wait a second.
+Pera um segundo aí.
 
 
 <color white><screen right><wait no><sprite 0000402><n 0>
@@ -910,31 +916,32 @@ Wait a second.
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-What do you mean that's
-how it was?
+O que é que você quis dizer
+com aquele "é isso"?
 
 <color white><screen right><wait yes><sprite 0000409><n 0>
-Oh no! I ain't tellin' you 
-squat about that one!
+Ah não! Eu num vô te dizer
+droga nenhuma sobre isso!
 
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000105><n 0>
-You just have a revelation
-there, Louie?
+Acabou de ter uma revelação
+agora pouco, Louie?
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
-It's...it's nothing, man.
+Não... Não é nada não, mano.
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Spill it.
+Desembucha.
 
 
 <color white><screen right><wait yes><sprite 0000409><n 0>
-...Got nothin' to say, man!
+... Eu num tenho pra te
+contar, mano!
 
 
 !------------------------------------------------------!
@@ -948,11 +955,11 @@ LOUIIIIIIS! LOUIS DENONNO!
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000124><n 0>
-...Huh?
+... Hã?
 
 
 <color white><screen right><wait yes><sprite 0000408><n 0>
-Aw, crap!
+Ah, cacetada!
 
 
 !------------------------------------------------------!
@@ -962,61 +969,61 @@ Aw, crap!
 
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-So this is where you've been 
-wasting your time? I knew it! 
-Lazy bum!
+Então era aqui que você
+estava gazeteando? Sabia! 
+Seu preguiçoso!
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen right><wait yes><sprite 0000409><n 0>
-...Aw, man, she found me.
+... Ah, mano, ela me achou.
 
 
 !------------------------------------------------------!
 <r 103_R>
 <color white><screen right><wait yes><sprite 0000306><n 0>
-Found you?! How about
-"I'm sorry, Rosa" or "Please
-don't kill me, Rosa"?
+Te achou?! Que tal um "Me
+desculpe, Rosa" ou "Não me
+esfole, Rosa"?
 <color white><screen right><wait yes><sprite 0000306><n 0>
-You haven't finished setting
-the tables, you lazy bum!
+Você nem acabou de preparar
+as mesas, seu preguiçoso!
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-It's almost time to open!
+Já vamos abrir logo logo!
 
 
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen right><wait yes><sprite 0000413><n 0>
-I...I was just on my way!
+Eu... Eu já tava indo!
 
 
 <color white><screen right><wait yes><sprite 0000405><n 0>
-Don't trip out! You're gonna
-pull something.
+Nem venha com isso! Lá vem
+você com alguma desculpa.
 
 !------------------------------------------------------!
 <r 103_R>
 <color white><screen right><wait yes><sprite 0000310><n 0>
-You're so worried about me?
-Get your behind in gear and
-finish the job!
+Estava preocupado comigo?
+Então mãos à obra e termine
+o trabalho!
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen right><wait yes><sprite 0000411><n 0>
-Yeah, yeah, yeah, all right!
-All right! Just shut up
-already!
+Tá, tá, tá, tá bom!
+Tá bom! Num precisa ficar
+repetindo!
 !------------------------------------------------------!
 <r 103_R>
 <color white><screen right><wait yes><sprite 0000306><n 0>
-Move it! And don't you tell
-me to shut up!
+Vamos, vamos! E não me peça
+para eu não me repetir!
 
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen right><wait yes><sprite 0000405><n 0>
-OK. I'm going! Man...
+Tá bom. Já tô indo! Mano...
 
 
 <color white><screen right><wait no><sprite 00004FF><n 0>
@@ -1024,11 +1031,11 @@ OK. I'm going! Man...
 
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Louie leaves.
+Louie sai.
 
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-<m 010>...Hasn't changed a bit.
+<m 010>... Não mudou em nada.
 
 
 <color white><screen right><wait no><sprite 0000302><n 0>
@@ -1036,21 +1043,21 @@ Louie leaves.
 
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-...Eh? Hasn't changed?
+... Hein? Não mudou em nada?
 
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-Yeah.
+Isso mesmo.
 
 
 <color white><screen right><wait yes><sprite 0000311><n 0>
-<color red>...Hmm.<color white>
+<color red>... Hmm.<color white>
 
 
-<sprite 0000124><color red>�I<color white>
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>Uh-oh. I don't like that<color white>
-<color blue>noise...<color white>
+<color blue>Ai ai. Eu não tô gostando<color white>
+<color blue>desse barulho...<color white>
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
@@ -1061,79 +1068,79 @@ Yeah.
 
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-C'mon. What're you thinking
-about?
+Vamos lá. O que é que você
+pensando?
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-Say, you wouldn't happen
-to...
+Me diga, por acaso você
+não...
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Happen to what?
+"Você não" o que?
 
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-Happen to know Louis from
-somewhere else?
+Você não conheceria o Louis
+de algum lugar?
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-You do! Don't you?
+Você o conhece! Não é?
 
 
 <color white><screen left><wait yes><sprite 0000122><n 0>
-Nope.
+Não.
 
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-Don't try and fool Rosa,
-mister. You can't do it!
-I know things!
+Não tente dar uma de
+espertalhão em mim. Não vai
+rolar! Eu sei de coisas!
 <color white><screen right><wait yes><sprite 0000306><n 0>
-I heard you and Louis
-talking, you know?
+Eu ouvi você e o Louis
+conversando, sabia?
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-Oh...
+Ah...
 
 
 <color white><screen right><wait yes><sprite 0000304><n 0>
-I'm right, aren't I? Don't
-start lying to me now!
+Acertei em cheio, né? E nem
+tente mentir para mim!
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-I couldn't hear WHAT you
-were talking about, but...
+Eu não pude ouvir O QUE
+estavam conversando, mas...
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-I did hear Louis call you
-"Officer Hyde." What's that,
-huh? Officer?
+Eu ouvi Louis te chamando de
+"Oficial Hyde." O que seria isso,
+hein? Oficial?
 <color white><screen right><wait yes><sprite 0000315><n 0>
-There's no mistaking that,
-and for a fact!
+Não tem erro quanto a isso,
+está claro como o dia!
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-That so?
+É mesmo?
 
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Well, I guess the gig's up,
-isn't it?
+Bem, acho que isso não tem
+como esconder, né?
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-Yeah, Louie and I know
-each other.
+É, o Louie e eu nos
+conhecemos.
 
 <color white><screen right><wait yes><sprite 0000305><n 0>
-Aha! I knew it!
+Arrá! Sabia!
 
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Yeah, I know him.
+Sim, eu conheço ele.
 
 
 <color white><screen right><wait yes><sprite 0000305><n 0>
-<e 42>I knew it. I knew it!
+<e 42>Sabia. Sabia!
 
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
@@ -1274,7 +1281,7 @@ Louie's crime days are
 behind him.
 <color white><screen left><wait yes><sprite 0000105><n 0>
 He's a new man now.
-Working hard and�
+Working hard andµ
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
 Oh, I just knew it! I was
@@ -1348,7 +1355,7 @@ from the law or something.
 I mean, he's just so<color red> shifty<color white>!
 
 
-<sprite 0000124><color red>�I<color white>
+<sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
 <color blue>...Shifty?<color white>
 
@@ -1406,7 +1413,7 @@ What's wrong with YOU?!
 about?
 
 <color white><screen left><wait yes><sprite 0000116><n 0>
-A woman of your stature�
+A woman of your statureµ
 
 
 <color white><screen right><wait yes><sprite 00003FF><n 0>
@@ -1474,7 +1481,7 @@ Ha ha! HAAAAA HA HA HA!
 
 
 <color white><screen right><wait yes><sprite 0000307><n 0>
-Wha�?!
+Whaµ?!
 
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
