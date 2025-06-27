@@ -436,57 +436,57 @@ Eaí, Rachel.
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-You could have called when
-you got in! Some of us
-worry, you know.
+Podia ao menos ter ligado
+quando chegou! Alguns aqui
+ainda se preocupam contigo.
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Yeah, yeah. Look, I just got 
-here. Get off my case.
+Claro, claro. Olha, eu acabei
+de chegar, sai do meu pé.
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-And listen, do me a favor and
-give Ed a message.
+E me faz um favor, passa
+essa mensagem pro Ed.
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Tell him he doesn't need to
-have you checking up on me
-with every little thing.
+Diz pra ele que não precisa
+ficar mandando você me vigiar
+por qualquer coisinha.
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-I got my instructions. I'm on
-top of it.
+Já recebi as ordens.
+Tô cuidando disso.
 
 <b 0111>
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-I'm not calling for Ed, Kyle.
-
+Kyle, não tô ligando por
+causa do Ed.
 
 <b 0132>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-That so?
+Verdade?
 
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Yes, it's so! I'm calling
-because I was worried.
+Sim! Estou ligando por que
+estava preocupada.
 
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-I've been thinking about it
-ever since we had dinner
-on Christmas Eve.
+Tenho pensado nisso desde
+que jantamos aquela vez
+na véspera de Natal.
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Something's bugging you.
-
+Tem alguma coisa te
+incomodando.
 
 <b 0133>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-Why would you think that?
+Por que você acha isso?
 
 
 <b 0135>
 <color white><screen right><wait yes><sprite 00016FF><n 0>
-Oh, please! I may not be a
-hard-boiled gumshoe like you 
-and Ed, but I have eyes!
+Ah, por favor! Eu posso não
+ser uma detetive como você
+e o Ed, mas tenho olhos!
 <color white><screen right><wait yes><sprite 00016FF><n 0>
 You get that stare sometimes,
 you know? The one that says
