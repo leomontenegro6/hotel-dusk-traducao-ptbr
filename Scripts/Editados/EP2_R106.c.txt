@@ -3,15 +3,15 @@
 
 
 <color white><screen right><wait yes><sprite 0000301><n 0>
-Where do you think you're
-going?
+Onde é que você pensa que
+vai?
 
 <color white><screen right><wait yes><sprite 0000301><n 0>
-Stay out! Out! I mean it! The
-restaurant's not ready yet!
+Caia fora! Xispa! Falo sério!
+O restaurante não tá pronto!
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Got a minute?
+Tem um minuto?
 
 
 <color white><screen right><wait no><sprite 0000302><n 0>
@@ -19,67 +19,66 @@ Got a minute?
 
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-What do you think you're
-doing? Stop! You can't come
-in here!
+O que você pensa que tá
+fazendo? Pare! Você não
+pode vir pra cá!
 <color white><screen right><wait yes><sprite 0000306><n 0>
-This is the kitchen! It's off-
-limits to guests! That means
-you!
+Esta é a cozinha! Restrita
+aos funcionários!
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Where's Louie?
+Onde tá o Louie?
 
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-You mean Louis? HA! He's not
-here! Lazy slacker!
+O Louis? HA! Ele não tá
+aqui! Aquele preguiçoso!
 
 <color white><screen right><wait yes><sprite 0000301><n 0>
-Probably in his room wasting
-time or hiding under the bed
-or something.
+Provavelmente tá no seu
+quarto matando tempo ou
+se escondendo na cama.
 <color white><screen left><wait yes><sprite 0000106><n 0>
-Where's his room?
+Onde é o quarto dele?
 
 
 <color white><screen right><wait yes><sprite 0000301><n 0>
-Go out of here and take a
-left. Can't miss it. Smells
-like cheese.
+Saia pelos fundos daqui e vire
+a esquerda. Não tem erro.
+O quarto cheira a queijo
 <color white><screen left><wait yes><sprite 0000105><n 0>
-The date December 5th
-mean anything to you?
+A data 5 de dezembro
+significa algo para você?
 
 <color white><screen right><wait no><sprite 0000302><n 0>
 
 
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-December 5th? 
+5 de dezembro?
 
 
 <color white><screen right><wait yes><sprite 0000311><n 0>
-Let me think... December
-5th... Twelve five...
-Hmmm...
+Deixa eu ver... 5 de
+dezembro... Cinco e doze...
+Hum...
 <color white><screen right><wait yes><sprite 0000311><n 0>
-Well, my birthday's June
-30th!
+Bem, o meu aniversário é
+em 30 de junho!
 
 <color white><screen right><wait yes><sprite 0000311><n 0>
-And I'm pretty sure that
-Dunning's is October 8th.
-Least I think so.
+E tenho quase certeza de
+que o Dunning é em 8 de
+outubro. Ao menos, eu acho.
 <color white><screen right><wait yes><sprite 0000313><n 0>
-Sorry. Doesn't ring a bell.
-Wait! Wait... Nope, sorry.
-Nothing.
+Desculpa. Não faço ideia.
+Pera! Pera... Não, desculpa.
+Nadinha.
 <color white><screen left><wait yes><sprite 0000102><n 0>
-Gotcha.
+Saquei.
 
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-You know who Jenny is?
+Você quem é a Jenny?
 
 
 <color white><screen right><wait no><sprite 0000302><n 0>
@@ -91,15 +90,15 @@ Jenny?
 
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-No, I don't know anyone
-named Jenny.
+Não, não conheço ninguém
+com esse nome.
 
 <color white><screen left><wait yes><sprite 0000304><n 0>
-What're you writing?
+O que você tá escrevendo?
 
 
 <color white><screen left><wait yes><sprite 0000304><n 0>
-What're you looking at?
+No que você tá olhando?
 
 
 <color white><screen left><wait no><sprite 0000102><n 0>
@@ -107,15 +106,15 @@ What're you looking at?
 
 
 <color white><screen right><wait yes><sprite 0000301><n 0>
-Are you done? You're done,
-right? Please go.
+Já acabou? Você já acabou,
+né? Então saia, por favor.
 
 <color white><screen right><wait yes><sprite 0000301><n 0>
-My kitchen's a busy place,
-and I'm a busy lady. Always
-working, working, working...
+Minha cozinha é ocupada, e
+eu sou também. Trabalhando,
+trabalhando, trabalhando...
 <color white><screen left><wait yes><sprite 0000101><n 0>
-Got a minute?
+Tem um minuto?
 
 
 <color white><screen right><wait no><sprite 0000302><n 0>
