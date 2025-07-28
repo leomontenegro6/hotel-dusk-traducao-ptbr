@@ -1,44 +1,29 @@
 <color white><screen left><wait no><sprite 0000102><n 0>
 
-
-
 <color white><screen right><wait no><sprite 65534FF><n 0>
-
-
 
 <color white><screen left><wait no><sprite 0000102><n 0>
 
-
-
 <color white><screen right><wait no><sprite 65534FF><n 0>
-
-
 
 <color white><screen left><wait no><sprite 0000124><n 0>
 <s 1011010>
 
-
 <color white><screen right><wait no><sprite 0001725><n 0>
 <e 28>
-
 
 !------------------------------------------------------!
 <r 000_07>
 <color white><screen right><wait no><sprite 0000221><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 00002FF><n 0>
 É ocê, Hyde?
-
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
 Aham.
 
-
 <color white><screen right><wait yes><sprite 0000204><n 0>
 Veio pagar a conta?
-
 
 <color white><screen left><wait yes><sprite 0000108><n 0>
 <color blue>... Droga. Minha grana ainda<color white>
@@ -63,50 +48,38 @@ e bate a porta.
 <color white><screen left><wait no><sprite 0000124><n 0>
 <s 1011010>
 
-
 <color white><screen right><wait no><sprite 0001725><n 0>
 <e 28>
-
 
 !------------------------------------------------------!
 <r 000_07>
 <color white><screen right><wait no><sprite 0000221><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 00002FF><n 0>
 É ocê, Hyde?
 
-
 <color white><screen left><wait yes><sprite 0000103><n 0>
 Aham.
-
 
 !------------------------------------------------------!
 <r 103_04>
 <color white><screen right><wait yes><sprite 0000204><n 0>
 <s 1012010>Veio pagar a conta?
 
-
 <color white><screen left><wait yes><sprite 0000103><n 0>
 Aham.
-
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
 Quanto?
 
-
 <color white><screen right><wait yes><sprite 0000201><n 0>
 Quarenta pratas.
-
 
 <color white><screen left><wait yes><sprite 0000121><n 0>
 Tá aqui.
 
-
 <color white><screen right><wait yes><sprite 0000203><n 0>
 Quarenta redondinho.
-
 
 <color white><screen right><wait yes><sprite 0000201><n 0>
 Ah, eu ouvi qu' ocê teve uns
@@ -115,25 +88,17 @@ contratemp's!
 <color white><screen right><wait yes><sprite 0000201><n 0>
 <color red>Me discurpa pro iss'.<color white>
 
-
 <sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
 <color blue>Desculpar pelo quê?<color white>
 
-
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
-
-
 <color white><screen right><wait no><sprite 00002FF><n 0>
-
-
 
 !------------------------------------------------------!
 <r 103_04>
 <color white><screen left><wait no><sprite 0000102><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000205><n 0>
 Vô te compensar por iss'...
@@ -159,7 +124,6 @@ uma sobremes' procê.
 <color white><screen right><wait yes><sprite 0000204><n 0>
 Ah, e mais uma coisa...
 
-
 <color white><screen right><wait yes><sprite 0000201><n 0>
 Vô trancar o escritóri' e
 vortá pro meu quart'
@@ -171,16 +135,12 @@ só vô podê resolver depois.
 <color white><screen right><wait no><sprite 00002FF><n 0>
 <e 31>
 
-
 <color white><screen right><wait no><sprite 00002FF><n 0>
 <e 49>
-
 
 !------------------------------------------------------!
 <r 103_04>
 <color white><screen left><wait no><sprite 0000102><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
 Dunning termina e então dá
@@ -191,10 +151,7 @@ meia-volta descendo corredor.
 <color white><screen left><wait yes><sprite 0000105><n 0>
 ... Aí.
 
-
 <color white><screen right><wait no><sprite 00002FF><n 0>
-
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -213,8 +170,6 @@ os cachorro em mim!
 
 <color white><screen left><wait no><sprite 0000102><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 0000209><n 0>
 Esse Louis é só encrenca
 atrás de encrenca.
@@ -234,13 +189,11 @@ da rua vai tê qu' esperá.
 <color white><screen left><wait yes><sprite 0000103><n 0>
 Que pena.
 
-
 !------------------------------------------------------!
 <r 103_04>
 <color white><screen left><wait yes><sprite 0000106><n 0>
 Do que é que você tá 
 falando?
-
 
 <color white><screen right><wait yes><sprite 0000204><n 0>
 Da tua entrega trocada!
@@ -252,10 +205,8 @@ quem te deu o errado!
 <color white><screen left><wait yes><sprite 0000107><n 0>
 Ah. Aquilo.
 
-
 <color white><screen left><wait yes><sprite 0000105><n 0>
 É, ele pisou na bola nessa.
-
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
 Se num foss' pelo aquele tal
@@ -268,14 +219,11 @@ são e salvo, né não?
 <color white><screen left><wait yes><sprite 0000107><n 0>
 Acho que sim.
 
-
 <color white><screen right><wait yes><sprite 0000210><n 0>
 Ótim'. Fic' feliz qu' tud'
 acabô bem no final.
 
 <color white><screen left><wait no><sprite 0000102><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000209><n 0>
 Esse Louis é só encrenca
@@ -296,14 +244,12 @@ da rua vai tê qu' esperá.
 <color white><screen left><wait yes><sprite 0000103><n 0>
 Que pena.
 
-
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait no><sprite 0000132><n 0>
 <s 1012010>
-
 
 <color white><screen right><wait yes><sprite 0000422><n 0>
 Opa, falaí, Oficial Hyde. Tudo
@@ -318,23 +264,17 @@ Tá se escondendo?
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
 
-
-
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait no><sprite 0000132><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 0000422><n 0>
 E aí, Oficial Hyde!
 
-
 <color white><screen left><wait yes><sprite 0000146><n 0>
 Hã?
-
 
 <color white><screen right><wait yes><sprite 0000420><n 0>
 Não me diga que tu tá
@@ -351,23 +291,17 @@ fazê vista grossa, morou?
 
 <color white><screen left><wait no><sprite 0000103><n 0>
 
-
-
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait no><sprite 0000132><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 0000319><n 0>
 Sr. Hyde!
 
-
 <color white><screen left><wait yes><sprite 0000146><n 0>
 Hã?
-
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
 Precisa de algo dentro do
@@ -376,14 +310,10 @@ escritório?
 <color white><screen left><wait yes><sprite 0000122><n 0>
 Hã, não, nada.
 
-
 <color white><screen right><wait yes><sprite 0000315><n 0>
 Bem, então tá...
 
-
 <color white><screen left><wait no><sprite 0000103><n 0>
-
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -392,10 +322,7 @@ Bem, então tá...
 <color white><screen left><wait yes><sprite 0000106><n 0>
 <m 012>O que você quer?
 
-
 <color white><screen right><wait no><sprite 0000402><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000401><n 0>
 Cê realmente tava lá dentro
@@ -405,7 +332,6 @@ escritório, mano?
 O que é que cê tava fazendo
 lá?
 
-
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
@@ -413,10 +339,7 @@ lá?
 <color white><screen left><wait yes><sprite 0000102><n 0>
 Coisas.
 
-
 <color white><screen right><wait no><sprite 0000402><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000420><n 0>
 Coisas? Que "coisas" cê tá
@@ -432,15 +355,10 @@ ver com você, Louie.
 Então, não me enche.
 <color white><screen right><wait no><sprite 0000402><n 0>
 
-
-
 <color white><screen right><wait no><sprite 0000415><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000412><n 0>
 ... É isso?
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -449,10 +367,7 @@ Então, não me enche.
 <color white><screen left><wait yes><sprite 0000105><n 0>
 O que é você tá preocupado?
 
-
 <color white><screen right><wait no><sprite 0000402><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Não, sério, mano. O que é
@@ -469,10 +384,8 @@ mim, tavam?
 <color white><screen left><wait yes><sprite 0000106><n 0>
 Sobre você?
 
-
 <color white><screen right><wait yes><sprite 0000410><n 0>
 É, mano.
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Cê sabe, papeando sobre o
@@ -489,14 +402,10 @@ mim pra ele, tava?
 <color white><screen left><wait yes><sprite 0000107><n 0>
 Eu estava.
 
-
 <color white><screen right><wait no><sprite 0000402><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 <e 42>O QUÊ?! Cê tava?!
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Ah, mano, pra quê?! Por que
@@ -512,8 +421,6 @@ tava falando sobre ti.
 
 <color white><screen right><wait no><sprite 0000402><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 0000402><n 0>
 Ufa! Graças a Deus, mano!
 
@@ -527,8 +434,6 @@ cabeção!
 <r 103_01>
 <color white><screen left><wait no><sprite 0000124><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 0000414><n 0>
 Por que é que cê foi
 abrir essa sua boca?
@@ -536,18 +441,14 @@ abrir essa sua boca?
 <color white><screen right><wait yes><sprite 0000414><n 0>
 Cê é um paspalho!
 
-
 <color white><screen right><wait yes><sprite 0000414><n 0>
 Seu palerma!
-
 
 <color white><screen right><wait no><sprite 00004FF><n 0>
 <e 12>
 
-
 <color white><screen right><wait yes><sprite 65534FF><n 0>
 Louie sai batendo o pé.
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -555,15 +456,11 @@ Louie sai batendo o pé.
 <r 103_01>
 <color white><screen left><wait no><sprite 0000102><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Oficial Hyde?
 
-
 <color white><screen left><wait yes><sprite 0000124><n 0>
 Sim?
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Cê me disse que saiu da
@@ -571,7 +468,6 @@ polícia e agora tá vendendo
 essas tralhas, né?
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Cê tava falando sério?
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -583,15 +479,11 @@ Você é um beócio, Louie.
 
 <color white><screen right><wait no><sprite 0000402><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 0000420><n 0>
 <e 42>... Não era real?
 
-
 <color white><screen right><wait yes><sprite 0000420><n 0>
 Cê tava mentindo?
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Que pulha! Cê gosta de se
@@ -604,22 +496,16 @@ Acha graça, é?
 <color white><screen left><wait yes><sprite 0000107><n 0>
 ... Sim. Falo sério.
 
-
 <color white><screen right><wait no><sprite 0000402><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Sério mesmo?
-
 
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen left><wait no><sprite 0000124><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Vai tomar banho na soda! Cê
@@ -633,11 +519,9 @@ tarraqueta!
 <color white><screen right><wait no><sprite 00004FF><n 0>
 <e 12>
 
-
 <color white><screen right><wait yes><sprite 65534FF><n 0>
 Louie sai batendo o pé no
 chão.
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -645,11 +529,8 @@ chão.
 <r 103_01>
 <color white><screen left><wait no><sprite 0000102><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Oficial Hyde?
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Vô te mandar a real, mano,
@@ -657,7 +538,6 @@ cê num tem jeito algum pra
 ser vendedor.
 <color white><screen left><wait yes><sprite 0000114><n 0>
 ...
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Então por que é que cê saiu
@@ -676,22 +556,17 @@ perder teu distintivo?
 <color white><screen left><wait yes><sprite 0000124><n 0>
 Bem...
 
-
 <color white><screen left><wait no><sprite 00001FF><n 0>
 <e 46>
-
 
 <color white><screen right><wait no><sprite 00004FF><n 0>
 <e 46>
 
-
 <color white><screen left><wait no><sprite 00001FF><n 0>
 <e 43><e 49>
 
-
 <color white><screen right><wait no><sprite 00004FF><n 0>
 <e 43><e 49>
-
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 <e 47>
@@ -706,14 +581,10 @@ Bem...
 <color white><screen left><wait no><sprite 0001706><n 0>
 <e 28><m 022>
 
-
 <color white><screen right><wait no><sprite 00101FF><n 0>
 <e 43>Hyde falando.
 
-
 <color white><screen left><wait no><sprite 00017FF><n 0>
-
-
 
 <color white><screen right><wait no><sprite 00101FF><n 0>
 Problemão, Hyde.
@@ -722,28 +593,21 @@ Problemão, Hyde.
 <color white><screen left><wait no><sprite 0001708><n 0>
 <e 28>
 
-
 <color white><screen right><wait no><sprite 00101FF><n 0>
 Mas que droga?
-
 
 !------------------------------------------------------!
 <r 0001>
 <color white><screen left><wait no><sprite 0001715><n 0>
 
-
-
 <color white><screen right><wait no><sprite 0001403><n 0>
 <e 28><s 1028010>
-
 
 <color white><screen left><wait no><sprite 00017FF><n 0>
 <e 45>
 
-
 <color white><screen right><wait no><sprite 00014FF><n 0>
 <e 45>
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -752,22 +616,16 @@ Mas que droga?
 <color white><screen left><wait no><sprite 0000124><n 0>
 <e 48><m 100>
 
-
 <color white><screen right><wait yes><sprite 0000420><n 0>
 Mas e aí?
-
 
 <color white><screen left><wait yes><sprite 00001FF><n 0>
 <m 021>Eu ferrei com o caso.
 
-
 <color white><screen right><wait no><sprite 0000420><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Ah, loucura, mano!
-
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
 Foi há a três anos. O meu
@@ -780,7 +638,6 @@ roubos de arte.
 <color white><screen right><wait yes><sprite 0000420><n 0>
 ... Roubos de arte?
 
-
 <color white><screen right><wait yes><sprite 00004FF><n 0>
 Cê tá falando daquele
 grupo?
@@ -788,23 +645,16 @@ grupo?
 <color white><screen left><wait yes><sprite 0000106><n 0>
 Já ouviu falar do Nilo?
 
-
 <color white><screen right><wait yes><sprite 0000408><n 0>
 ... Você disse<color red> "Nilo"<color white>?!
-
 
 <sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
 <color blue>Em cheio.<color white>
 
-
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
-
-
 <color white><screen right><wait no><sprite 00004FF><n 0>
-
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -812,7 +662,6 @@ Já ouviu falar do Nilo?
 <r 103_01>
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Então cê era um infiltrado?
-
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
 Não. Eu tava no precinto,  
@@ -825,10 +674,8 @@ infiltrando no Nilo?
 <color white><screen left><wait yes><sprite 0000106><n 0>
 Aham.
 
-
 <color white><screen right><wait yes><sprite 0000408><n 0>
 Ah, caraca, mano. Loucura...
-
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
 Que é que você tá balbuciando
@@ -849,8 +696,6 @@ Aham...<color red> Então é isso?<color white>
 <color blue>a falar nada com nada...<color white>
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
-
-
 !------------------------------------------------------!
 <r 103_04>
 !------------------------------------------------------!
@@ -870,10 +715,7 @@ falando?
 <color white><screen left><wait yes><sprite 0000105><n 0>
 Um momento.
 
-
 <color white><screen right><wait no><sprite 00004FF><n 0>
-
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -881,7 +723,7 @@ Um momento.
 <r 103_01>
 <color white><screen left><wait yes><sprite 0000105><n 0>
 Parece que você acabou de
-ver um fantasma, Louie. 
+ver um fantasma, Louie.
 
 <color white><screen right><wait yes><sprite 0000407><n 0>
 É claro, mano! É simplesmente
@@ -906,10 +748,7 @@ que eu sei.
 <color white><screen left><wait yes><sprite 0000105><n 0>
 Pera um segundo aí.
 
-
 <color white><screen right><wait no><sprite 0000402><n 0>
-
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -934,21 +773,17 @@ agora pouco, Louie?
 <color white><screen right><wait yes><sprite 0000410><n 0>
 Não... Não é nada não, mano.
 
-
 <color white><screen left><wait yes><sprite 0000105><n 0>
 Desembucha.
-
 
 <color white><screen right><wait yes><sprite 0000409><n 0>
 ... Eu num tenho pra te
 contar, mano!
 
-
 !------------------------------------------------------!
 <r 0000>
 <color white><screen right><wait yes><sprite 65534FF><n 0>
 LOUIIIIIIS! LOUIS DENONNO!
-
 
 !------------------------------------------------------!
 <r 103_04>
@@ -957,16 +792,13 @@ LOUIIIIIIS! LOUIS DENONNO!
 <color white><screen left><wait yes><sprite 0000124><n 0>
 ... Hã?
 
-
 <color white><screen right><wait yes><sprite 0000408><n 0>
 Ah, cacetada!
-
 
 !------------------------------------------------------!
 <r 103_R>
 <color white><screen left><wait no><sprite 0000102><n 0>
 <m 010>
-
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
 Então era aqui que você
@@ -976,7 +808,6 @@ Seu preguiçoso!
 <r 103_01>
 <color white><screen right><wait yes><sprite 0000409><n 0>
 ... Ah, mano, ela me achou.
-
 
 !------------------------------------------------------!
 <r 103_R>
@@ -991,12 +822,10 @@ as mesas, seu preguiçoso!
 <color white><screen right><wait yes><sprite 0000310><n 0>
 Já vamos abrir logo logo!
 
-
 !------------------------------------------------------!
 <r 103_01>
 <color white><screen right><wait yes><sprite 0000413><n 0>
 Eu... Eu já tava indo!
-
 
 <color white><screen right><wait yes><sprite 0000405><n 0>
 Nem venha com isso! Lá vem
@@ -1025,34 +854,25 @@ para eu não me repetir!
 <color white><screen right><wait yes><sprite 0000405><n 0>
 Tá bom. Já tô indo! Mano...
 
-
 <color white><screen right><wait no><sprite 00004FF><n 0>
 <e 12>
-
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
 Louie sai.
 
-
 <color white><screen left><wait yes><sprite 0000107><n 0>
 <m 010>... Não mudou em nada.
 
-
 <color white><screen right><wait no><sprite 0000302><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
 ... Hein? Não mudou em nada?
 
-
 <color white><screen left><wait yes><sprite 0000103><n 0>
 Isso mesmo.
 
-
 <color white><screen right><wait yes><sprite 0000311><n 0>
 <color red>... Hmm.<color white>
-
 
 <sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
@@ -1061,11 +881,7 @@ Isso mesmo.
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
-
-
 <!><color white><screen left><wait no><sprite 00001FF><n 0>
-
-
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
 Vamos lá. O que é que você
@@ -1078,7 +894,6 @@ não...
 <color white><screen left><wait yes><sprite 0000107><n 0>
 "Você não" o que?
 
-
 <color white><screen right><wait yes><sprite 0000310><n 0>
 Você não conheceria o Louis
 de algum lugar?
@@ -1086,10 +901,8 @@ de algum lugar?
 <color white><screen right><wait yes><sprite 0000310><n 0>
 Você o conhece! Não é?
 
-
 <color white><screen left><wait yes><sprite 0000122><n 0>
 Não.
-
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
 Não tente dar uma de
@@ -1101,7 +914,6 @@ conversando, sabia?
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
 Ah...
-
 
 <color white><screen right><wait yes><sprite 0000304><n 0>
 Acertei em cheio, né? E nem
@@ -1122,7 +934,6 @@ está claro como o dia!
 <color white><screen left><wait yes><sprite 0000106><n 0>
 É mesmo?
 
-
 <color white><screen left><wait yes><sprite 0000107><n 0>
 Bem, acho que isso não tem
 como esconder, né?
@@ -1134,14 +945,11 @@ conhecemos.
 <color white><screen right><wait yes><sprite 0000305><n 0>
 Arrá! Sabia!
 
-
 <color white><screen left><wait yes><sprite 0000117><n 0>
 Sim, eu conheço ele.
 
-
 <color white><screen right><wait yes><sprite 0000305><n 0>
 <e 42>Sabia. Sabia!
-
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
 I was sure I heard Louis
@@ -1153,27 +961,19 @@ imagining things. That
 wouldn't do at all.
 <color white><screen left><wait no><sprite 0000124><n 0>
 
-
-
 <color white><screen left><wait yes><sprite 0000105><n 0>
 ...Hey.
 
-
 <color white><screen right><wait no><sprite 00003FF><n 0>
-
-
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
 What're you thinking about?
 
-
 <color white><screen right><wait yes><sprite 0000306><n 0>
 About you and Louis.
 
-
 <color white><screen left><wait yes><sprite 0000106><n 0>
 Something eating you?
-
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
 Huh? What? Me? No! No, just... 
@@ -1182,10 +982,7 @@ is all.
 <color white><screen left><wait yes><sprite 0000107><n 0>
 What now?
 
-
 <color white><screen right><wait no><sprite 0000302><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000301><n 0>
 It's nothing. Really! I just
@@ -1198,7 +995,6 @@ something.
 <color white><screen left><wait yes><sprite 0000124><n 0>
 Go ahead.
 
-
 <color white><screen right><wait yes><sprite 0000301><n 0>
 Well, see... Oh, this is so 
 awkward... Well, I really
@@ -1206,10 +1002,8 @@ want to ask about...
 <color white><screen right><wait yes><sprite 0000310><n 0>
 Louis's past.
 
-
 <color white><screen left><wait yes><sprite 0000124><n 0>
 His past?
-
 
 <color white><screen right><wait yes><sprite 0000303><n 0>
 That's right! His past! You
@@ -1218,22 +1012,17 @@ before?
 <color white><screen right><wait yes><sprite 0000306><n 0>
 You knew him, right?
 
-
 <color white><screen right><wait yes><sprite 0000310><n 0>
 So you could tell me what he
 did before he started
 working here.
 <color white><screen right><wait yes><sprite 0000310><n 0>
-C'mon, talk to me! 
-
+C'mon, talk to me!
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
 Louie and me go way back.
 
-
 <color white><screen right><wait no><sprite 0000302><n 0>
-
-
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
 Met him when I was still
@@ -1250,10 +1039,8 @@ Manhattan?
 <color white><screen left><wait yes><sprite 0000107><n 0>
 Picking pockets.
 
-
 <color white><screen right><wait yes><sprite 0000307><n 0>
 WHAT?!
-
 
 <color white><screen right><wait yes><sprite 0000308><n 0>
 What did you say? He was
@@ -1261,19 +1048,16 @@ a pickpocket? He stole
 things? Good lord!
 <color white><screen right><wait yes><sprite 0000310><n 0>
 Are you telling me the
-truth? 
+truth?
 
 <color white><screen left><wait yes><sprite 0000114><n 0>
 Yep.
 
-
 <color white><screen right><wait yes><sprite 0000313><n 0>
 Lord have mercy!
 
-
 <color white><screen left><wait yes><sprite 0000122><n 0>
 Don't worry.
-
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
 That was three years ago.
@@ -1298,22 +1082,16 @@ he can't fool Rosa!
 <color white><screen left><wait yes><sprite 0000106><n 0>
 You're wrong. Louie's...
 
-
 <color white><screen left><wait yes><sprite 0000117><n 0>
 His past?
 
-
 <color white><screen right><wait no><sprite 0000302><n 0>
-
-
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
 Why?
 
-
 <color white><screen right><wait yes><sprite 0000313><n 0>
 Well, it's obvious, isn't it?!
-
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
 He's hiding something, I just
@@ -1346,7 +1124,6 @@ my mop on it!
 <color white><screen left><wait yes><sprite 0000117><n 0>
 Define "terrible."
 
-
 <color white><screen right><wait yes><sprite 0000315><n 0>
 You know! A criminal record,
 or an ex-wife, or running
@@ -1354,39 +1131,28 @@ from the law or something.
 <color white><screen right><wait yes><sprite 00003FF><n 0>
 I mean, he's just so<color red> shifty<color white>!
 
-
 <sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
 <color blue>...Shifty?<color white>
 
-
 <color white><screen left><wait no><sprite 00001FF><n 0>
-
-
 
 <!><color white><screen right><wait yes><sprite 0000306><n 0>
 Well?
 
-
 <!><color white><screen left><wait yes><sprite 0000114><n 0>
 I don't know, lady.
-
 
 <!><color white><screen right><wait yes><sprite 0000315><n 0>
 <e 42>WELL?
 
-
 <color white><screen left><wait yes><sprite 0000105><n 0>
 Got a second?
 
-
 <color white><screen right><wait no><sprite 00003FF><n 0>
-
-
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
 You think he's shifty?
-
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
 Oh, no doubt about it. Rosa
@@ -1399,14 +1165,12 @@ record for sure! No doubt!
 <color white><screen left><wait yes><sprite 0000110><n 0>
 Huh?
 
-
 <color white><screen right><wait yes><sprite 0000307><n 0>
 What's wrong with you? Why
 do you look so surprised?
 
 <color white><screen left><wait yes><sprite 0000116><n 0>
 What's wrong with YOU?!
-
 
 <color white><screen right><wait yes><sprite 00003FF><n 0>
 ...What? What're you talking
@@ -1415,14 +1179,12 @@ about?
 <color white><screen left><wait yes><sprite 0000116><n 0>
 A woman of your statureµ
 
-
 <color white><screen right><wait yes><sprite 00003FF><n 0>
 What's THAT supposed to
 mean?!
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
 You heard me.
-
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
 C'mon. You're a mature
@@ -1446,7 +1208,6 @@ Mr. Hyde? Am I wrong?
 Is that it? I'm wrong?
 <color white><screen left><wait yes><sprite 0000103><n 0>
 You're wrong.
-
 
 <color white><screen left><wait yes><sprite 0000122><n 0>
 Look, Louie's a nice guy,
@@ -1475,14 +1236,11 @@ your time.
 <color white><screen left><wait yes><sprite 0000109><n 0>
 ...Hmph... Hmmmph...
 
-
 <color white><screen left><wait yes><sprite 0000113><n 0>
 Ha ha! HAAAAA HA HA HA!
 
-
 <color white><screen right><wait yes><sprite 0000307><n 0>
 Whaµ?!
-
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
 What are you laughing at?
@@ -1495,14 +1253,12 @@ said that.
 <color white><screen right><wait yes><sprite 0000302><n 0>
 And why not?
 
-
 <color white><screen left><wait yes><sprite 0000117><n 0>
 You're wrong. In fact, you're 
 so wrong it's funny.
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
 Oh, I'm wrong, am I?
-
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
 Yeah. I know, first time for
@@ -1517,8 +1273,6 @@ But let me tell you about
 our pal Louie...
 
 <color white><screen right><wait no><sprite 0000303><n 0>
-
-
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
 Guy worked in a back alley
@@ -1551,22 +1305,16 @@ your time.
 <color white><screen left><wait yes><sprite 0000105><n 0>
 Got a minute?
 
-
 <color white><screen right><wait yes><sprite 0000302><n 0>
 What is it?
 
-
 <color white><screen left><wait no><sprite 0000102><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000304><n 0>
 Is that it?
 
-
 <color white><screen left><wait yes><sprite 0000103><n 0>
 Yeah.
-
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
 The date December 5th
@@ -1574,11 +1322,8 @@ mean anything to you?
 
 <color white><screen right><wait no><sprite 0000302><n 0>
 
-
-
 <color white><screen right><wait yes><sprite 0000306><n 0>
 December 5th?
-
 
 <color white><screen right><wait yes><sprite 0000311><n 0>
 Hmmm... Lemme think on
@@ -1595,22 +1340,16 @@ is October 8th...
 <color white><screen right><wait yes><sprite 0000313><n 0>
 Sorry! Doesn't ring a bell.
 
-
 <color white><screen left><wait yes><sprite 0000102><n 0>
 ...That so?
-
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
 Who's Jenny?
 
-
 <color white><screen right><wait no><sprite 0000302><n 0>
-
-
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
 Jenny?
-
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
 I don't know anyone named
@@ -1619,10 +1358,8 @@ Jenny.
 <color white><screen left><wait yes><sprite 0000304><n 0>
 What're you writing?
 
-
 <color white><screen left><wait yes><sprite 0000304><n 0>
 What're you looking at?
-
 
 <color white><screen right><wait yes><sprite 0000304><n 0>
 Well, I've got to get a move
@@ -1631,25 +1368,18 @@ know! Busy, busy, busy...
 <color white><screen right><wait no><sprite 00003FF><n 0>
 <e 12>
 
-
 <color white><screen right><wait yes><sprite 65534FF><n 0>
 Rosa finishes talking and
 scurries away.
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
 
-
-
 <color white><screen left><wait yes><sprite 0000124><n 0>
 <s 1035010>...My pager.
-
 
 <b 0166>
 <color white><screen left><wait no><sprite 0000119><n 0>
 <s 1035011>
 
-
 <color white><screen left><wait yes><sprite 0000114><n 0>
 I gotta give Rachel a call.
-
-
