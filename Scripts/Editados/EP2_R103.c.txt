@@ -952,399 +952,403 @@ Sim, eu conheço ele.
 <e 42>Sabia. Sabia!
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-I was sure I heard Louis
-call you "Officer Hyde."
+Eu tava corretíssima de que
+o Louis te chamou de 
+"Oficial Hyde"
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-Good to know I wasn't just
-imagining things. That
-wouldn't do at all.
+Bom saber que eu não estava
+imaginando coisas. Bom
+saber mesmo.
 <color white><screen left><wait no><sprite 0000124><n 0>
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-...Hey.
+... Ei.
 
 <color white><screen right><wait no><sprite 00003FF><n 0>
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-What're you thinking about?
+No que você tava pensando?
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-About you and Louis.
+Sobre você e o Louis.
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-Something eating you?
+Tá com uma pulga atrás da
+orelha?
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-Huh? What? Me? No! No, just... 
-thinking about you and Louis
-is all.
+Hã? Quê? Eu? Não! Não, só
+tava... pensando em você e
+no Louis. Só isso mesmo.
 <color white><screen left><wait yes><sprite 0000107><n 0>
-What now?
+O que é dessa vez?
 
 <color white><screen right><wait no><sprite 0000302><n 0>
 
 <color white><screen right><wait yes><sprite 0000301><n 0>
-It's nothing. Really! I just
-thought if you and Louis
-knew each other...
+É nada. Sério! Eu só estava
+pensando que se você e o
+Louis já se conhecem...
 <color white><screen right><wait yes><sprite 0000304><n 0>
-I thought I could ask you
-something.
+Pensei que eu podia te
+perguntar a mesma coisa.
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-Go ahead.
+Vai em frente.
 
 <color white><screen right><wait yes><sprite 0000301><n 0>
-Well, see... Oh, this is so 
-awkward... Well, I really
-want to ask about...
+Vejamos... Ah, isto é muito
+estranho... Bem, eu realmente
+queria te perguntar sobre...
 <color white><screen right><wait yes><sprite 0000310><n 0>
-Louis's past.
+O passado do Louis.
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-His past?
+O passado dele?
 
 <color white><screen right><wait yes><sprite 0000303><n 0>
-That's right! His past! You
-know, what he was like
-before?
+Isso mesmo! O passado dele!
+Sabe, como ele era
+antigamente?
 <color white><screen right><wait yes><sprite 0000306><n 0>
-You knew him, right?
+Você o conhecia, né?
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-So you could tell me what he
-did before he started
-working here.
+Então você poderia me contar
+o que ele fazia antes dele
+trabalhar aqui.
 <color white><screen right><wait yes><sprite 0000310><n 0>
-C'mon, talk to me!
+Vamos lá, fale pra mim!
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Louie and me go way back.
+Louie e eu temos uma história.
 
 <color white><screen right><wait no><sprite 0000302><n 0>
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Met him when I was still
-living in the city. In
-Manhattan.
+O conheci quando eu ainda
+tava vivendo na cidade.
+Em Manhattan.
 <color white><screen right><wait yes><sprite 0000313><n 0>
-<e 42>Manhattan? Louis? Pshaw!
-Stop pulling my leg!
+<e 42>Manhattan? Louis? Carambolas!
+Mas que bafafá!
 
 <color white><screen right><wait yes><sprite 0000301><n 0>
-What was Louis doing in
-Manhattan?
+O que o Louis fazia quando
+estava em Manhattan?
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Picking pockets.
+Batendo carteiras.
 
 <color white><screen right><wait yes><sprite 0000307><n 0>
-WHAT?!
+É O QUÊ?!
 
 <color white><screen right><wait yes><sprite 0000308><n 0>
-What did you say? He was
-a pickpocket? He stole
-things? Good lord!
+O que foi que disse? Que ele
+batia carteiras? Ele furtava
+coisa? Jesus amado!
 <color white><screen right><wait yes><sprite 0000310><n 0>
-Are you telling me the
-truth?
+Você tá me dizendo a
+verdade?
 
 <color white><screen left><wait yes><sprite 0000114><n 0>
-Yep.
+Aham.
 
 <color white><screen right><wait yes><sprite 0000313><n 0>
-Lord have mercy!
+Misericórdia!
 
 <color white><screen left><wait yes><sprite 0000122><n 0>
-Don't worry.
-
+Não esquenta.
 <color white><screen left><wait yes><sprite 0000106><n 0>
-That was three years ago.
-Louie's crime days are
-behind him.
+Isso foi há três anos. Os
+crimes dele já são coisas
+do passado.
 <color white><screen left><wait yes><sprite 0000105><n 0>
-He's a new man now.
-Working hard andµ
+Ele é um homem novo, agora.
+Trabalhando duro eµ
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-Oh, I just knew it! I was
-right all along, I was!
+Ah, sabia! Eu tava certa todo
+esse tempo! Sim, isso mesmo!
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-I could tell he wasn't an
-honest kid. That punk! That
-lazy, no-good punk!
+Podia jurar que ele não era
+íntegro. Aquele salafrário!
+Preguiçoso e nada confiável!
 <color white><screen right><wait yes><sprite 0000303><n 0>
-He can't fool Rosa! He might
-fool that fool Dunning, but
-he can't fool Rosa!
+Rosa é à prova de mentiras!
+Ele pôde ter enganado o
+paspalho Dunning. Eu não!
 <color white><screen left><wait yes><sprite 0000106><n 0>
-You're wrong. Louie's...
+Você tá errada. O Louie...
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-His past?
+O passado dele?
 
 <color white><screen right><wait no><sprite 0000302><n 0>
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Why?
+Por quê?
 
 <color white><screen right><wait yes><sprite 0000313><n 0>
-Well, it's obvious, isn't it?!
+Bem, é óbvio, não?!
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-He's hiding something, I just
-know it!
+Ele tá escondendo algo,
+aposto todas minhas fichas!
 
 <color white><screen left><wait yes><sprite 0000106><n 0>
-Hiding something? What do
-you mean?
+Escondendo algo? O que você
+quer dizer com isso?
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-It's been almost three years
-since Louis started working
-here.
+Já fez quase três anos que
+Louis começou a trabalhar
+aqui.
 <color white><screen right><wait yes><sprite 0000310><n 0>
-And in all that time, he's
-never once talked about his
-past. Not ONCE.
+E todo esse tempo, ele
+nunca falou do seu passado.
+Nenhum ÚNICO PIO.
 <color white><screen right><wait yes><sprite 0000304><n 0>
-He's hiding something. I can
-smell it! Always can!
+Ele tá escondendo algo. Eu
+tenho certeza! 
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Oh yeah? So what's he
-hiding?
+Ah, é mesmo é? Então o que
+ele tá escondendo?
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-Something terrible! I'd stake
-my mop on it!
+Algo horrível! Eu juro pelo
+meu esfregão!
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Define "terrible."
+Defina "horrível."
 
 <color white><screen right><wait yes><sprite 0000315><n 0>
-You know! A criminal record,
-or an ex-wife, or running
-from the law or something.
+Você sabe! Ficha criminal,
+uma ex-esposa, ou fugindo
+da lei. Algo assim.
 <color white><screen right><wait yes><sprite 00003FF><n 0>
-I mean, he's just so<color red> shifty<color white>!
+Digo, ele<color red> não é boa-pinta<color white>!
 
 <sprite 0000124><color red>I<color white>
 <color white><screen left><wait yes><sprite 00001FF><n 0>
-<color blue>...Shifty?<color white>
+<color blue>... Não é boa-pinta?<color white>
 
 <color white><screen left><wait no><sprite 00001FF><n 0>
 
 <!><color white><screen right><wait yes><sprite 0000306><n 0>
-Well?
+Então?
 
 <!><color white><screen left><wait yes><sprite 0000114><n 0>
-I don't know, lady.
+Sei de nada, senhora.
 
 <!><color white><screen right><wait yes><sprite 0000315><n 0>
-<e 42>WELL?
+<e 42>ENTÃO?
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Got a second?
+Tem um segundo?
 
 <color white><screen right><wait no><sprite 00003FF><n 0>
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-You think he's shifty?
+Você acha que ele não é
+boa-pinta?
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-Oh, no doubt about it. Rosa
-has a nose for these
-things!
+Ah, sem dúvidas. Rosa tem um
+faro muito apurado para
+essas coisa!
 <color white><screen right><wait yes><sprite 0000310><n 0>
-That boy's got a criminal
-record for sure! No doubt!
+Aquele rapazola tem uma
+ficha criminal! Pode apostar!
 
 <color white><screen left><wait yes><sprite 0000110><n 0>
-Huh?
+Hã?
 
 <color white><screen right><wait yes><sprite 0000307><n 0>
-What's wrong with you? Why
-do you look so surprised?
+Qual é o teu problema?
+Por que tá tão surpreso?
 
 <color white><screen left><wait yes><sprite 0000116><n 0>
-What's wrong with YOU?!
+Qual é o TEU problema?!
 
 <color white><screen right><wait yes><sprite 00003FF><n 0>
-...What? What're you talking
-about?
+... Quê? Do que você tá
+falando?
 
 <color white><screen left><wait yes><sprite 0000116><n 0>
-A woman of your statureµ
+Uma mulher como vocêµ
 
 <color white><screen right><wait yes><sprite 00003FF><n 0>
-What's THAT supposed to
-mean?!
+O que ISSO quer dizer?!
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-You heard me.
+Você me ouviu.
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-C'mon. You're a mature
-woman, right? Good judge
-of character?
+Vamo lá. Você é uma mulher
+madura, né? Como alguém
+bem íntegra?
 <color white><screen right><wait yes><sprite 0000305><n 0>
-As a matter of fact, yes. 
-I am. What's that got to do
-with the price of tea?
+Para título de informação,
+sim. Eu sou. O que isso
+sequer tem a ver?
 <color white><screen left><wait yes><sprite 0000117><n 0>
-It's just that when a woman
-like you says a guy like 
-Louie is a criminal...
+É só que quando uma mulher
+como você diz que um cara
+como Louie é um criminoso...
 <color white><screen left><wait yes><sprite 0000117><n 0>
-It's a bit surprising, is all.
-I expected more from you.
+É um tanto surpreendente,
+só isso. Eu esperava mais
+de você.
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-What on earth do you mean,
-Mr. Hyde? Am I wrong?
-Is that it? I'm wrong?
+Que diacho você quer dizer,
+Sr. Hyde? Que tô errada?
+É isso?
 <color white><screen left><wait yes><sprite 0000103><n 0>
-You're wrong.
+Você tá errada.
 
 <color white><screen left><wait yes><sprite 0000122><n 0>
-Look, Louie's a nice guy,
-but he's a dope. Not a
-crook.
+Olha, Louie é um cara legal,
+mas ele é um patego. Não
+um deliquente.
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Sure, he's a slacker who
-plays the angles, but he's
-not out to hurt people.
+Claro, ele é um folgado que
+fica cabulando no serviço,
+mas não é de má índole.
 <color white><screen left><wait yes><sprite 0000117><n 0>
-He's just a small-time guy
-who worked a greasy pizza
-joint in the East Village.
+Ele é só um cara qualquer
+que trabalhava numa dessas
+lanchonetes em East Village.
 <color white><screen left><wait yes><sprite 0000117><n 0>
-And he hasn't changed a bit.
-Just doing what he needs
-to do to skate by.
+E ele não mudou nadinha. É
+só que ele faz as coisas
+no jeito mais difícil.
 <color white><screen right><wait yes><sprite 0000313><n 0>
-Really? So that's it? Well, I
-never suspected...
+Mesmo? Então é isso? Bem,
+eu nunca suspeitei...
 
 <color white><screen right><wait yes><sprite 0000312><n 0>
-I'm... I'm sorry for wasting
-your time.
+Me... desculpa por ter tomado
+do seu tempo.
 
 <color white><screen left><wait yes><sprite 0000109><n 0>
-...Hmph... Hmmmph...
+... Hunf... Huuunf...
 
 <color white><screen left><wait yes><sprite 0000113><n 0>
 Ha ha! HAAAAA HA HA HA!
 
 <color white><screen right><wait yes><sprite 0000307><n 0>
-Whaµ?!
+Quµ?!
 
 <color white><screen right><wait yes><sprite 0000310><n 0>
-What are you laughing at?
-This is serious!
+Por que tá rindo? Isso aqui
+é serio!
 
 <color white><screen left><wait yes><sprite 0000109><n 0>
-Sorry! Sorry... It's just...
-I can't believe you just
-said that.
+Foi mal! Foi mal... É só que...
+não consigo acreditar que
+você disse isso.
 <color white><screen right><wait yes><sprite 0000302><n 0>
-And why not?
+E por que não?
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-You're wrong. In fact, you're 
-so wrong it's funny.
+Você tá errada. Na real, você
+tá tão errada que é hilário!
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-Oh, I'm wrong, am I?
+Ah, então eu tô errada, é?
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-Yeah. I know, first time for
-everything, right?
+Aham. Eu sei, primeira vez
+pra tudo, né?
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Listen, you're right about
-one thing, I did know Louie.
+Escuta, uma coisa você tava
+certa: eu conhecia o Louie.
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-But let me tell you about
-our pal Louie...
+Mas deixa eu te contar sobre
+o nosso Louie...
 
 <color white><screen right><wait no><sprite 0000303><n 0>
 
 <color white><screen left><wait yes><sprite 0000107><n 0>
-Guy worked in a back alley
-jewelry shop in the East
-Village.
+O cara trabalhava numa
+dessas joalheirias quaisquer
+lá em East Village.
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Tiny store, sold nothing but
-crap. Nobody ever shopped
-there.
+Joalheria minúscula, vendiam
+droga nenhuma, só besteira.
+Ninguém comprava lá.
 <color white><screen right><wait yes><sprite 0000311><n 0>
-He worked in a jewelry
-shop?
+Então ele trabalhava numa
+joalheria?
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-Yeah. Look, there's no way 
-Louie was ever a criminal.
+Aham. Olha, não tem a menor
+chance dele ter sido um
+criminoso.
 
 <color white><screen left><wait yes><sprite 0000117><n 0>
-He's a professional slacker.
-He doesn't have the stones
-to be a crook.
+Ele é um preguiçoso profissa.
+Ele não tem o que é preciso
+pra ser um delinquente.
 <color white><screen right><wait yes><sprite 0000313><n 0>
-Truly? That's his story?
-Well, I'll be...
+Realmente? É essa a história
+dele? Bem, então eu...
 
 <color white><screen right><wait yes><sprite 0000312><n 0>
-I'm... I'm sorry for wasting
-your time.
+Me... Me desculpa por ter
+tomado do seu tempo.
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Got a minute?
+Tem um minuto?
 
 <color white><screen right><wait yes><sprite 0000302><n 0>
-What is it?
+O que é?
 
 <color white><screen left><wait no><sprite 0000102><n 0>
 
 <color white><screen right><wait yes><sprite 0000304><n 0>
-Is that it?
+É isso?
 
 <color white><screen left><wait yes><sprite 0000103><n 0>
-Yeah.
+Aham.
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-The date December 5th
-mean anything to you?
+A data 5 de dezembro
+significa algo pra você?
 
 <color white><screen right><wait no><sprite 0000302><n 0>
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-December 5th?
+5 de dezembro?
 
 <color white><screen right><wait yes><sprite 0000311><n 0>
-Hmmm... Lemme think on
-that for a sec...
-December 5th...
+Hmmm... Deixa eu pensar
+um pouquinho...
+5 de dezembro...
 <color white><screen right><wait yes><sprite 0000311><n 0>
-Well, my birthday's June
-30th!
+Bem, o meu aniversário é
+em 30 de junho!
 
 <color white><screen right><wait yes><sprite 0000311><n 0>
-And I'm pretty sure Dunning's 
-is October 8th...
+E tenho quase certeza de
+que o Dunning é 8 de
+outubro...
 
 <color white><screen right><wait yes><sprite 0000313><n 0>
-Sorry! Doesn't ring a bell.
+Desculpa! Não faço ideia.
 
 <color white><screen left><wait yes><sprite 0000102><n 0>
-...That so?
+... É mesmo?
 
 <color white><screen left><wait yes><sprite 0000105><n 0>
-Who's Jenny?
+Quem é Jenny?
 
 <color white><screen right><wait no><sprite 0000302><n 0>
 
@@ -1352,34 +1356,35 @@ Who's Jenny?
 Jenny?
 
 <color white><screen right><wait yes><sprite 0000306><n 0>
-I don't know anyone named
-Jenny.
+Eu não conheço ninguém
+com esse nome.
 
 <color white><screen left><wait yes><sprite 0000304><n 0>
-What're you writing?
+O que você tá escrevendo?
 
 <color white><screen left><wait yes><sprite 0000304><n 0>
-What're you looking at?
+No que você tá olhando?
 
 <color white><screen right><wait yes><sprite 0000304><n 0>
-Well, I've got to get a move
-on. Dinner won't wait, you
-know! Busy, busy, busy...
+Bem, eu tenho que ir. A janta
+não pode esperar, sabe?
+Ocupada, ocupadíssima...
 <color white><screen right><wait no><sprite 00003FF><n 0>
 <e 12>
 
 <color white><screen right><wait yes><sprite 65534FF><n 0>
-Rosa finishes talking and
-scurries away.
+Rosa termina de falar e
+segue teu rumo.
 
 <color white><screen right><wait no><sprite 65534FF><n 0>
 
 <color white><screen left><wait yes><sprite 0000124><n 0>
-<s 1035010>...My pager.
+<s 1035010>... Meu pager.
 
 <b 0166>
 <color white><screen left><wait no><sprite 0000119><n 0>
 <s 1035011>
 
 <color white><screen left><wait yes><sprite 0000114><n 0>
-I gotta give Rachel a call.
+Tenho que dá um toque para
+a Rachel.
